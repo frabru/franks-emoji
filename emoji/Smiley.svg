@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="100%" height="100%" viewBox="-22 -22 44 44" onload="start=window.setTimeout('animateIt()', 500)">
+ <defs><path id="textpath" d="M0 21A21 21 0 0 0 0 -21"/></defs>
+ <circle cx="0" cy="0" r="19" fill="yellow" stroke="black" stroke-width="2" />
+ <g>
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite" onbegin="window.clearTimeout(start)" />
+  <circle id="eye1" transform="rotate(0)" cx="6" cy="-5" r="2" fill="black" />
+  <circle id="eye2" transform="rotate(0)" cx="-6" cy="-5" r="2" fill="black" />
+ </g>
+ <path id="smile" transform="rotate(0)" d="M9.79496354247987671238596850631803 5.655124837953327197064861367875A11.310249675906 11.310249675906 0 0 1 -9.79496354247987671238596850631803 5.655124837953327197064861367875" fill="none" stroke="black" stroke-width="3">
+  <animateTransform id="smilerotate" attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="11s" repeatCount="indefinite" />
+ </path>
+ <text id="text" transform="rotate(0)" font-size="1" font-family="Verdana,Arial,sans-serif">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite" />
+  <textPath xlink:href="#textpath">if you feel sad and just put on a smile, you're a liar!</textPath>
+ </text>
+ <script><![CDATA[
+  try{
+  var rm=document.getElementById("smile").transform.baseVal.getItem(0);
+  var ri=document.getElementById("eye1").transform.baseVal.getItem(0);
+  var rj=document.getElementById("eye2").transform.baseVal.getItem(0);
+  var rt=document.getElementById("text").transform.baseVal.getItem(0);
+  var dt=40;
+  var dw1=dt*360/11000;
+  var dw2=-dt*360/12000;
+  var dw3=dt*360/40000;
+  var w1=0;
+  var w2=0;
+  var w3=0;
+  function animateIt(){
+   window.setInterval("step()", dt);
+   window.setInterval("noOverflow()", 60000);
+  }
+  function step() {
+   rm.setRotate((w1+=dw1), 0, 0);
+   ri.setRotate((w2+=dw2), 0, 0);
+   rj.setRotate(w2, 0, 0);
+   rt.setRotate((w3+=dw3), 0, 0);
+  }
+  function noOverflow() {
+   w1=w1%360;
+   w2=w2%360;
+   w3=w3%360;
+  }
+  } catch(e) {
+  function animateIt() {}
+  }
+ ]]></script>
+ <!-- sqrt(61)+2 = 9.8102496759066543941297227357591 -->
+ <!-- 11.3102496759066543941297227357591 -->
+ <!-- 9.79496354247987671238596850631803 5.655124837953327197064861367875 -->
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+ <title>Smiling face with open mouth</title>
+ <metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+   <rdf:Description rdf:about="">
+    <dc:creator>
+     <rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+      <dc:title>Frank Bruder</dc:title>
+     </rdf:Description>
+    </dc:creator>
+    <xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+   </rdf:Description>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="0" cy="0" r="19" fill="#efff00" stroke="black" stroke-width="2"/>
+ <circle cx="6" cy="-5" r="2" fill="black"/>
+ <circle cx="-6" cy="-5" r="2" fill="black"/>
+ <g>
+   <path d="M11.310249675906 2A11.310249675906 11.310249675906 0 0 1 -11.310249675906 2Q0 3 11.310249675906 2z" fill="#812" stroke="none"/>
+   <path d="m0 12c2 0 5 -1 5 -3s-3 -1 -5 -1s-5 -1 -5 1s3 3 5 3z" fill="#c56"/>
+   <path d="m-11 5q4 1 11 1t11 -1l1 -3h-24z" fill="#fff"/>
+   <path d="m0.5 3l-0.5 2l-0.2 -2z" fill="#eed"/>
+   <path d="m6 2.5l-0.5 2l-0.3 -2z" fill="#eed"/>
+   <path d="M11.310249675906 2A11.310249675906 11.310249675906 0 0 1 -11.310249675906 2Q0 3 11.310249675906 2z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+ </g>
+</svg>
