@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 272">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
  <title xml:lang="hu">A Magyarország zászlaja</title>
  <metadata>
   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
@@ -17,6 +17,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
+ <path fill="#c0c0c0" d="M-10 21q110 -27 220 0t220 0v230q-110 27 -220 0t-220 0z"/>
  <path fill="#cd2a3e" d="M0  31q105 -27 210 0t210 0v70l-105 50h-210l-105 -50z"/>
  <path fill="#ffffff" d="M0 101q105 -27 210 0t210 0v70l-105 50h-210l-105 -50z"/>
  <path fill="#436f4d" d="M0 171q105 -27 210 0t210 0v70q-105 27 -210 0t-210 0z"/>
