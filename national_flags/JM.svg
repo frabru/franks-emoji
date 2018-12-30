@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 272">
+ <title xml:lang="en">Flag of Jamaica</title>
+ <metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+   <cc:Work rdf:about="">
+    <dc:title xml:lang="en">Flag of Jamaica</dc:title>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:creator>
+     <dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+      <dc:title>Frank Bruder</dc:title>
+     </dc:Agent>
+    </dc:creator>
+    <voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- M0,0 Q 20,5.88 40,9.52 Q 125,24.99 210,0 -->
+
+ <path fill="#009b3a" d="M 40  21.48q 85 -15.47  170  9.52t 170  9.52l 20  10l-190  85.48l-190 -104.52z"/>
+ <path fill="#009b3a" d="M380 250.52q-85  15.47 -170 -9.52t-170 -9.52l-20 -10l 190 -85.48l 190  104.52z"/>
+
+ <path fill="#000000" d="M420 221l-20  10l-190 -95l 190 -95l 20  10z"/>
+ <path fill="#000000" d="M  0  51l 20 -10l 190  95l-190  95l-20 -10z"/>
+ <path fill="#fed100" d="M0 31q20 -5.88 40 -9.52q85 27.03 170 94.52q85 -17.51 170 -75.48q20 -3.64 40 -9.52v20q-85 67.49 -170 94.52q85 57.97 170 75.48v20q-20 5.88 -40 9.52q-85 -27.03 -170 -94.52q-85 17.51 -170 75.48q-20 3.64 -40 9.52v-20q85 -67.49 170 -94.52q-85 -57.97 -170 -75.48z"/>
+
+</svg>
