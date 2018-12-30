@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 272">
+ <title xml:lang="cs">Státní vlajka České republiky</title>
+ <metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+   <cc:Work rdf:about="">
+    <dc:title xml:lang="cs">Státní vlajka České republiky</dc:title>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:creator>
+     <dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+      <dc:title>Frank Bruder</dc:title>
+     </dc:Agent>
+    </dc:creator>
+    <voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path fill="#ffffff" d="M30  16q90 -27 180 0t180 0v120l-90 50h-180l0 -120z"/>
+ <path fill="#d7141a" d="M30 256l30 -120h150q90 27 180 0v120q-90 27 -180 0t-180 0z"/>
+ <path fill="#11457e" d="M30  16q90 33 180 120q-90 33 -180 120z"/>
+</svg>
