@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
- <title xml:lang="rom">O styago le romengo</title>
- <metadata>
-  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
-   <cc:Work rdf:about="">
-    <dc:title xml:lang="rom">O styago le romengo</dc:title>
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:creator>
-     <dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
-      <dc:title>Frank Bruder</dc:title>
-     </dc:Agent>
-    </dc:creator>
-    <voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-    <voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
- <path fill="#4189dd" d="M30  16q90 -27 180 0t180 0v120l-90 50h-180l-90 -50z"/>
- <path fill="#00a651" d="M30 136q90 -27 180 0t180 0v120q-90 27 -180 0t-180 0z"/>
- <g transform="translate(210 136) matrix(1 0.18 0 1 0 0)">
-	 <circle fill="#ed1c24" r="80"/>
-	 <path transform="rotate(11.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate( 33.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate( 56.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate( 78.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(101.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(123.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(146.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(168.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(191.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(213.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(236.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(258.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(281.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(303.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(326.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
-	 <path transform="rotate(348.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
- </g>
+	<title xml:lang="rom">O styago le romengo</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="rom">O styago le romengo</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#4189dd" d="M30  16q90 -27 180 0t180 0v120l-90 50h-180l-90 -50z"/>
+	<path fill="#00a651" d="M30 136q90 -27 180 0t180 0v120q-90 27 -180 0t-180 0z"/>
+	<g transform="translate(210 136) matrix(1 0.18 0 1 0 0)">
+		<circle fill="#ed1c24" r="80"/>
+		<path transform="rotate(11.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate( 33.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate( 56.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate( 78.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(101.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(123.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(146.25)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(168.75)" fill="#00a651" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(191.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(213.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(236.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(258.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(281.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(303.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(326.25)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+		<path transform="rotate(348.75)" fill="#4189dd" d="M27 -3q-7 1 -7 3t7 3l35 5c7 1 12 -1 12 -8s-5 -9 -12 -8z"/>
+	</g>
 </svg>

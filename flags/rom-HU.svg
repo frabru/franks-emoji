@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
- <title xml:lang="rom">O styago le romengo</title>
- <metadata>
-  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
-   <cc:Work rdf:about="">
-    <dc:title xml:lang="rom">O styago le romengo</dc:title>
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:creator>
-     <dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
-      <dc:title>Frank Bruder</dc:title>
-     </dc:Agent>
-    </dc:creator>
-    <voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-    <voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
- <path fill="#4189dd" d="M30  16q90 -27 180 0t180 0v120l-90 50h-180l-90 -50z"/>
- <path fill="#00a651" d="M30 136q90 -27 180 0t180 0v120q-90 27 -180 0t-180 0z"/>
- <g transform="translate(210 136) matrix(1 0.18 0 1 0 0)">
-	 <path fill="#ed1c24" d="M80 0a80 80 0 0 1 -160 0a80 80 0 1 1 160 0zM65 0a65 65 0 1 0 -130 0a65 65 0 0 0 130 0zM15 0a15 15 0 0 1 -30 0a15 15 0 1 1 30 0zM9 0a9 9 0 1 0 -18 0a9 9 0 0 0 18 0zM5 0a5 5 0 0 1 -10 0a5 5 0 1 1 10 0z"/>
-	 <path fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate( 45)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate( 90)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate(135)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate(180)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate(225)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate(270)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
-	 <path transform="rotate(315)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
- </g>
+	<title xml:lang="rom">O styago le romengo</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="rom">O styago le romengo</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#4189dd" d="M30  16q90 -27 180 0t180 0v120l-90 50h-180l-90 -50z"/>
+	<path fill="#00a651" d="M30 136q90 -27 180 0t180 0v120q-90 27 -180 0t-180 0z"/>
+	<g transform="translate(210 136) matrix(1 0.18 0 1 0 0)">
+		<path fill="#ed1c24" d="M80 0a80 80 0 0 1 -160 0a80 80 0 1 1 160 0zM65 0a65 65 0 1 0 -130 0a65 65 0 0 0 130 0zM15 0a15 15 0 0 1 -30 0a15 15 0 1 1 30 0zM9 0a9 9 0 1 0 -18 0a9 9 0 0 0 18 0zM5 0a5 5 0 0 1 -10 0a5 5 0 1 1 10 0z"/>
+		<path fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate( 45)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate( 90)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate(135)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate(180)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate(225)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate(270)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+		<path transform="rotate(315)" fill="#ed1c24" d="M12 -3q30 -8 60 0v6q-30 8 -60 0z"/>
+	</g>
 </svg>

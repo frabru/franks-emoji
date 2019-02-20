@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
- <title>Sleepy face</title>
- <metadata>
-  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-   <rdf:Description rdf:about="">
-    <dc:creator>
-     <rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
-      <dc:title>Frank Bruder</dc:title>
-     </rdf:Description>
-    </dc:creator>
-    <xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-   </rdf:Description>
-  </rdf:RDF>
- </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
- <path d="m3 -1q4 2 8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
- <path d="m-3 -1q-4 2 -8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
- <path d="m-12 -6l6 -2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
- <path d="m12 -6l-6 -2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
- <g>
-  <path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="#812" stroke="none"/>
-  <path d="M-3 11c-2 -2 1 -4 3 -4s5 2 3 4z" fill="#c56"/>
-  <path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
- </g>
- <path transform="translate(1 2) rotate(-5)" d="m0 0c6 2 8 0 11 0s5 2 5 5s-2 5 -5 5s-5 -2 -11 -10z" fill="#efd" stroke="#000" stroke-width="1" stroke-linejoin="round"/>
- <ellipse transform="translate(11 4) rotate(-7)" cx="0" cy="0" rx="2" ry="1.5" fill="#fff" stroke="none"/>
+	<title>Sleepy face</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+	<path d="m3 -1q4 2 8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="m-3 -1q-4 2 -8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="m-12 -6l6 -2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="m12 -6l-6 -2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<g>
+		<path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="#812" stroke="none"/>
+		<path d="M-3 11c-2 -2 1 -4 3 -4s5 2 3 4z" fill="#c56"/>
+		<path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+	</g>
+	<path transform="translate(1 2) rotate(-5)" d="m0 0c6 2 8 0 11 0s5 2 5 5s-2 5 -5 5s-5 -2 -11 -10z" fill="#efd" stroke="#000" stroke-width="1" stroke-linejoin="round"/>
+	<ellipse transform="translate(11 4) rotate(-7)" cx="0" cy="0" rx="2" ry="1.5" fill="#fff" stroke="none"/>
 </svg>

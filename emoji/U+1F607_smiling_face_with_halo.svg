@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-23.5 -26 47 47">
- <title>Smiling face with halo</title>
- <metadata>
-  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-   <rdf:Description rdf:about="">
-    <dc:creator>
-     <rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
-      <dc:title>Frank Bruder</dc:title>
-     </rdf:Description>
-    </dc:creator>
-    <xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-   </rdf:Description>
-  </rdf:RDF>
- </metadata>
- <path d="m-17 -20a17 5 0 1 1 34 0a17 5 0 0 1 -34 0zm5 0.5a12 3 0 0 0 24 0a12 3 0 1 0 -24 0z" fill="#ff6" stroke="#99c" stroke-width="1"/>
- <circle cx="0" cy="0" r="19" fill="#ffff10" stroke="#430" stroke-width="2"/>
- <circle cx="6" cy="-4" r="2" fill="#430"/>
- <circle cx="-6" cy="-4" r="2" fill="#430"/>
- <path d="m-11 2a11.1803 11.1803 0 0 0 22 0" fill="none" stroke="#430" stroke-width="2"/>
+	<title>Smiling face with halo</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="m-17 -20a17 5 0 1 1 34 0a17 5 0 0 1 -34 0zm5 0.5a12 3 0 0 0 24 0a12 3 0 1 0 -24 0z" fill="#ff6" stroke="#99c" stroke-width="1"/>
+	<circle cx="0" cy="0" r="19" fill="#ffff10" stroke="#430" stroke-width="2"/>
+	<circle cx="6" cy="-4" r="2" fill="#430"/>
+	<circle cx="-6" cy="-4" r="2" fill="#430"/>
+	<path d="m-11 2a11.1803 11.1803 0 0 0 22 0" fill="none" stroke="#430" stroke-width="2"/>
 </svg>

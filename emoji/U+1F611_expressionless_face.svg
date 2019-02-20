@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
- <title>Expressionless face</title>
- <metadata>
-  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-   <rdf:Description rdf:about="">
-    <dc:creator>
-     <rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
-      <dc:title>Frank Bruder</dc:title>
-     </rdf:Description>
-    </dc:creator>
-    <xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-   </rdf:Description>
-  </rdf:RDF>
- </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
- <path d="m-4 -5h-8M4 -5h8" fill="none" stroke="#000" stroke-width="2"/>
- <path d="m-8 8h16" fill="none" stroke="#000" stroke-width="2"/>
+	<title>Expressionless face</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+	<path d="m-4 -5h-8M4 -5h8" fill="none" stroke="#000" stroke-width="2"/>
+	<path d="m-8 8h16" fill="none" stroke="#000" stroke-width="2"/>
 </svg>
