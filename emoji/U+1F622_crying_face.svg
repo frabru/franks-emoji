@@ -14,11 +14,11 @@
    </rdf:Description>
   </rdf:RDF>
  </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="black" stroke-width="2"/>
- <path d="M3 -4c2 2 5 2 8 0" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
- <path d="M-3 -4c-2 2 -5 2 -8 0" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+ <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+ <path d="M3 -4c2 2 5 2 8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+ <path d="M-3 -4c-2 2 -5 2 -8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
  <g transform="translate(9 -1) scale(0.375) scale(-1 1)">
-  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="skyBlue" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="#87ceeb" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
   <circle r="1" cx="-5" cy="6" fill="#fff"/>
   <circle r="2" cx="-6" cy="12" fill="#fff"/>
  </g>

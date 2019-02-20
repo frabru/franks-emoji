@@ -14,12 +14,12 @@
    </rdf:Description>
   </rdf:RDF>
  </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="black" stroke-width="2"/>
- <circle cx="6" cy="-5" r="2" fill="black"/>
- <circle cx="-6" cy="-5" r="2" fill="black"/>
+ <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+ <circle cx="6" cy="-5" r="2" fill="#000"/>
+ <circle cx="-6" cy="-5" r="2" fill="#000"/>
  <g>
-   <path d="M-10 9c2 2 2 -1 10 -1s8 3 10 1q-1 -7 -10 -7t-10 7z" fill="#812" stroke="none"/>
-   <path d="M-3 8c-2 -2 1 -4 3 -4s5 2 3 4z" fill="#c56"/>
-   <path d="M-10 9c3 2 3 -1 10 -1s7 3 10 1q-2 -7 -10 -7t-10 7z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M-10 9c2 2 2 -1 10 -1s8 3 10 1q-1 -7 -10 -7t-10 7z" fill="#812" stroke="none"/>
+  <path d="M-3 8c-2 -2 1 -4 3 -4s5 2 3 4z" fill="#c56"/>
+  <path d="M-10 9c3 2 3 -1 10 -1s7 3 10 1q-2 -7 -10 -7t-10 7z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
  </g>
 </svg>

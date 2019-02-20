@@ -14,52 +14,28 @@
    </rdf:Description>
   </rdf:RDF>
  </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="black" stroke-width="2"/>
- <path d="M3 -5C5 -9 9 -9 11 -5Z" fill="white" stroke="black" stroke-width="2" stroke-linejoin="round"/>
- <path d="M-3 -5C-5 -9 -9 -9 -11 -5Z" fill="white" stroke="black" stroke-width="2" stroke-linejoin="round"/>
- <circle cx="6" cy="-7" r="1.25" fill="black"/>
- <circle cx="-6" cy="-7" r="1.25" fill="black"/>
+ <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+ <path d="M3 -5C5 -9 9 -9 11 -5Z" fill="#fff" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+ <path d="M-3 -5C-5 -9 -9 -9 -11 -5Z" fill="#fff" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+ <circle cx="6" cy="-7" r="1.25" fill="#000"/>
+ <circle cx="-6" cy="-7" r="1.25" fill="#000"/>
  <g transform="translate(-11 -5) scale(0.375)">
-  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="skyBlue" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="#87ceeb" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
 <!--
-  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -6 -9s5 -10 16 -11z" fill="skyBlue" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -6 -9s5 -10 16 -11z" fill="#87ceeb" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
 -->
   <circle r="1" cx="-11" cy="4" fill="#fff"/>
   <circle r="2" cx="-13" cy="6" fill="#fff"/>
  </g>
-<!--
-|.....¦....|....¦....|
-                     +-<
-                      -
-     o    o           -
-                      -
-                 o    -
-                      <
-        6             -
-                 o    -
-    c c               -
-                      -
-                 +    -<
-    ++                -
-                      -
-                      -
-    o            o    -
-                      <
-                      -
-                      -
-                      -
-                      -
-     c     +     o    -<
--->
  <g transform="translate(11 -5) scale(0.375) scale(-1 1)">
-  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="skyBlue" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="#87ceeb" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
   <circle r="1" cx="-5" cy="6" fill="#fff"/>
   <circle r="2" cx="-6" cy="12" fill="#fff"/>
  </g>
  <g>
-   <path d="M11 2Q5 13 0 13T-11 2Q0 3 11 2z" fill="white" stroke="none"/>
-   <path d="m3 8q4 -0.2 6 -1l-2 1.5z" fill="#ccb"/>
-   <path d="m-3 8q-4 -0.2 -6 -1l2 1.5z" fill="#ccb"/>
-   <path d="M11 2Q5 13 0 13T-11 2Q0 3 11 2z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M11 2Q5 13 0 13T-11 2Q0 3 11 2z" fill="#fff" stroke="none"/>
+  <path d="m3 8q4 -0.2 6 -1l-2 1.5z" fill="#ccb"/>
+  <path d="m-3 8q-4 -0.2 -6 -1l2 1.5z" fill="#ccb"/>
+  <path d="M11 2Q5 13 0 13T-11 2Q0 3 11 2z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
  </g>
 </svg>

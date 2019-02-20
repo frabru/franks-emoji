@@ -15,14 +15,14 @@
   </rdf:RDF>
  </metadata>
  <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
- <path d="m3 -1q4 2 8 0" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
- <path d="m-3 -1q-4 2 -8 0" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+ <path d="m3 -1q4 2 8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+ <path d="m-3 -1q-4 2 -8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
  <path d="m-12 -6l6 -2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
  <path d="m12 -6l-6 -2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
  <g>
-   <path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="#812" stroke="none"/>
-   <path d="M-3 11c-2 -2 1 -4 3 -4s5 2 3 4z" fill="#c56"/>
-   <path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="#812" stroke="none"/>
+  <path d="M-3 11c-2 -2 1 -4 3 -4s5 2 3 4z" fill="#c56"/>
+  <path d="M-7 11c2 2 3 0 7 0s5 2 7 0q0 -5 -7 -5t-7 5z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
  </g>
  <path transform="translate(1 2) rotate(-5)" d="m0 0c6 2 8 0 11 0s5 2 5 5s-2 5 -5 5s-5 -2 -11 -10z" fill="#efd" stroke="#000" stroke-width="1" stroke-linejoin="round"/>
  <ellipse transform="translate(11 4) rotate(-7)" cx="0" cy="0" rx="2" ry="1.5" fill="#fff" stroke="none"/>

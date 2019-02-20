@@ -14,7 +14,7 @@
    </rdf:Description>
   </rdf:RDF>
  </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="black" stroke-width="2"/>
+ <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
  <path d="m8 -7q-2 1.6 -4 2.8q3 -0.5 6 0" fill="none" stroke="#000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
  <path d="m-8 -7q2 1.6 4 2.8q-3 -0.5 -6 0" fill="none" stroke="#000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
  <path d="m-8 9q2 -3 8 -3t8 3" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>

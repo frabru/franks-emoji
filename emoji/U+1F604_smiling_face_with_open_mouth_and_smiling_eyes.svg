@@ -14,15 +14,15 @@
    </rdf:Description>
   </rdf:RDF>
  </metadata>
- <circle cx="0" cy="0" r="19" fill="#efff00" stroke="black" stroke-width="2"/>
- <path d="M3 -5C5 -9 9 -9 11 -5" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
- <path d="M-3 -5C-5 -9 -9 -9 -11 -5" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+ <circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+ <path d="M3 -5C5 -9 9 -9 11 -5" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+ <path d="M-3 -5C-5 -9 -9 -9 -11 -5" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
  <g>
-   <path d="M11.310249675906 2A11.310249675906 11.310249675906 0 0 1 -11.310249675906 2Q0 3 11.310249675906 2z" fill="#812" stroke="none"/>
-   <path d="m0 12c2 0 5 -1 5 -3s-3 -1 -5 -1s-5 -1 -5 1s3 3 5 3z" fill="#c56"/>
-   <path d="m-11 5q4 1 11 1t11 -1l1 -3h-24z" fill="#fff"/>
-   <path d="m0.5 3l-0.5 2l-0.2 -2z" fill="#eed"/>
-   <path d="m6 2.5l-0.5 2l-0.3 -2z" fill="#eed"/>
-   <path d="M11.310249675906 2A11.310249675906 11.310249675906 0 0 1 -11.310249675906 2Q0 3 11.310249675906 2z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M11.310249675906 2A11.310249675906 11.310249675906 0 0 1 -11.310249675906 2Q0 3 11.310249675906 2z" fill="#812" stroke="none"/>
+  <path d="m0 12c2 0 5 -1 5 -3s-3 -1 -5 -1s-5 -1 -5 1s3 3 5 3z" fill="#c56"/>
+  <path d="m-11 5q4 1 11 1t11 -1l1 -3h-24z" fill="#fff"/>
+  <path d="m0.5 3l-0.5 2l-0.2 -2z" fill="#eed"/>
+  <path d="m6 2.5l-0.5 2l-0.3 -2z" fill="#eed"/>
+  <path d="M11.310249675906 2A11.310249675906 11.310249675906 0 0 1 -11.310249675906 2Q0 3 11.310249675906 2z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
  </g>
 </svg>
