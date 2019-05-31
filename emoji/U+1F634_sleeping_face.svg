@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Sleeping face</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<circle cx="-1" cy="1" r="18" fill="#efff00" stroke="#000" stroke-width="2"/>
+	<path d="m2 -1q4 2 8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="m-4 -1q-4 2 -8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<circle cx="-1" cy="12" r="2" fill="#000"/>
+	<path transform="translate(-8.5 -20) scale(0.375)" d="m0 6h20l-10 18q4 0 10 -2v8h-20l10 -18q-4 0 -10 2v-8zm22 -3h24l-13 22q6 0 13 -2v8h-24l13 -22q-6 0 -13 2v-8zm26 -3h28l-16 26q6 0 16 -2v8h-28l16 -26q-6 0 -16 2v-8z" fill="#30f"/>
+</svg>
