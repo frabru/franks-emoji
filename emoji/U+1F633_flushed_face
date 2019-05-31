@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Flushed face</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<circle cx="0" cy="0" r="19" fill="#ffe566" stroke="#000" stroke-width="2"/>
+	<circle cx="0" cy="0" r="16" fill="#fff022" stroke="none"/>
+	<ellipse cx="0.5" cy="-12" rx="10" ry="4" fill="#ffe566" stroke="none"/>
+	<ellipse cx="-9" cy="4" rx="7" ry="8" fill="#ffe566" stroke="none"/>
+	<ellipse cx="10" cy="4" rx="7" ry="8" fill="#ffe566" stroke="none"/>
+	<ellipse cx="-9" cy="4" rx="6" ry="5" fill="#ffaa99" stroke="none"/>
+	<ellipse cx="10" cy="4" rx="6" ry="5" fill="#ffaa99" stroke="none"/>
+	<circle cx="6" cy="-3" r="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+	<circle cx="6" cy="-3" r="1.5" fill="#000"/>
+	<circle cx="-5" cy="-3" r="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+	<circle cx="-5" cy="-3" r="1.5" fill="#000"/>
+	<path d="M-5 -11a8 8 0 0 0 -4.8 1.6" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="M6 -11a8 8 0 0 1 4.8 1.6" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="m-4.5 10q5 1 10 0" fill="none" stroke="#000" stroke-width="2"/>
+</svg>
