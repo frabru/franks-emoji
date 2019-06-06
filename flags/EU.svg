@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="fr">Drapeau européen</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="fr">Drapeau européen</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#003399" d="M30  16q90 -27 180 0t180 0v240q-90 27 -180 0t-180 0z"/>
+	<g transform="translate(210, 136) matrix(1 0.15 0 1 0 0) scale(1.9048)" fill="#ffcc00">
+		<path transform="rotate(30) translate(0 -42) rotate(-30)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(60) translate(0 -42) rotate(-60)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(90) translate(0 -42) rotate(-90)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(120) translate(0 -42) rotate(-120)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(150) translate(0 -42) rotate(-150)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(180) translate(0 -42) rotate(-180)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(210) translate(0 -42) rotate(-210)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(240) translate(0 -42) rotate(-240)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(270) translate(0 -42) rotate(-270)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(300) translate(0 -42) rotate(-300)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="rotate(330) translate(0 -42) rotate(-330)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		<path transform="translate(0 -42)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+	</g>
+</svg>
