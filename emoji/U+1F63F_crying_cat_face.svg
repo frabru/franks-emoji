@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Crying cat face</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-4 -12q4 -1 8 0q3 -5 12 -7q2 7 0 15q7 23 -16 23t-16 -23q-2 -8 0 -15q9 2 12 7z" fill="#efff00" stroke="#000" stroke-width="2"/>
+	<path d="M6 -11q2.8 -4 8.4 -5.5q1 6 -0.2 11q-3 -4.39 -8.2 -5.5z" fill="#fc9"/>
+	<path d="M-6 -11q-2.8 -4 -8.4 -5.5q-1 6 0.2 11q3 -4.39 8.2 -5.5z" fill="#fc9"/>
+	<path d="M3 -2c2 2 5 2 8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="M-3 -2c-2 2 -5 2 -8 0" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<g transform="translate(-9 1) scale(0.375)">
+		<path d="m0 0c-4 4 -4 7 -4 10c0 4 0 10 -6 10s-7 -6 -7 -9s1 -10 17 -11z" fill="#87ceeb" stroke="#7f80ff" stroke-width="4" stroke-linejoin="round"/>
+		<circle r="1" cx="-12" cy="5" fill="#fff"/>
+		<circle r="2" cx="-15" cy="10" fill="#fff"/>
+	</g>
+	<path d="M0 4l0 6" fill="none" stroke="#bccc00" stroke-width="1" stroke-linecap="round"/>
+	<path d="m-8 12q1 -2 8 -2t8 2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+	<path d="M-2.5 0.5c0.2 -0.4 4.8 -0.4 5 0s-2 3 -2.5 3s-2.7 -2.6 -2.5 -3z" fill="#fc9"/>
+</svg>
