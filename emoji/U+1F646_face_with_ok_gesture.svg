@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Face with ok gesture</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<rect x="-20.5" y="-20.5" width="41" height="41" fill="none" stroke="#ccc" stroke-width="1"/>
+	<path id="hand" d="M-12.5 -15c1 -1 2 -2.5 3 -3s3 -0.85 4 -1s4 0 5 0q0 2 -1 3q-2 0.7 -4 1q-1 2 -4 3" fill="#efff00" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	<use transform="scale(-1 1)" xlink:href="#hand" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+	<path d="M-12.5 20q0 -6 1 -10c-3 -4 -8 -11 -8 -14s4 -9 7 -12q2.5 2 4.5 4.5q-2 4 -4 7q2 2 5 7q3 0 7 1q4 -1 7 -1q3 -5 5 -7q-2 -3 -4 -7q2 -2.5 4.5 -4.5c3 3 7 9 7 12s-5 10 -8 14q1 4 1 10" fill="#6f9" stroke="#000" stroke-width="1.5" stroke-linejoin="miter"/>
+	<circle cx="0" cy="-6" r="9.5" fill="#efff00" stroke="#000" stroke-width="1.5"/>
+	<circle cx="3" cy="-8" r="1" fill="#000"/>
+	<circle cx="-3" cy="-8" r="1" fill="#000"/>
+	<path d="M-2.5 -2.5q2.5 0.3 5 0" fill="none" stroke="#000" stroke-width="1.5"/>
+</svg>
