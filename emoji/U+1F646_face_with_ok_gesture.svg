@@ -14,8 +14,8 @@
 			</rdf:Description>
 		</rdf:RDF>
 	</metadata>
-	<path id="hand" d="M-12.5 -15c1 -1 2 -2.5 3 -3s3 -0.85 4 -1s4 0 5 0q0 2 -1 3q-2 0.7 -4 1q-1 2 -4 3" fill="#efff00" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
-	<use transform="scale(-1 1)" xlink:href="#hand" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+	<path d="M-12.5 -15c1 -1 2 -2.5 3 -3s3 -0.85 4 -1s4 0 5 0q0 2 -1 3q-2 0.7 -4 1q-1 2 -4 3" fill="#efff00" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	<path transform="scale(-1 1)" d="M-12.5 -15c1 -1 2 -2.5 3 -3s3 -0.85 4 -1s4 0 5 0q0 2 -1 3q-2 0.7 -4 1q-1 2 -4 3" fill="#efff00" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
 	<path d="M-12.5 20q0 -6 1 -10c-3 -4 -8 -11 -8 -14s4 -9 7 -12q2.5 2 4.5 4.5q-2 4 -4 7q2 2 5 7q3 0 7 1q4 -1 7 -1q3 -5 5 -7q-2 -3 -4 -7q2 -2.5 4.5 -4.5c3 3 7 9 7 12s-5 10 -8 14q1 4 1 10" fill="#6f9" stroke="#000" stroke-width="1.5" stroke-linejoin="miter"/>
 	<circle cx="0" cy="-6" r="9.5" fill="#efff00" stroke="#000" stroke-width="1.5"/>
 	<circle cx="3" cy="-8" r="1" fill="#000"/>
