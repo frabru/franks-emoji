@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Person frowning</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-18 20c0 -5 2 -15 5 -17s9 -4 13 -5c4 1 10 3 13 5s5 12 5 17m-7 0q0 -4 -0.3 -8m-21.7 8q0 -4 0.3 -8" fill="#6f9" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	<circle cx="0" cy="-6.5" r="9.5" fill="#efff00" stroke="#000" stroke-width="1.5"/>
+	<circle cx="3" cy="-8" r="1" fill="#000"/>
+	<circle cx="-3" cy="-8" r="1" fill="#000"/>
+	<path d="M-3 -1a5 5 0 0 1 6 0" fill="none" stroke="#000" stroke-width="1.5"/>
+</svg>
