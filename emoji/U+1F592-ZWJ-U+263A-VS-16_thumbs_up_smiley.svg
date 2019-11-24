@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-26 -27 47 47">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-26 -26.5 47 47">
 	<title>Thumbs up smiley</title>
 	<metadata>
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
@@ -14,11 +14,11 @@
 			</rdf:Description>
 		</rdf:RDF>
 	</metadata>
-	<circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
+	<circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2.24"/>
 	<circle cx="6" cy="-5" r="2" fill="#000"/>
 	<circle cx="-6" cy="-5" r="2" fill="#000"/>
 	<path d="M-11 0a11 11 0 0 0 22 0" fill="none" stroke="#000" stroke-width="3"/>
-	<g transform="translate(-14 5) rotate(-3)" stroke="black" stroke-width="2" stroke-linejoin="round">
+	<g transform="translate(-14 5) rotate(-3)" stroke="black" stroke-width="2.24" stroke-linejoin="round">
 		<path fill="#efff00" d="M4.4 -12a3 3 0 0 1 0 6H5a3 3 0 0 1 0 6H4.1a2.7 2.7 0 0 1 0 5.4L2.4 5.5a2.3 2.3 0 0 1 0 4.6Q-1.8 10.8 -6 11a3.4 3.4 0 0 1 -2.5 -5a4 4 0 0 1 -0.5 -6a4 4 0 0 1 0.4 -6a4 4 0 0 1 2 -6zM-5 -12q2.5 -3 3 -4t0.5 -3a3.5 7 0 1 1 5.5 1q-0.5 3 0.5 6z"/>
 		<path fill="none" stroke-linecap="round" d="M4.4 -6h-7M4.1 0h-6.3M2.4 5.5l-4.7 0.2"/>
 	</g>
