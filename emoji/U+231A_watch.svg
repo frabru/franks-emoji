@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Watch</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<rect x="-8" y="-13.5" width="16" height="1" fill="#999"/>
+	<rect x="-8" y="12.5" width="16" height="1" fill="#999"/>
+	<path d="M-8 -20v5q1 0.5 1 2v1h14v-1q0 -1.5 1 -2v-5M-8 20v-5q1 -0.5 1 -2v-1h14v1q0 1.5 1 2v5" fill="#333"/>
+	<path d="M14 -2h2.5q1 2 0 4h-2.5z" fill="#999"/>
+	<path d="M12 -9a15 15 0 0 1 0 18l-3 4a1 1 0 0 1 -1 1h-0.5v-1h-15v1h-0.5a1 1 0 0 1 -1 -1l-3 -4a15 15 0 0 1 0 -18l3 -4a1 1 0 0 1 1 -1h0.5v1h15v-1h0.5a1 1 0 0 1 1 1l3 4z" fill="#000"/>
+	<circle cx="0" cy="0" r="12" fill="#eee" stroke="none"/>
+	<circle cx="-1" cy="1" r="10" fill="#fff" stroke="none"/>
+	<path d="M8 0l1.5 -1l1.5 1l-1.5 1l-1.5 -1zM0 8l-1 1.5l1 1.5l1 -1.5l-1 -1.5zM-8 0l-1.5 1l-1.5 -1l1.5 -1l1.5 1zM0 -8l1 -1.5l-1 -1.5l-1 1.5l1 1.5z" fill="#000"/>
+	<path transform="rotate(30)" d="M9 0h2M0 9v2M-9 0h-2M0 -9v-2" fill="none" stroke="#666" stroke-width="0.75"/>
+	<path transform="rotate(60)" d="M9 0h2M0 9v2M-9 0h-2M0 -9v-2" fill="none" stroke="#666" stroke-width="0.75"/>
+	<path transform="rotate(-55)" d="M-0.9 0l-0.1 -5.7l1 -1.3l1 1.3l-0.1 5.7z" fill="#000"/>
+	<path transform="rotate(60)" d="M0.75 -1a1.25 1.25 0 1 1 -1.5 0v-8l0.75 -1l0.75 1v8z" fill="#000"/>
+</svg>
