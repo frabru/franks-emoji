@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="de">Landesflagge Thüringens</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="de">Landesflagge Thüringens</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M-10 21q110 -27 220 0t220 0v230q-110 27 -220 0t-220 0z"/>
+	<path fill="#fff" d="M0  31q105 -27 210 0t210 0v105l-105 50h-210l-105 -50z"/>
+	<path fill="#e00" d="M0 136q105 -27 210 0t210 0v105q-105 27 -210 0t-210 0z"/>
+</svg>

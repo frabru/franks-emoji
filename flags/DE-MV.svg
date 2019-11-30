@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="de">Landesflagge Mecklenburg-Vorpommerns</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="de">Landesflagge Mecklenburg-Vorpommerns</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M12.5  13.5q98.75 -27 197.5 0t197.5 0v245q-98.75 27 -197.5 0t-197.5 0z"/>
+	<path fill="#120a8f" d="M22.5  23.5q93.75 -27 187.5 0t187.5 0v60l-93.75 50h-187.5l-93.75 -50z"/>
+	<path fill="#fff"    d="M22.5  83.5q93.75 -27 187.5 0t187.5 0v45l-93.75 50h-187.5l-93.75 -50z"/>
+	<path fill="#ff0"    d="M22.5 128.5q93.75 -27 187.5 0t187.5 0v15l-93.75 50h-187.5l-93.75 -50z"/>
+	<path fill="#fff"    d="M22.5 143.5q93.75 -27 187.5 0t187.5 0v45l-93.75 40h-187.5l-93.75 -40z"/>
+	<path fill="#f00"    d="M22.5 188.5q93.75 -27 187.5 0t187.5 0v60q-93.75 27 -187.5 0t-187.5 0z"/>
+</svg>
