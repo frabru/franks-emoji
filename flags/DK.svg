@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="da">Dannebrog</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="da">Dannebrog</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M30 -14q90 -27 180 0t180 0v300q-90 27 -180 0t-180 0z"/>
+	<path fill="#c60c30" d="M40 -4q60 -19.05882 120 -11.21107l20 38.22145l20 -30q5 1.40139 10 2.98962q85 27 170 0v120l-40 40h40v120q-85 27 -170 0q-5 -1.58823 -10 -2.98962l-20 -38.22145l-20 30q-60 -7.84775 -120 11.21107v-120l40 -40h-40z"/>
+	<path fill="#ffffff" d="M40 116q85 -27 170 0t170 0v40q-85 27 -170 0t-170 0zM160 -15.21107q20 2.61592 40 8.22145v280q-20 -5.60553 -40 -8.22145z"/>
+</svg>
