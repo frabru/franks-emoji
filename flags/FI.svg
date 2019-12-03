@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="fi">Suomen lippu</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="fi">Suomen lippu</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 16q95 -27 190 0t190 0v240q-95 27 -190 0t-190 0z"/>
+	<path fill="#ffffff" d="M30 26q50 -15 100 -13.33333l30 38l30 -30q10 2.33333 20 5.33333q90 27 180 0v80l-60 60h60v80q-90 27 -180 0q-10 -3 -20 -5.33333l-30 -38l-30 30q-50 -1.66667 -100 13.33333v-80l60 -60h-60z"/>
+	<path fill="#18447e" d="M30 106q90 -27 180 0t180 0v60q-90 27 -180 0t-180 0zM130 12.66667q30 1 60 8v220q-30 -7 -60 -8z"/>
+</svg>
