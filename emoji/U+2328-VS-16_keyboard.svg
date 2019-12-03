@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Keyboard</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<rect x="-19.25" y="-8.25" width="38.5" height="20.5" fill="#ddd" stroke="#333" stroke-width="1.5" rx="2" ry="2"/>
+	<g>
+		<g>
+			<path d="M-17 -1h26v1.8l-0.2 0.2v4.5h0.2v2.3l-0.2 0.2h-2.1l-0.2 -0.1l-0.2 0.1h-2.1l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1h-11l-0.2 0.1h-2.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-2.6l-0.2 -0.2z" fill="#bbb"/>
+			<path d="M-17 1q8 -0.6 24 0zM-16 3q7 -0.6 22 0zM-15 5q5 -0.6 16 0z" fill="#b3b4b5"/>
+			<path d="M-15.3 1q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1.5q0 1.5 0.3 1.5h0.3zm2 0q0.3 0 0.3 -1.75q0 1.75 0.3 1.75h0.3zm2 0q0.3 0 0.3 -1.75q0 1.75 0.3 1.75h0.3zm2 0q0.3 0 0.3 -1.5q0 1.5 0.3 1.5h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1.5q0 1.5 0.3 1.5h0.3zm2 0q0.3 0 0.3 -1.5q0 1.5 0.3 1.5h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -0.5q0 0.5 0.3 0.5h0.3z" fill="#b3b4b5"/>
+			<path d="M-14.3 3q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1.25q0 1.25 0.3 1.25h0.3zm2 0q0.3 0 0.3 -1.5q0 1.5 0.3 1.5h0.3zm2 0q0.3 0 0.3 -1.5q0 1.5 0.3 1.5h0.3zm2 0q0.3 0 0.3 -1.25q0 1.25 0.3 1.25h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1.25q0 1.25 0.3 1.25h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -0.5q0 0.5 0.3 0.5h0.3z" fill="#b3b4b5"/>
+			<path d="M-13.3 5q0.3 0 0.3 -0.5q0 0.5 0.3 0.5h0.3zm2 0q0.3 0 0.3 -0.75q0 0.75 0.3 0.75h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -1q0 1 0.3 1h0.3zm2 0q0.3 0 0.3 -0.75q0 0.75 0.3 0.75h0.3zm2 0q0.3 0 0.3 -0.5q0 0.5 0.3 0.5h0.3z" fill="#b3b4b5"/>
+		</g>
+		<path d="M6 1h3v4.3l-0.2 0.2h-4.1l-0.2 -0.2v-1.8h1.5z" fill="#999"/>
+		<path d="M-9 6.5h11v1.8l-0.2 0.2h-10.6l-0.2 -0.2z" fill="#999"/>
+	</g>
+	<path d="M11 7h2.1l-0.1 -0.1v-1.9h2v1.9l-0.1 0.1h2.1v1.8l-0.2 0.2h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.2z" fill="#777"/>
+	<g>
+		<path d="M11 -1h6v1.8l-0.1 0.2h0.1v1.8l-0.2 0.2h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.2v-1.8h0.1l-0.1 -0.2z" fill="#999"/>
+		<path d="M11.5 1q2.5 -0.6 5 0z" fill="#959596"/>
+	</g>
+	<path d="M-17 -5h8v1.8l-0.2 0.2h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.2z" fill="#999"/>
+	<path d="M-8 -5h8v1.8l-0.2 0.2h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.2z" fill="#999"/>
+	<path d="M1 -5h8v1.8l-0.2 0.2h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.2z" fill="#999"/>
+	<path d="M11 -5h6v1.8l-0.2 0.2h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.2z" fill="#999"/>
+</svg>
