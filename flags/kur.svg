@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="ku-Latn">Ala Rengîn</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="ku-Latn">Ala Rengîn</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#ef3340" d="M30  16q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#ffffff" d="M30  96q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#00B140" d="M30 176q90 -27 180 0t180 0v80q-90 27 -180 0t-180 0z"/>
+	<g transform="translate(210 136) matrix(1 0.2255 0 1 0 0)">
+		<path fill="#ffcd00" d="M0 -60L4 -30L18 -57L13 -27L34 -50L20 -22L47 -37L26 -15L56 -22L29 -7L60 -4L30 2L58 13L28 11L52 30L23 19L41 44L17 25L26 54L9 29L9 59L0 30L-9 59L-9 29L-26 54L-17 25L-41 44L-23 19L-52 30L-28 11L-58 13L-30 2L-60 -4L-29 -7L-56 -22L-26 -15L-47 -37L-20 -22L-34 -50L-13 -27L-18 -57L-4 -30z"/>
+	</g>
+</svg>
