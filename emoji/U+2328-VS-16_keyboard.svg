@@ -14,7 +14,7 @@
 			</rdf:Description>
 		</rdf:RDF>
 	</metadata>
-	<rect x="-19.25" y="-8.25" width="38.5" height="20.5" fill="#ddd" stroke="#333" stroke-width="1.5" rx="2" ry="2"/>
+	<path d="M-19.25 -5a2 2 0 0 1 2 -2h9l1 -1q0.75 -0.75 1.75 -0.75h22.75a2 2 0 0 1 2 2v17a2 2 0 0 1 -2 2h-34.5a2 2 0 0 1 -2 -2z" fill="#ddd" stroke="#333" stroke-width="1.5"/>
 	<g>
 		<g>
 			<path d="M-17 -1h26v1.8l-0.2 0.2v4.5h0.2v2.3l-0.2 0.2h-2.1l-0.2 -0.1l-0.2 0.1h-2.1l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1h-11l-0.2 0.1h-2.6l-0.2 -0.1l-0.2 0.1h-1.6l-0.2 -0.1l-0.2 0.1h-2.6l-0.2 -0.2z" fill="#bbb"/>
