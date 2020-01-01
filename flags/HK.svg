@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+	<title xml:lang="zh">香港區旗</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="zh">香港區旗</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</dc:Agent>
+				</dc:creator>
+				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#f00" d="M30 16q90 -27 180 0t180 0v240q-90 27 -180 0t-180 0z"/>
+	<g transform="translate(210 136) matrix(1 0.2 0 1 0 0) rotate(13.8)">
+		<g>
+			<path fill="#fff" d="M0 0a30 36 0 0 1 0 -72c-3 3 -4 7 -4 10c0 6 8 14 8 22s-13 14 -13 24c0 4 3 15 9 16"/>
+			<path fill="none" stroke="#f00" stroke-width="1" d="M0 0c-12 -1 -20 -22 -17 -35"/>
+			<path fill="#f00" transform="rotate(-108.4) translate(44 0) scale(0.857143)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		</g>
+		<g transform="rotate(72)">
+			<path fill="#fff" d="M0 0a30 36 0 0 1 0 -72c-3 3 -4 7 -4 10c0 6 8 14 8 22s-13 14 -13 24c0 4 3 15 9 16"/>
+			<path fill="none" stroke="#f00" stroke-width="1" d="M0 0c-12 -1 -20 -22 -17 -35"/>
+			<path fill="#f00" transform="rotate(-108.4) translate(44 0) scale(0.857143)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		</g>
+		<g transform="rotate(144)">
+			<path fill="#fff" d="M0 0a30 36 0 0 1 0 -72c-3 3 -4 7 -4 10c0 6 8 14 8 22s-13 14 -13 24c0 4 3 15 9 16"/>
+			<path fill="none" stroke="#f00" stroke-width="1" d="M0 0c-12 -1 -20 -22 -17 -35"/>
+			<path fill="#f00" transform="rotate(-108.4) translate(44 0) scale(0.857143)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		</g>
+		<g transform="rotate(216)">
+			<path fill="#fff" d="M0 0a30 36 0 0 1 0 -72c-3 3 -4 7 -4 10c0 6 8 14 8 22s-13 14 -13 24c0 4 3 15 9 16"/>
+			<path fill="none" stroke="#f00" stroke-width="1" d="M0 0c-12 -1 -20 -22 -17 -35"/>
+			<path fill="#f00" transform="rotate(-108.4) translate(44 0) scale(0.857143)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		</g>
+		<g transform="rotate(288)">
+			<path fill="#fff" d="M0 0a30 36 0 0 1 0 -72c-3 3 -4 7 -4 10c0 6 8 14 8 22s-13 14 -13 24c0 4 3 15 9 16"/>
+			<path fill="none" stroke="#f00" stroke-width="1" d="M0 0c-12 -1 -20 -22 -17 -35"/>
+			<path fill="#f00" transform="rotate(-108.4) translate(44 0) scale(0.857143)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+		</g>
+	</g>
+</svg>
