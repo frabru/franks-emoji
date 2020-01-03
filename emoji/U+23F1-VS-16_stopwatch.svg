@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Stopwatch</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(0 3.5)">
+		<circle cx="0" cy="0" r="16.5" fill="#000"/>
+		<g transform="rotate(-45)">
+			<path d="M-2.5 -14v-2.5h-0.5a1.5 1.5 0 0 1 -1.5 -1.5v-3a2.5 2.5 0 0 1 2.5 -2.5h4a2.5 2.5 0 0 1 2.5 2.5v3a1.5 1.5 0 0 1 -1.5 1.5h-0.5v2.5" fill="#000"/>
+			<rect x="-1" y="-17" width="2" height="3" fill="#ccc"/>
+			<path d="M-3 -18v-3a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v3z" fill="#444"/>
+		</g>
+		<g>
+			<path d="M-2.5 -14v-2.5h-0.5a1.5 1.5 0 0 1 -1.5 -1.5v-3a2.5 2.5 0 0 1 2.5 -2.5h4a2.5 2.5 0 0 1 2.5 2.5v3a1.5 1.5 0 0 1 -1.5 1.5h-0.5v2.5" fill="#000"/>
+			<rect x="-1" y="-17" width="2" height="3" fill="#ccc"/>
+			<path d="M-3 -18v-3a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v3z" fill="#e63"/>
+		</g>
+		<g transform="rotate(45)">
+			<path d="M-2.5 -14v-2.5h-0.5a1.5 1.5 0 0 1 -1.5 -1.5v-3a2.5 2.5 0 0 1 2.5 -2.5h4a2.5 2.5 0 0 1 2.5 2.5v3a1.5 1.5 0 0 1 -1.5 1.5h-0.5v2.5" fill="#000"/>
+			<rect x="-1" y="-17" width="2" height="3" fill="#ccc"/>
+			<path d="M-3 -18v-3a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v3z" fill="#6d3"/>
+		</g>
+		<circle cx="0" cy="0" r="15" fill="#eee"/>
+		<circle cx="0" cy="0" r="14.5" fill="#bbb"/>
+		<circle cx="0" cy="0" r="13" fill="#333"/>
+		<circle cx="0" cy="0" r="12" fill="#eee" stroke="none"/>
+		<circle cx="0" cy="1" r="10" fill="#fff" stroke="none"/>
+		<path d="M8 0h3M0 8v3M-8 0h-3M0 -9v-2" fill="none" stroke="#666" stroke-width="0.75"/>
+		<path transform="rotate(30)" d="M8 0h3M0 8v3M-8 0h-3M0 -8v-3" fill="none" stroke="#666" stroke-width="0.75"/>
+		<path transform="rotate(60)" d="M8 0h3M0 8v3M-8 0h-3M0 -8v-3" fill="none" stroke="#666" stroke-width="0.75"/>
+
+		<g transform="translate(0 -6)">
+			<path d="M3 0h1M0 3v1M-3 0h-1" fill="none" stroke="#666" stroke-width="0.75"/>
+			<path transform="rotate(30)" d="M3 0h1M0 3v1M-3 0h-1M0 -3v-1" fill="none" stroke="#666" stroke-width="0.75"/>
+			<path transform="rotate(60)" d="M3 0h1M0 3v1M-3 0h-1M0 -3v-1" fill="none" stroke="#666" stroke-width="0.75"/>
+			<circle cx="0" cy="0" r="1.25" fill="#444"/>
+			<path transform="rotate(160)" d="M-0.75 -1q0 -2 0.75 -3q0.75 1 0.75 3v3h-1.5z" fill="#444"/>
+			<circle cx="0" cy="0" r="0.5" fill="#555"/>
+		</g>
+
+		<path transform="rotate(57)" d="M0.75 -1a1.25 1.25 0 0 1 0 2l0.25 2h-2l0.25 -2a1.25 1.25 0 0 1 0 -2q0 -7 0.75 -10.5q0.75 3.5 0.75 10.5z" fill="#000"/>
+		<circle cx="0" cy="0" r="0.5" fill="#555"/>
+	</g>
+</svg>
