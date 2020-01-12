@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Trade mark sign</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-20 -17a3 3 0 0 1 3 -3h20q2 0 3 2l2 4q1 2 2 0l2 -4q1 -2 3 -2h2a3 3 0 0 1 3 3v16a3 3 0 0 1 -3 3h-28a3 3 0 0 1 -3 -3v-10a1 1 0 0 0 -1 -1h-2a3 3 0 0 1 -3 -3z" fill="#eee"/>
+	<path d="M-12 0v-14h-6v-4h16v4h-6v14zM0 0v-18h4l5 10l5 -10h4v18h-4v-9l-4 8h-2l-4 -8v9z" fill="#111"/>
+</svg>
