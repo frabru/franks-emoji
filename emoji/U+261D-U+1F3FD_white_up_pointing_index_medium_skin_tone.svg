@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>White up pointing index, medium skin tone</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="M2 -2v-14.5a2.5 2.5 0 1 1 5 0v27.5l-19 -3" fill="#d7b19d" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	<path d="M4 5q0.4 -0.6 1 -1q-0.1 -1.5 0 -3c-2 -2 -3 -3 -3 -5s1 -3 3 -3c1 2 5 4 5 6s0.4 3 0.4 5c0 2 -0.4 5 -1.4 7c-2 4 -6 7 -11 7s-11.4 -3 -11.4 -10q0 -2 0.4 -4" fill="#d7b19d" stroke="#000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+	<path d="M-3 -6a2.5 2.5 0 1 1 5 0v9a2.5 2.5 0 1 1 -5 0z" fill="#d7b19d" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	<path d="M-8 -3a2.5 2.5 0 1 1 5 0v9a2.5 2.5 0 1 1 -5 0z" fill="#d7b19d" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	<path d="M-13 1a2.5 2.5 0 1 1 5 0v4a2.5 2.5 0 1 1 -5 0z" fill="#d7b19d" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

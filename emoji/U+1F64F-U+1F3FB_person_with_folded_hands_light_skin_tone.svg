@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Person with folded hands, light skin tone</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<g>
+		<path d="M11 15c-6 -1 -9 -1 -11 -3v-27c0 -2 3 -3 4 -1q0 2 1 11q1 3 2 7c1 1 2 1 4 1" fill="#f8ece7" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+		<path d="M0.25 -12c0 -2 4 -3 4 0" fill="none" stroke="#000" stroke-width="1"/>
+		<path d="M20 2c-1 0 -6 0.5 -11 0q1 8 -1 14q9 1 12 1" fill="#6f9" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	</g>
+	<g transform="scale(-1 1)">
+		<path d="M11 15c-6 -1 -9 -1 -11 -3v-27c0 -2 3 -3 4 -1q0 2 1 11q1 3 2 7c1 1 2 1 4 1" fill="#f8ece7" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+		<path d="M0.25 -12c0 -2 4 -3 4 0" fill="none" stroke="#000" stroke-width="1"/>
+		<path d="M20 2c-1 0 -6 0.5 -11 0q1 8 -1 14q9 1 12 1" fill="#6f9" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
+	</g>
+</svg>
