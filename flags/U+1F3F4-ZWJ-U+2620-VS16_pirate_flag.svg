@@ -17,17 +17,17 @@
 		</rdf:RDF>
 	</metadata>
 	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0q9 130 0 260q-95 27 -190 0t-190 0q9 -130 0 -260z"/>
-	<path fill="#000000" d="M30 44q90 -27 180 0t180 0q9 120 0 240q-90 27 -180 0t-180 0q9 -120 0 -240z"/>
+	<path fill="#000" d="M30 44q90 -27 180 0t180 0q9 120 0 240q-90 27 -180 0t-180 0q9 -120 0 -240z"/>
 	<g transform="translate(210 164) matrix(1 0.15 0 1 0 0) scale(5) translate(0 -5)">
-		<path transform="translate(0 17) rotate(-20)" d="M0 -2c15 0 15 -1 18 -1s2 2.7 1 3c1 0.3 2 3 -1 3s-3 -1 -18 -1s-15 1 -17 1s-2 -2.7 0 -3c-2 -0.3 -2 -3 0 -3s2 1 17 1z" fill="#ffffff" stroke="#222" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-		<path transform="translate(0 17) rotate(200)" d="M0 -2c15 0 15 -1 18 -1s2 2.7 1 3c1 0.3 2 3 -1 3s-3 -1 -18 -1s-15 1 -17 1s-2 -2.7 0 -3c-2 -0.3 -2 -3 0 -3s2 1 17 1z" fill="#ffffff" stroke="#222" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-		<path d="M8 0q-1 5 -1 10c0 1 -5 4 -7 3c-2 1 -7 -2 -7 -3q0 -5 -1 -10" fill="#ffffff" stroke="#222" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-		<path d="M-4 7v1.8M-2 7v2M0 7.5v1.5M2 7v2M4 7v1.8" fill="none" stroke="#222" stroke-width="1" stroke-linecap="round"/>
-		<path d="M-5 7c-0.5 -4 -5 -8.1 -5 -13s4.5 -9 10 -9s10 4.1 10 9s-4.5 9 -5 13q-5 1 -10 0z" fill="#ffffff" stroke="#222" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-		<path d="M-4 7v-2.2M-2 7v-2M0 7.5v-2.5M2 7v-2M4 7v-2.2" fill="none" stroke="#222" stroke-width="1" stroke-linecap="round"/>
-		<path d="M-8 -8c1 2 -1 5 -1 8s2 3 5 3M8 -8c-1 2 1 5 1 8s-2 3 -5 3" fill="#ffffff" stroke="#222" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-		<circle cx="4" cy="-2" r="3" fill="#111"/>
-		<circle cx="-4" cy="-2" r="3" fill="#111"/>
-		<path d="M0 0c1 0 2 2 2 3s-1 1 -2 0c-1 1 -2 1 -2 0s1 -3 2 -3" fill="#111"/>
+		<path transform="translate(0 17) rotate(-20)" d="M0 -2c15 0 15 -1 18 -1s2 2.7 1 3c1 0.3 2 3 -1 3s-3 -1 -18 -1s-15 1 -17 1s-2 -2.7 0 -3c-2 -0.3 -2 -3 0 -3s2 1 17 1z" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+		<path transform="translate(0 17) rotate(200)" d="M0 -2c15 0 15 -1 18 -1s2 2.7 1 3c1 0.3 2 3 -1 3s-3 -1 -18 -1s-15 1 -17 1s-2 -2.7 0 -3c-2 -0.3 -2 -3 0 -3s2 1 17 1z" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+		<path d="M8 0q-1 5 -1 10c0 1 -5 4 -7 3c-2 1 -7 -2 -7 -3q0 -5 -1 -10" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+		<path d="M-4 7v1.8M-2 7v2M0 7.5v1.5M2 7v2M4 7v1.8" fill="none" stroke="#000" stroke-width="1" stroke-linecap="round"/>
+		<path d="M-5 7c-0.5 -4 -5 -8.1 -5 -13s4.5 -9 10 -9s10 4.1 10 9s-4.5 9 -5 13q-5 1 -10 0z" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+		<path d="M-4 7v-2.2M-2 7v-2M0 7.5v-2.5M2 7v-2M4 7v-2.2" fill="none" stroke="#000" stroke-width="1" stroke-linecap="round"/>
+		<path d="M-8 -8c1 2 -1 5 -1 8s2 3 5 3M8 -8c-1 2 1 5 1 8s-2 3 -5 3" fill="#fff" stroke="#000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+		<circle cx="4" cy="-2" r="3" fill="#000"/>
+		<circle cx="-4" cy="-2" r="3" fill="#000"/>
+		<path d="M0 0c1 0 2 2 2 3s-1 1 -2 0c-1 1 -2 1 -2 0s1 -3 2 -3" fill="#000"/>
 	</g>
 </svg>
