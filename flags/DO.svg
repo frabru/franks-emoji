@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
 	<title xml:lang="es">Bandera de la República Dominicana</title>
 	<metadata>
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
@@ -17,8 +17,8 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
-	<path fill="#25007b" d="M30  16q78 -23.4 156 -6.24l24 24v102.24h-156l-24 -24zM390 256q-78 23.4 -156 6.24l-24 -24v-102.24h156l24 24z"/>
-	<path fill="#d8000c" d="M390 16v96l-24 24h-156v-89.76l24 -24q78 17.16 156 -6.24zM30 256v-96l24 -24h156v89.76l-24 24q-78 -17.16 -156 6.24z"/>
-	<path fill="#fff" d="M186 9.76q12 2.64 24 6.24t24 6.24v96q78 17.16 156 -6.24v48q-78 23.4 -156 6.24v96q-12 -2.64 -24 -6.24t-24 -6.24v-96q-78 -17.16 -156 6.24v-48q78 -23.4 156 -6.24v-96"/>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#25007b" d="M30  44q78 -23.4 156 -6.24l24 24v102.24h-156l-24 -24zM390 284q-78 23.4 -156 6.24l-24 -24v-102.24h156l24 24z"/>
+	<path fill="#d8000c" d="M390 44v96l-24 24h-156v-89.76l24 -24q78 17.16 156 -6.24zM30 284v-96l24 -24h156v89.76l-24 24q-78 -17.16 -156 6.24z"/>
+	<path fill="#fff" d="M186 37.76q12 2.64 24 6.24t24 6.24v96q78 17.16 156 -6.24v48q-78 23.4 -156 6.24v96q-12 -2.64 -24 -6.24t-24 -6.24v-96q-78 -17.16 -156 6.24v-48q78 -23.4 156 -6.24v-96"/>
 </svg>

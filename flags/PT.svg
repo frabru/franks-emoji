@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
 	<title xml:lang="pt">Bandeira de Portugal</title>
 	<metadata>
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
@@ -17,10 +17,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
-	<path fill="#ff0000" d="M174 7.36q18 3.24 36 8.64q90 27 180 0v240q-90 27 -180 0q-18 -5.4 -36 -8.64l-120 -120l120 -120z"/>
-	<path fill="#006600" d="M30  16q72 -21.6 144 -8.64v240q-72 -12.96 -144 8.64"/>
-	<g transform="translate(174 127.36) matrix(1 0.18 0 1 0 0)">
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#ff0000" d="M174 35.36q18 3.24 36 8.64q90 27 180 0v240q-90 27 -180 0q-18 -5.4 -36 -8.64l-120 -120l120 -120z"/>
+	<path fill="#006600" d="M30  44q72 -21.6 144 -8.64v240q-72 -12.96 -144 8.64"/>
+	<g transform="translate(174 155.36) matrix(1 0.18 0 1 0 0)">
 		<g fill="#ffff00" stroke="#808000" stroke-width="1">
 			<path transform="rotate(23.4368)" d="M-60 -6a60 10 0 1 0 120 0v12a60 10 0 1 1 -120 0v-12z"/>
 			<path d="M53.857 -26.617a53.857 14.783 0 0 1 -53.857 14.783v4.849a56.243 15.438 0 0 0 56.243 -15.438l-2.386 -5.504z"/>

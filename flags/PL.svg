@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
 	<title xml:lang="pl">Flaga Polski</title>
 	<metadata>
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
@@ -17,7 +17,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path fill="#c0c0c0" d="M20 13.5q95 -27 190 0t190 0v245q-95 27 -190 0t-190 0z"/>
-	<path fill="#e9e8e7" d="M30  23.5q90 -27 180 0t180 0v112.5l-90 50h-180l-90 -50z"/>
-	<path fill="#d4213d" d="M30 136q90 -27 180 0t180 0v112.5q-90 27 -180 0t-180 0z"/>
+	<path fill="#c0c0c0" d="M20 41.5q95 -27 190 0t190 0v245q-95 27 -190 0t-190 0z"/>
+	<path fill="#e9e8e7" d="M30  51.5q90 -27 180 0t180 0v112.5l-90 50h-180l-90 -50z"/>
+	<path fill="#d4213d" d="M30 164q90 -27 180 0t180 0v112.5q-90 27 -180 0t-180 0z"/>
 </svg>

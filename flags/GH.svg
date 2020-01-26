@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 292">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
 	<title xml:lang="en">flag of Ghana</title>
 	<metadata>
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
@@ -17,9 +17,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path fill="#c0c0c0" d="M20 6q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
-	<path fill="#ce1126" d="M30  16q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
-	<path fill="#fcd116" d="M30  96q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
-	<path fill="#006b3f" d="M30 176q90 -27 180 0t180 0v80q-90 27 -180 0t-180 0z"/>
-	<path transform="translate(210 136) matrix(1 0.2566773 0 1 0 0) scale(6.317568) translate(0 0.66845)" fill="#000000" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#ce1126" d="M30  44q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#fcd116" d="M30 124q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#006b3f" d="M30 204q90 -27 180 0t180 0v80q-90 27 -180 0t-180 0z"/>
+	<path transform="translate(210 164) matrix(1 0.2566773 0 1 0 0) scale(6.317568) translate(0 0.66845)" fill="#000000" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
 </svg>
