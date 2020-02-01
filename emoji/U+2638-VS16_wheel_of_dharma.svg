@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Wheel of dharma</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path transform="rotate(22.5)" d="M0 -12v24M-9 -9l18 18M-12 0h24M-9 9l18 -18" fill="none" stroke="#980" stroke-width="1.5"/>
+	<path d="M-1 -3q0 -3 -1 -5q1 -2 1 -5h-1v-4a2 2 0 1 1 4 0v4h-1q0 3 1 5q-1 2 -1 5M3 -1q3 0 5 -1q2 1 5 1v-1h4a2 2 0 1 1 0 4h-4v-1q-3 0 -5 1q-2 -1 -5 -1M1 3q0 3 1 5q-1 2 -1 5h1v4a2 2 0 1 1 -4 0v-4h1q0 -3 -1 -5q1 -2 1 -5M-3 1q-3 0 -5 1q-2 -1 -5 -1v1h-4a2 2 0 1 1 0 -4h4v1q3 0 5 -1q2 1 5 1" fill="#ec0" stroke="#430" stroke-width="1.5"/>
+	<path transform="rotate(45)" d="M-1 -3q0 -3 -1 -5q1 -2 1 -5h-1v-4a2 2 0 1 1 4 0v4h-1q0 3 1 5q-1 2 -1 5M3 -1q3 0 5 -1q2 1 5 1v-1h4a2 2 0 1 1 0 4h-4v-1q-3 0 -5 1q-2 -1 -5 -1M1 3q0 3 1 5q-1 2 -1 5h1v4a2 2 0 1 1 -4 0v-4h1q0 -3 -1 -5q1 -2 1 -5M-3 1q-3 0 -5 1q-2 -1 -5 -1v1h-4a2 2 0 1 1 0 -4h4v1q3 0 5 -1q2 1 5 1" fill="#ec0" stroke="#430" stroke-width="1.5"/>
+	<path d="M0 -17a17 17 0 1 1 0 34a17 17 0 0 1 0 -34zM0 -12a12 12 0 0 0 0 24a12 12 0 1 0 0 -24zM0 -4a4 4 0 1 1 0 8a4 4 0 0 1 0 -8z" fill="#ec0" stroke="#430" stroke-width="1.5"/>
+</svg>
