@@ -14,6 +14,6 @@
 			</rdf:Description>
 		</rdf:RDF>
 	</metadata>
-	<path d="M-3 10a7 7 0 1 1 0 -14a7 7 0 0 1 0 14zM2 -2l7 -7M4 -11h7v7" fill="none" stroke="#f8ece7" stroke-width="6" stroke-linecap="square"/>
+	<path d="M-3 10a7 7 0 1 1 0 -14a7 7 0 0 1 0 14zM2 -2l7 -7M4 -11h7v7" fill="none" stroke="#ccabb9" stroke-width="6" stroke-linecap="square"/>
 	<path d="M-3 10a7 7 0 1 1 0 -14a7 7 0 0 1 0 14zM2 -2l7 -7M4 -11h7v7" fill="none" stroke="#a7e" stroke-width="3" stroke-linecap="square"/>
 </svg>
