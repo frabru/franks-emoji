@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Black chess pawn</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-9.5 18.5a0.5 0.5 0 0 1 -0.5 -0.5v-0.5a0.5 0.5 0 0 0 0 -1v-0.5c0 -1 1 -2.5 2 -3v-0.5a1 1 0 0 1 1 -1c2.5 -3 4.5 -7.24 5 -10.24h-4.68v-2q2.5 -0.7 5 -1a6 6 0 1 1 3.36 0q2.5 0.3 5 1v2h-4.68c0.5 3 2.5 7.24 5 10.24a1 1 0 0 1 1 1v0.5c1 0.5 2 2 2 3v0.5a0.5 0.5 0 0 0 0 1v0.5a0.5 0.5 0 0 1 -0.5 0.5z" fill="none" stroke="#ccc" stroke-width="3"/>
+	<rect x="-9" y="18" width="18" height="1.5" fill="#080"/>
+	<path d="M-9.5 18.5a0.5 0.5 0 0 1 -0.5 -0.5v-0.5a0.5 0.5 0 0 0 0 -1v-0.5c0 -1 1 -2.5 2 -3v-0.5a1 1 0 0 1 1 -1c2.5 -3 4.5 -7.24 5 -10.24h-4.68v-2q2.5 -0.7 5 -1a6 6 0 1 1 3.36 0q2.5 0.3 5 1v2h-4.68c0.5 3 2.5 7.24 5 10.24a1 1 0 0 1 1 1v0.5c1 0.5 2 2 2 3v0.5a0.5 0.5 0 0 0 0 1v0.5a0.5 0.5 0 0 1 -0.5 0.5z" fill="#000"/>
+	<ellipse transform="translate(0 -7.5) rotate(-25)" cx="0" cy="-4" rx="2" ry="1.2" fill="#eee"/>
+	<path d="M-4 -0.74q2.3 -0.4 3.5 0zM-3.6 11.5c1.3 -3 2.2 -7 2.7 -7s0.6 4 -0.1 7zM-1.4 13c-0.1 1 -1.4 1.7 -2.2 1.7s-1.4 -0.7 -0.8 -1.7z" fill="#eee"/>
+	<rect x="-6" y="11.5" width="6" height="1.5"/>
+	<ellipse cx="-2" cy="12" rx="4" ry="0.25" fill="#eee"/>
+</svg>
