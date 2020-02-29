@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Black universal recycling symbol</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-4.29 -3.82l-7.425 -4.2l3.531 -5.992q1.089 -1.848 3.234 -1.848t3.234 1.848l1.716 2.912zM5.61 -1.58l7.425 -4.2l3.498 5.936q1.089 1.848 0 3.696t-3.234 1.848h-3.399zM-9.9 5.7h-3.399q-2.145 0 -3.234 -1.848t0 -3.696l2.079 -3.528l-2.475 -1.4l8.2875 -.2125l4.0875 7.2125l-2.475 -1.4z" fill="#2d2" stroke="#080" stroke-width="1.5" stroke-miterlimit="5"/>
+	<path d="M-4.95 -15.86h9.9q2.145 0 3.234 1.848l2.112 3.584l2.475 -1.4l-4.0875 7.2125l-8.2875 -.2125l2.475 -1.4l-4.587 -7.784q-1.089 -1.848 -3.234 -1.848zM11.583 12.252q-1.089 1.848 -3.234 1.848h-4.191v2.8l-4.2 -7l4.2 -7v2.8h9.141q2.145 0 3.234 -1.848zM-1.32 5.7v8.4h-7.029q-2.145 0 -3.234 -1.848l-4.95 -8.4q1.089 1.848 3.234 1.848z" fill="#2f2" stroke="#080" stroke-width="1.5" stroke-miterlimit="5"/>
+</svg>
