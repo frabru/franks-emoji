@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Hammer and pick</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
+			<rdf:Description rdf:about="">
+				<dc:creator>
+					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+						<dc:title>Frank Bruder</dc:title>
+					</rdf:Description>
+				</dc:creator>
+				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(0 3) rotate(-40)">
+		<rect x="-8" y="-20" width="16" height="7" fill="none" stroke="#000" stroke-width="2" rx="0.75" ry="0.75"/>
+		<rect x="-1.75" y="-22" width="3.5" height="40" rx="0.75" ry="0.75" fill="#e74" stroke="#000" stroke-width="1.5"/>
+		<rect x="-8" y="-20" width="16" height="7" fill="#888" stroke="#000" stroke-width="1" rx="0.75" ry="0.75"/>
+	</g>
+	<g transform="translate(0 3) rotate(40)">
+		<path d="M-8 -19.25a0.75 0.75 0 0 1 0.75 -0.75h11.5q0.75 0 1.28 0.53l3.94 3.94q0.53 0.53 0.53 1.28v0.5a0.75 0.75 0 0 1 -0.75 0.75h-16.5a0.75 0.75 0 0 1 -0.75 -0.75z" fill="none" stroke="#000" stroke-width="2"/>
+		<rect x="-1.75" y="-22" width="3.5" height="40" rx="0.75" ry="0.75" fill="#e74" stroke="#000" stroke-width="1.5"/>
+		<path d="M-8 -19.25a0.75 0.75 0 0 1 0.75 -0.75h11.5q0.75 0 1.28 0.53l3.94 3.94q0.53 0.53 0.53 1.28v0.5a0.75 0.75 0 0 1 -0.75 0.75h-16.5a0.75 0.75 0 0 1 -0.75 -0.75z" fill="#888" stroke="#000" stroke-width="1"/>
+	</g>
+</svg>
