@@ -2,18 +2,19 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
 	<title xml:lang="ga">Bratach na hÉireann</title>
 	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/" xmlns:voc="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://web.resource.org/cc/">
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
 			<cc:Work rdf:about="">
 				<dc:title xml:lang="ga">Bratach na hÉireann</dc:title>
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
 				<dc:creator>
-					<dc:Agent rdf:about="http://purl.org/net/2008,frankbruder/id">
+					<cc:Agent>
 						<dc:title>Frank Bruder</dc:title>
-					</dc:Agent>
+					</cc:Agent>
 				</dc:creator>
-				<voc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-				<voc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>

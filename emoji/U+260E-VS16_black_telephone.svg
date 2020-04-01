@@ -3,15 +3,17 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
 	<title>Black telephone</title>
 	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-			<rdf:Description rdf:about="">
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
 				<dc:creator>
-					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+					<cc:Agent>
 						<dc:title>Frank Bruder</dc:title>
-					</rdf:Description>
+					</cc:Agent>
 				</dc:creator>
-				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-			</rdf:Description>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<path d="M-19 -4c0 -6 9 -8 19 -8s19 2 19 8l-1 1h-7l-1 -1c0 -1 0 -2 -10 -2s-10 1 -10 2l-1 1h-7z" fill="#3c3" stroke="none"/>

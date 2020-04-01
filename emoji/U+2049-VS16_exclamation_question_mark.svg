@@ -3,15 +3,17 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
 	<title>Exclamation question mark</title>
 	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-			<rdf:Description rdf:about="">
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
 				<dc:creator>
-					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+					<cc:Agent>
 						<dc:title>Frank Bruder</dc:title>
-					</rdf:Description>
+					</cc:Agent>
 				</dc:creator>
-				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-			</rdf:Description>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<path d="M-11 -12a3 3 0 0 1 3 -3h8c2 0 4 -1 6 -1a9 9 0 0 1 9 9c0 6 -3.5 6 -3.5 17a5.5 5.5 0 0 1 -5.5 5.5h-12a5.5 5.5 0 0 1 -5.5 -5.5c0 -4 1.75 -4.5 1.5 -6q-1 -6 -1 -10" fill="#eee"/>

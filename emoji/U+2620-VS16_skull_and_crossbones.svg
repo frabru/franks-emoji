@@ -3,15 +3,17 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
 	<title>Skull and crossbones</title>
 	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-			<rdf:Description rdf:about="">
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
 				<dc:creator>
-					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+					<cc:Agent>
 						<dc:title>Frank Bruder</dc:title>
-					</rdf:Description>
+					</cc:Agent>
 				</dc:creator>
-				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-			</rdf:Description>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<path transform="translate(0 7) rotate(-25)" d="M0 -2c15 0 15 -1 18 -1s2 2.7 1 3c1 0.3 2 3 -1 3s-3 -1 -18 -1s-15 1 -17 1s-2 -2.7 0 -3c-2 -0.3 -2 -3 0 -3s2 1 17 1z" fill="#e9e4dc" stroke="#222" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>

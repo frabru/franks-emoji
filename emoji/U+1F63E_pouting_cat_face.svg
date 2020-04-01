@@ -3,15 +3,17 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
 	<title>Pouting cat face</title>
 	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-			<rdf:Description rdf:about="">
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
 				<dc:creator>
-					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+					<cc:Agent>
 						<dc:title>Frank Bruder</dc:title>
-					</rdf:Description>
+					</cc:Agent>
 				</dc:creator>
-				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-			</rdf:Description>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<path d="M-4 -12q4 -1 8 0q3 -5 12 -7q2 7 0 15q7 23 -16 23t-16 -23q-2 -8 0 -15q9 2 12 7z" fill="#efff00" stroke="#000" stroke-width="2"/>

@@ -3,15 +3,17 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
 	<title>Face with no good gesture</title>
 	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#">
-			<rdf:Description rdf:about="">
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
 				<dc:creator>
-					<rdf:Description rdf:about="http://purl.org/net/2008,frankbruder/id">
+					<cc:Agent>
 						<dc:title>Frank Bruder</dc:title>
-					</rdf:Description>
+					</cc:Agent>
 				</dc:creator>
-				<xhv:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-			</rdf:Description>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<path d="M-10 20v-5h-9c1.2 -4.3 3.4 -11.1 4 -12s1.4 -1.7 2 -2s9 -1 13 -1c4 0 12.4 0.7 13 1s1.4 1.1 2 2s2.8 7.7 4 12h-9v5" fill="#5e8" stroke="#000" stroke-width="1.5" stroke-linejoin="round"/>
