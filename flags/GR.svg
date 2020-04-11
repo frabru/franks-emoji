@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="gr">Κυανόλευκη</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="gr">Κυανόλευκη</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<g transform="translate(210 164) scale(0.33333)">
+		<path fill="#06c" d="M-540 -360q80 -24 160 -33.77778l40 40l40 -46.22222q150 -5 300 40q270 81 540 0v80l-270 80v240h-810v-160l40 -40l-40 -40z"/>
+		<path fill="#fff" d="M-140 -311.11111q70 10.11111 140 31.11111q270 81 540 0v80l-270 80l-410 -111.11111z"/>
+		<path fill="#06c" d="M-140 -231.11111q70 10.11111 140 31.11111q270 81 540 0v80l-270 80l-410 -111.11111z"/>
+		<path fill="#fff" d="M-140 -151.11111q70 10.11111 140 31.11111q270 81 540 0v80l-270 80l-410 -111.11111z"/>
+		<path fill="#06c" d="M-140  -71.11111q70 10.11111 140 31.11111q270 81 540 0v80l-270 80l-410 -111.11111z"/>
+		<path fill="#fff" d="M-540   40q270 -81 540 0t540 0v80l-270 80l-540 -80h-270z"/>
+		<path fill="#06c" d="M-540  120q270 -81 540 0t540 0v80l-270 80l-540 -80h-270z"/>
+		<path fill="#fff" d="M-540  200q270 -81 540 0t540 0v80l-270 80l-540 -80h-270z"/>
+		<path fill="#06c" d="M-540  280q270 -81 540 0t540 0v80q-270 81 -540 0t-540 0z"/>
+		<path fill="#fff" d="M-540 -200q200 -60 400 -31.11111v80q-200 -28.88889 -400 31.11111z"/>
+		<path fill="#fff" d="M-380 -393.77778q40 -4.88889 80 -6.22222v440l-80 6.22222z"/>
+	</g>
+</svg>
