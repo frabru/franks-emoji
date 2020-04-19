@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="eo">Esperanto-flago</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="eo">Esperanto-flago</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#090" d="M150 32q30 3 60 12q90 27 180 0v240q-90 27 -180 0t-180 0v-120z"/>
+	<path fill="#fff" d="M30 44q60 -18 120 -12v120q-60 -6 -120 12z"/>
+	<path fill="#090" transform="translate(90 92) matrix(1 -0.1 0 1 0 0) scale(6)" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z"/>
+</svg>
