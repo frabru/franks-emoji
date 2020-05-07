@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Funeral urn</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="M6 -12a6 1.5 0 0 1 -12 0v-3q2 -2 6 -2t6 2z" fill="none" stroke="#999" stroke-width="2" stroke-linejoin="round"/>
+	<path d="M7 16c-2 3 -12 3 -14 0q-4 -6 -4 -21q0 -8 11 -8t11 8q0 15 -4 21z" fill="#434" stroke="none" stroke-width="1.5"/>
+	<path d="M-10.25 -5.75a10.25 2.5 0 0 0 20.5 0h0.75v1.5h-0.75a10.25 2.5 0 0 1 -20.5 0h-0.75v-1.5z" fill="#ddd" stroke="none" stroke-width="1.5"/>
+	<path d="M7 16c-2 3 -12 3 -14 0q-4 -6 -4 -21q0 -8 11 -8t11 8q0 15 -4 21z" fill="none" stroke="#999" stroke-width="1.5"/>
+	<path d="M6 -12a6 1.5 0 0 1 -12 0v-3q2 -2 6 -2t6 2z" fill="#434" stroke="#999" stroke-width="1"/>
+</svg>
