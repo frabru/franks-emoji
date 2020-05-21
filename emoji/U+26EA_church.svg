@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Church</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="M0 -21v10m-4 -6.5h8" fill="none" stroke="#ffb" stroke-width="4"/>
+	<path d="M0 -20v7m-3 -4.5h6" fill="none" stroke="#444" stroke-width="2"/>
+	<path d="M-12 20v-10l-1 -1l12 -12h2l12 12l-1 1v10" fill="#eee" stroke="#444" stroke-width="1.5"/>
+	<path d="M-5 20v-19l-1 -1l2 -2a5 5 0 0 1 -1 -3c0 -3.16 3 -5 4 -7a1 1 0 0 1 2 0c1 2 4 3.84 4 7a5 5 0 0 1 -1 3l2 2l-1 1v19" fill="#eee" stroke="#444" stroke-width="1.5"/>
+	<path d="M-2 19v-4a5 5 0 0 1 2 -4a5 5 0 0 1 2 4v4" fill="#dc9" stroke="#532" stroke-width="1.5"/>
+	<circle cx="0" cy="5" r="3" fill="none" stroke="#ccc" stroke-width="1.5"/>
+	<path d="M-9 14v-1a5 5 0 0 1 1 -3a5 5 0 0 1 1 3v1zM7 14v-1a5 5 0 0 1 1 -3a5 5 0 0 1 1 3v1z" fill="none" stroke="#ccc" stroke-width="1.5"/>
+</svg>
