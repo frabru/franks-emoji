@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Flag in hole</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-20 9h40a20 10 0 0 1 -40 0z" fill="#0e0"/>
+	<ellipse cx="-2" cy="14" rx="6" ry="2.5" fill="#888" stroke="#070" stroke-width="1.5"/>
+	<rect x="-3.5" y="-19" width="3" height="35.5" rx="1.5" ry="0.75" fill="#ddd"/>
+	<path d="M4 14a6 2.5 0 0 1 -12 0" fill="none" stroke="#070" stroke-width="1.5" stroke-linecap="round"/>
+	<path d="M-4 -16a2 1 0 0 1 4 0l9 4q1.125 0.5 0 1l-9 4a2 0.6 0 0 1 -4 0z" fill="#f33" stroke="#822" stroke-width="1.5" stroke-linejoin="round"/>
+	<path d="M-0.25 -16v9" fill="none" stroke="#822" stroke-width="1" stroke-linejoin="round"/>
+</svg>
