@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Ferry</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g>
+		<path d="M-8 -9v-3M8 -9v-3" fill="none" stroke="#eee" stroke-width="1.5"/>
+		<path d="M-9 -6l-2 -2v-1h6l1.5 3M9 -6l2 -2v-1h-6l-1.5 3" fill="#eee"/>
+		<path d="M-9 -6l-2 -2h3v2zM-7 -6v-2h2.5l1 2zM9 -6l2 -2h-3v2zM7 -6v-2h-2.5l-1 2z" fill="#4ef"/>
+		<path d="M-9 -6l-2 -2v-1h6l1.5 3M9 -6l2 -2v-1h-6l-1.5 3" fill="none" stroke="#bbb" stroke-width="1"/>
+	</g>
+	<path d="M-15 0l6 -6h18l6 6h-4l-3 -3h-1l-3 3h-8l-3 -3h-1l-3 3z" fill="#eee" stroke="#bbb" stroke-width="1"/>
+	<path d="M-9.7 -4l1 -1h1v1zM-6.7 -4v-1h1.4v1zM-4.3 -4v-1h1.4v1zM-1.9 -4v-1h1.4v1zM0.5 -4v-1h1.4v1zM2.9 -4v-1h1.4v1zM5.3 -4v-1h1.4v1zM7.7 -4v-1h1l1 1z" fill="#4ef"/>
+	<g>
+		<path d="M19 -1v1l-1 1h-36l-1 -1v-1z" fill="#bbb"/>
+		<path d="M19 0v2l-1 1h-36l-1 -1v-2z" fill="#eee"/>
+		<path d="M19 2l-1 2l-1 1h-34l-1 -1l-1 -2z" fill="#333"/>
+		<path d="M18 4q-1 2 -3 2h-30q-2 0 -3 -2z" fill="#833"/>
+	</g>
+	<g>
+		<path d="M-20.5 5h0.5c1.6 0.5 3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1s3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1h0.5a20.5 8 0 0 1 -41 0z" fill="#9df"/>
+		<path d="M-20 5c1.6 0.5 3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1s3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1M-7 8c1.92 0.6 3.84 1.2 6 1.2s4.08 -0.6 6 -1.2s3.84 -1.2 6 -1.2s4.08 0.6 6 1.2" fill="none" stroke="#37f" stroke-width="1" stroke-linecap="round"/>
+	</g>
+</svg>
