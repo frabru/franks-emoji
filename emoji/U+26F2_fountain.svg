@@ -30,6 +30,4 @@
 	<path d="M-7.75 18v-15h15.5v15" fill="#8ef"/>
 	<path d="M-2 18v-12q-3 0 -5 -2v-1h14v1q-2 2 -5 2v12" fill="#7ca" stroke="#588" stroke-width="1.5" stroke-linejoin="round"/>
 	<path d="M-19 20v-1l1 -4h36l1 4v1" fill="#ccc" stroke="#555" stroke-width="1.5"/>
-	<path d="" fill="#8ef"/>
-	<path d="" fill="#37f"/>
 </svg>
