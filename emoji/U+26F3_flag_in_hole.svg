@@ -16,7 +16,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="M-20 9h40a20 10 0 0 1 -40 0z" fill="#0e0"/>
+	<path d="M-20 11q20 -4 40 0a20 8 0 0 1 -40 0z" fill="#0e0"/>
 	<ellipse cx="-2" cy="14" rx="6" ry="2.5" fill="#888" stroke="#070" stroke-width="1.5"/>
 	<rect x="-3.5" y="-19" width="3" height="35.5" rx="1.5" ry="0.75" fill="#ddd"/>
 	<path d="M4 14a6 2.5 0 0 1 -12 0" fill="none" stroke="#070" stroke-width="1.5" stroke-linecap="round"/>
