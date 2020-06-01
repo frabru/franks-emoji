@@ -19,12 +19,13 @@
 	<path d="M-18 5l15 -21q-2 10 0 20q-14 0 -15 1" fill="#eee" stroke="#999" stroke-width="1.5"/>
 	<g>
 		<path d="M-2 -19l17 20v1h-17z" fill="#eee"/>
-		<path d="M-2 -19l17 20v1M5 7v-4h6l2 4" fill="none" stroke="#999" stroke-width="1.5"/>
+		<path d="M-2 -19l17 20v1" fill="none" stroke="#999" stroke-width="1.5"/>
+		<path d="M5 7v-4h6l2 4" fill="none" stroke="#999" stroke-width="1"/>
 	</g>
 	<line x1="-2" y1="-20" x2="-2" y2="7" stroke="#555" stroke-width="1.5"/>
 	<line x1="-2" y1="2" x2="17" y2="2" stroke="#555" stroke-width="1.5"/>
 	<path d="M-4 7l2 -2h6l2 2" fill="#eee" stroke="#999" stroke-width="1.5"/>
-	<path d="M-18 5q16 2 32 2l4 4v1h-20c-5 0 -11 0 -16 -6v-1z" fill="#eee" stroke="#999" stroke-width="1.5"/>
+	<path d="M-18 5q16 2 32 2l4 4v1h-20c-5 0 -11 0 -16 -6v-1z" fill="#eee" stroke="#777" stroke-width="1.5"/>
 	<g>
 		<path d="M-20.5 11h0.5c1.6 0.5 3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1s3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1h0.5a20.5 8 0 0 1 -41 0z" fill="#9df"/>
 		<path d="M-20 11c1.6 0.5 3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1s3.2 1 5 1s3.4 -0.5 5 -1s3.2 -1 5 -1s3.4 0.5 5 1M-7 14c1.92 0.6 3.84 1.2 6 1.2s4.08 -0.6 6 -1.2s3.84 -1.2 6 -1.2s4.08 0.6 6 1.2" fill="none" stroke="#37f" stroke-width="1" stroke-linecap="round"/>
