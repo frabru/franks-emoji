@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sk">Vlajka Slovenska</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+			<dc:title xml:lang="sk">Vlajka Slovenska</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#fff" d="M30  44q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#03f" d="M30 124q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#f00" d="M30 204q90 -27 180 0t180 0v80q-90 27 -180 0t-180 0z"/>
+	<g transform="matrix(1 0.06 0 1 138 151.04)">
+		<path fill="none" stroke="#fff" stroke-width="7.2" d="M-46 -60h92q2 20 2 40q0 29 -16 53q-10 15 -32 27q-22 -12 -32 -27q-16 -24 -16 -53q0 -20 2 -40z"/>
+		<path fill="#f00" d="M-46 -60h92q2 20 2 40q0 29 -16 53h-64q-16 -24 -16 -53q0 -20 2 -40z"/>
+		<path fill="#fff" d="M-4 30v-37q-18 0 -26 4q1 -8 0 -16q8 4 26 4v-14q-14 0 -20 4q1 -8 0 -16q6 4 20 4q0 -14 -4 -20q8 1 16 0q-4 6 -4 20q14 0 20 -4q-1 8 0 16q-6 -4 -20 -4v14q18 0 26 -4q-1 8 0 16q-8 -4 -26 -4v37z"/>
+		<path fill="#03f" d="M0 60q-22 -12 -32 -27a17.44133 45 0 0 1 19 -3a17.44133 45 0 0 1 26 0a17.44133 45 0 0 1 19 3q-10 15 -32 27z"/>
+	</g>
+</svg>
