@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sl">Zastava Slovenije</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="sl">Zastava Slovenije</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M-10 49q110 -27 220 0t220 0v230q-110 27 -220 0t-220 0z"/>
+	<path fill="#fff" d="M0  59q105 -27 210 0t210 0v70l-105 50h-210l-105 -50z"/>
+	<path fill="#005ce6" d="M0 129q105 -27 210 0t210 0v70l-105 50h-210l-105 -50z"/>
+	<path fill="#f00" d="M0 199q105 -27 210 0t210 0v70q-105 27 -210 0t-210 0z"/>
+	<g transform="translate(105 115.5) scale(0.679198) translate(0 -3.12367)">
+		<path fill="#f00" d="M-40 -39.41a93.408 93.408 0 0 1 2.807 -1.274l74.386 0a93.408 93.408 0 0 1 2.807 1.274l-3.245 47.875a51.871 51.871 0 0 1 -36.755 46.19a51.871 51.871 0 0 1 -36.755 -46.19z"/>
+		<path fill="#005ce6" d="M-37.193 -40.684a93.408 93.408 0 0 1 74.386 0l-3.318 48.956a48.984 48.984 0 0 1 -33.875 43.359a48.984 48.984 0 0 1 -33.875 -43.359z"/>
+		<path fill="#fff" d="M-30 15l15 -20l15 20l15 -20l15 20a46.098 46.098 0 0 1 -1.509 5.283a10 10 0 0 1 -13.491 3.377a10 10 0 0 0 -10 0a10 10 0 0 1 -10 0a10 10 0 0 0 -10 0a10 10 0 0 1 -13.491 -3.377a46.098 46.098 0 0 1 -1.509 -5.283zM-15 15l15 -30l15 30zM-26.154 25.769a10 10 0 0 0 11.154 0.778a10 10 0 0 1 10 0a10 10 0 0 0 10 0a10 10 0 0 1 10 0a10 10 0 0 0 11.154 -0.778a46.098 46.098 0 0 1 -2.469 4.301a10 10 0 0 1 -8.685 -0.636a10 10 0 0 0 -10 0a10 10 0 0 1 -10 0a10 10 0 0 0 -10 0a10 10 0 0 1 -8.685 0.636a46.098 46.098 0 0 1 -2.469 -4.301zM-21.159 33.593a10 10 0 0 0 6.159 -1.272a10 10 0 0 1 10 0a10 10 0 0 0 10 0a10 10 0 0 1 10 0a10 10 0 0 0 6.159 1.272a46.098 46.098 0 0 1 -21.159 14.996a46.098 46.098 0 0 1 -21.159 -14.996z"/>
+		<path fill="#ffe600" transform="translate(-11.25 -40)" d="M0 -3.75l0.937 2.126l2.311 -0.251l-1.373 1.875l1.373 1.875l-2.31 -0.251l-0.938 2.126l-0.938 -2.126l-2.31 0.251l1.373 -1.875l-1.373 -1.875l2.311 0.251z"/>
+		<path fill="#ffe600" transform="translate(11.25 -40)" d="M0 -3.75l0.937 2.126l2.311 -0.251l-1.373 1.875l1.373 1.875l-2.31 -0.251l-0.938 2.126l-0.938 -2.126l-2.31 0.251l1.373 -1.875l-1.373 -1.875l2.311 0.251z"/>
+		<path fill="#ffe600" transform="translate(0 -25)" d="M0 -3.75l0.937 2.126l2.311 -0.251l-1.373 1.875l1.373 1.875l-2.31 -0.251l-0.938 2.126l-0.938 -2.126l-2.31 0.251l1.373 -1.875l-1.373 -1.875l2.311 0.251z"/>
+	</g>
+</svg>
