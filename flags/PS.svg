@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="ar">علم فلسطين</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="ar">علم فلسطين</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M-10 49q110 -27 220 0t220 0v230q-110 27 -220 0t-220 0z"/>
+	<path fill="#000" d="M0  59q105 -27 210 0t210 0v70l-105 50h-210l-55 -50z"/>
+	<path fill="#fff" d="M52.5 118.875q78.75 -10.125 157.5 10.125q105 27 210 0v70l-105 50h-210l-55 -50z"/>
+	<path fill="#0c0" d="M52.5 188.875q78.75 -10.125 157.5 10.125q105 27 210 0v70q-105 27 -210 0t-210 0z"/>
+	<path fill="#f00" d="M0  59q70 34.5 140 93q-70 46.5 -140 117z"/>
+</svg>
