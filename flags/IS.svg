@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="is">Íslenski fáninn</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="is">Íslenski fáninn</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M12.5 19q98.75 -27 197.5 0t197.5 0v290q-98.75 27 -197.5 0t-197.5 0z"/>
+	<path fill="#02529c" d="M22.5 29q52.5 -15.12 105 -13.3056l30 37.6032l30 -30q11.25 3.24 22.5 5.7024q93.75 27 187.5 0v105l-30 30l30 30v105q-93.75 27 -187.5 0q-11.25 -2.4624 -22.5 -5.7024l-30 -37.6032l-30 30q-52.5 -1.8144 -105 13.3056v-105l30 -30l-30 -30z"/>
+	<g fill="#fff">
+		<path d="M127.5 15.6944q7.5 0.2592 15 0.864l15 18.8016l15 -15q7.5 1.296 15 2.9376v270q-7.5 -1.6416 -15 -2.9376l-15 -18.8016l-15 15q-7.5 -0.6048 -15 -0.864z"/>
+		<path d="M22.5 134q93.75 -27 187.5 0t187.5 0v15l-15 15l15 15v15q-93.75 27 -187.5 0t-187.5 0v-15l15 -15l-15 -15z"/>
+	</g>
+	<g fill="#dc1e35">
+		<path d="M142.5 16.5584q15 1.2096 30 3.8016v270.00q-15 -2.592 -30 -3.8016z"/>
+		<path d="M22.5 149q93.75 -27 187.5 0t187.5 0v30q-93.75 27 -187.5 0t-187.5 0v-30z"/>
+	</g>
+</svg>
