@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="nb">Norges flagg</title>
+	<title xml:lang="nn">Noregs flagg</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="nb">Norges flagg</dc:title>
+				<dc:title xml:lang="nn">Noregs flagg</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M 35 34q87.5 -27.225 175 0t175 0v260q-87.5 27.225 -175 0t-175 0"/>
+	<path fill="#ba0c2f" d="M45 44q45 -14.85 90 -13.5l30 39l30 -30q7.5 2.025 15 4.5q82.5 27.225 165 0v90l-30 30l30 30v90q-82.5 27.225 -165 0q-7.5 -2.475 -15 -4.5l-30 -39l-30 30q-45 -1.35 -90 13.5v-90l30 -30l-30 -30z"/>
+	<g fill="#fff">
+		<path d="M135 30.5q7.5 0.225 15 0.9l15 19.5l15 -15q7.5 1.575 15 3.6v240q-7.5 -2.025 -15 -3.6l-15 -19.5l-15 15q-7.5 -0.675 -15 -0.9z"/>
+		<path d="M45 134q82.5 -27.225 165 0t165 0v15l-15 15l15 15v15q-82.5 27.225 -165 0t-165 0v-15l15 -15l-15 -15z"/>
+	</g>
+	<g fill="#00205b">
+		<path d="M150 31.4q15 1.35 30 4.5v240q-15 -3.15 -30 -4.5z"/>
+		<path d="M45 149q82.5 -27.225 165 0t165 0v30q-82.5 27.225 -165 0t-165 0z"/>
+	</g>
+</svg>
