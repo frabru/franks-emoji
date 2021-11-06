@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="pt">Bandeira do Brasil</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="pt">Bandeira do Brasil</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M25 31.5q92.5 -27 185 0t185 0v265q-92.5 27 -185 0t-185 0z"/>
+	<path fill="#009739" d="M35 41.5q87.5 -27 175 0t175 0v245q-87.5 27 -175 0t-175 0z"/>
+	<path fill="#f5e617" d="M64.75 156.3806q72.625 -61.1656 145.25 -85.1306q72.625 68.785 145.25 100.3694q-72.625 61.1656 -145.25 85.1306q-72.625 -68.785 -145.25 -100.3694z"/>
+	<g transform="translate(210 164) matrix(1 0.3 0 1 0 0) scale(1.75)">
+		<path fill="#00247d" d="M-32.01359 -14.14674A35 35 0 0 1 34.6551 4.90146L33.40736 10.43782A35 35 0 0 1 -33.87906 -8.78687z"/>
+		<g>
+			<path transform="translate(-28.7 -5.95) scale(3) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp CMi</desc>
+			</path>
+			<path transform="translate(-25.9 8.4) scale(3) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp CMa</desc>
+			</path>
+			<path transform="translate(-29.4 11.55) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Bet CMa</desc>
+			</path>
+			<path transform="translate(-22.05 5.95) scale(1.4) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Gam CMa</desc>
+			</path>
+			<path transform="translate(-18.2 11.55) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Del CMa</desc>
+			</path>
+			<path transform="translate(-19.25 15.05) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Eps CMa</desc>
+			</path>
+			<path transform="translate(10.5 -10.5) scale(3) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp Vir</desc>
+			</path>
+			<path transform="translate(24.5 11.9) scale(3) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp Sco</desc>
+			</path>
+			<path transform="translate(29.4 12.25) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Bet Sco</desc>
+			</path>
+			<path transform="translate(25.9 15.4) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Eps Sco</desc>
+			</path>
+			<path transform="translate(17.5 23.1) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>The Sco</desc>
+			</path>
+			<path transform="translate(17.5 26.25) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Iot Sco</desc>
+			</path>
+			<path transform="translate(21 19.95) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Kap Sco</desc>
+			</path>
+			<path transform="translate(23.8 17.85) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Lam Sco</desc>
+			</path>
+			<path transform="translate(17.5 19.6) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Mu Sco</desc>
+			</path>
+			<path transform="translate(-12.6 1.05) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp Hya</desc>
+			</path>
+			<path transform="translate(9.1 -2.1) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Gam Hya</desc>
+			</path>
+			<path transform="translate(0 15.75) scale(3) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp Cru</desc>
+			</path>
+			<path transform="translate(3.85 8.4) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Bet Cru</desc>
+			</path>
+			<path transform="translate(0 5.6) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Gam Cru</desc>
+			</path>
+			<path transform="translate(-3.5 9.1) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Del Cru</desc>
+			</path>
+			<path transform="translate(-0.7 10.85) scale(1.4) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+			
+				<desc>Eps Cru</desc>
+			</path>
+			<path transform="translate(10.5 24.15) scale(2.5) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp TrA</desc>
+			</path>
+			<path transform="translate(13.3 20.3) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Bet TrA</desc>
+			</path>
+			<path transform="translate(7.7 19.6) scale(2) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Gam TrA</desc>
+			</path>
+			<path transform="translate(-14 18.9) scale(3) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Alp Car</desc>
+			</path>
+			<path transform="translate(0 27.3) scale(1) scale(0.0714285)" fill="#fff" d="M0 -7L1.5716 -2.1631 6.6574 -2.1631 2.5429 0.8262 4.1145 5.6631 0 2.6738 -4.1145 5.6631 -2.5429 0.8262 -6.6574 -2.1631 -1.5716 -2.1631 0 -7z">
+				<desc>Sig Oct</desc>
+			</path>
+		</g>
+		<path fill="#fff" d="M33.40736 10.43782A35 35 0 0 0 34.6551 4.90146A85 85 0 0 0 -32.01359 -14.14674A35 35 0 0 0 -33.87906 -8.78687A80 80 0 0 1 33.40736 10.43782z"/>
+		<g transform="translate(-20 70) rotate(14.48)">
+			<desc xml:lang="pt">Ordem e progresso</desc>
+			<path transform="rotate(-21) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 0a9 10 0 1 1 18 0a9 10 0 0 1 -18 0zM-5 0a5 6 0 0 0 10 0a5 6 0 1 0 -10 0z"/>
+			<path transform="rotate(-18) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h12a6 6 0 1 1 0 12l6 8h-5l-6 -8h-3v8h-4zM-5 -6v4h8a2 2 0 0 0 0 -4z"/>
+			<path transform="rotate(-15) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h8a10 10 0 1 1 0 20h-8zM-5 -6v12h4a6 6 0 0 0 0 -12z"/>
+			<path transform="rotate(-12) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h18v4h-14v4h12v4h-12v4h14v4h-18z"/>
+			<path transform="rotate(-9) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h4l5 12.5l5 -12.5h4v20h-4v-10l-4 10h-2l-4 -10v10h-4z"/>
+
+			<path transform="rotate(-4.5) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-7.5 -9h15v4h-11v3h10v4h-10v3h11v4h-15z"/>
+
+			<path transform="translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h12a6 6 0 1 1 0 12h-8v8h-4zM-5 -6v4h8a2 2 0 0 0 0 -4z"/>
+			<path transform="rotate(3) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h12a6 6 0 1 1 0 12l6 8h-5l-6 -8h-3v8h-4zM-5 -6v4h8a2 2 0 0 0 0 -4z"/>
+			<path transform="rotate(6) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 0a9 10 0 1 1 18 0a9 10 0 0 1 -18 0zM-5 0a5 6 0 0 0 10 0a5 6 0 1 0 -10 0z"/>
+			<path transform="rotate(9) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M1 10a10 10 0 1 1 8 -16l-3.2 2.4a6 6 0 1 0 -4.8 9.6h4v-4h-4v-4h8v12z"/>
+			<path transform="rotate(12) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h12a6 6 0 1 1 0 12l6 8h-5l-6 -8h-3v8h-4zM-5 -6v4h8a2 2 0 0 0 0 -4z"/>
+			<path transform="rotate(15) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 -10h18v4h-14v4h12v4h-12v4h14v4h-18z"/>
+			<path transform="rotate(18) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M0 2a9 6 0 1 1 9 -6h-4a5 2 0 1 0 -5 2a9 6 0 1 1 -9 6h4a5 2 0 1 0 5 -2z"/>
+			<path transform="rotate(21) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M0 2a9 6 0 1 1 9 -6h-4a5 2 0 1 0 -5 2a9 6 0 1 1 -9 6h4a5 2 0 1 0 5 -2z"/>
+			<path transform="rotate(24) translate(0 -82.5) scale(0.16666)" fill="#009739" d="M-9 0a9 10 0 1 1 18 0a9 10 0 0 1 -18 0zM-5 0a5 6 0 0 0 10 0a5 6 0 1 0 -10 0z"/>
+		</g>
+	</g>
+</svg>
