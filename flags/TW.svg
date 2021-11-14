@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="cn">中華民國國旗</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="cn">中華民國國旗</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#fe0000" d="M210 44q90 27 180 0v240q-90 27 -180 0t-180 0v-120z"/>
+	<path fill="#000095" d="M30 44q90 -27 180 0v120q-90 -27 -180 0z"/>
+	<g transform="translate(120 90.5)">
+		<path fill="#fff" d="M0 -45L5.82343 -21.73333L22.5 -38.97114L15.9099 -15.9099L38.97114 -22.5L21.73333 -5.82343L45 0L21.73333 5.82343L38.97114 22.5L15.9099 15.9099L22.5 38.97114L5.82343 21.73333L0 45L-5.82343 21.73333L-22.5 38.97114L-15.9099 15.9099L-38.97114 22.5L-21.73333 5.82343L-45 0L-21.73333 -5.82343L-38.97114 -22.5L-15.9099 -15.9099L-22.5 -38.97114L-5.82343 -21.73333z"/>
+		<circle r="25.5" fill="#000095"/>
+		<circle r="22.5" fill="#fff"/>
+	</g>
+</svg>
