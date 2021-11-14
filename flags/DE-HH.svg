@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="de">Hamburgische Landesflagge</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="de">Hamburgische Landesflagge</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M12.5 41.5q98.75 -27 197.5 0t197.5 0v245q-98.75 27 -197.5 0t-197.5 0z"/>
+	<path fill="#f00" d="M22.5 51.5q93.75 -27 187.5 0t187.5 0v225q-93.75 27 -187.5 0t-187.5 0z"/>
+	<g transform="translate(215 164) matrix(1 0.196 0 1 0 0) scale(0.5)">
+		<g>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-80 0v-96h47v96"/>
+			<path fill="none" stroke="#000" stroke-width="2" d="M-80 -96.5h47"/>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-80 -97l-3 -1v-21h8v11h7v-11h8v11h7v-11h8v11h7v-11h8v21l-3 1z"/>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-56.5 -153.5l3.9 6.75h7.8l-3.9 6.75l3.9 6.75h-7.8l-3.9 6.75l-3.9 -6.75h-7.8l3.9 -6.75l-3.9 -6.75h7.8z"/>
+		</g>
+		<g>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-10.1 -127.1a10.1 10.1 0 0 1 8.1 -9.9v-9h-6v-4h6v-5h4v5h6v4h-6v9a10.1 10.1 0 0 1 8.1 9.9"/>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-23 0v-96v-11a23 23 0 0 1 46 0v11v96"/>
+			<path fill="none" stroke="#000" stroke-width="2" d="M-23 -96.5h46"/>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-23 -97l-3 -1v-9h52v9l-3 1z"/>
+		</g>
+		<g>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M33 0v-96h47v96"/>
+			<path fill="none" stroke="#000" stroke-width="2" d="M33 -96.5h47"/>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M33 -97l-3 -1v-21h8v11h7v-11h8v11h7v-11h8v11h7v-11h8v21l-3 1z"/>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M56.5 -153.5l3.9 6.75h7.8l-3.9 6.75l3.9 6.75h-7.8l-3.9 6.75l-3.9 -6.75h-7.8l3.9 -6.75l-3.9 -6.75h7.8z"/>
+		</g>
+		<g>
+			<path fill="#fff" stroke="#000" stroke-width="1" d="M-112 133v-14q21 -42 21 -112v-28h14v14h14v-14h14v14h14v-14h14v14h14v-14h14v14h14v-14h14v14h14v-14h14v14h14v-14h14v28q0 70 21 112v14z"/>
+			<path fill="none" stroke="#000" stroke-width="2" d="M-91 7h182M-112 119h77M112 119h-77M-35 133v-73a35 35 0 0 1 70 0v73"/>
+			<path fill="none" stroke="#000" stroke-width="1" d="M-25 133v-73a25 25 0 0 1 50 0v73M0 133v-98M-25 108h8M-25 60h8M25 108h-8M25 60h-8"/>
+			<path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" d="M-16 106q-2 2 0 4M-16 58q-2 2 0 4M16 106q2 2 0 4M16 58q2 2 0 4"/>
+		</g>
+	</g>
+</svg>
