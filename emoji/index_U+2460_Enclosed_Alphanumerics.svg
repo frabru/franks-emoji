@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-10 0 110 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Enclosed Alphanumerics</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+24C2-VS16_circled_latin_capital_letter_m.svg" xlink:title="Circled latin capital letter M">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+24C2-VS16_circled_latin_capital_letter_m.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-10 0 90 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Supplemental Arrows-B</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+2934-VS16_arrow_pointing_rightwards_then_curving_upwards.svg" xlink:title="Arrow pointing rightwards then curving upwards">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+2934-VS16_arrow_pointing_rightwards_then_curving_upwards.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+2935-VS16_arrow_pointing_rightwards_then_curving_downwards.svg" xlink:title="Arrow pointing rightwards then curving downwards">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+2935-VS16_arrow_pointing_rightwards_then_curving_downwards.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-10 0 170 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Miscellaneous Technical</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+231A_watch.svg" xlink:title="Watch">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+231A_watch.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+231B_hourglass.svg" xlink:title="Hourglass">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+231B_hourglass.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+2328-VS16_keyboard.svg" xlink:title="Keyboard">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+2328-VS16_keyboard.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(120 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="U+23CF-VS16_eject_symbol.svg" xlink:title="Eject symbol">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23CF-VS16_eject_symbol.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+23E9_black_right-pointing_double_triangle.svg" xlink:title="Black right-pointing double triangle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23E9_black_right-pointing_double_triangle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+23EA_black_left-pointing_double_triangle.svg" xlink:title="Black left-pointing double triangle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23EA_black_left-pointing_double_triangle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+23EB_black_up-pointing_double_triangle.svg" xlink:title="Black up-pointing double triangle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23EB_black_up-pointing_double_triangle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<a xlink:href="U+23EC_black_down-pointing_double_triangle.svg" xlink:title="Black down-pointing double triangle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23EC_black_down-pointing_double_triangle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<a xlink:href="U+23ED-VS16_black_right-pointing_double_triangle_with_vertical_bar.svg" xlink:title="Black right-pointing double triangle with vertical bar">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23ED-VS16_black_right-pointing_double_triangle_with_vertical_bar.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="U+23EE-VS16_black_left-pointing_double_triangle_with_vertical_bar.svg" xlink:title="Black left-pointing double triangle with vertical bar">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23EE-VS16_black_left-pointing_double_triangle_with_vertical_bar.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(140 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="U+23EF-VS16_black_right-pointing_triangle_with_double_vertical_bar.svg" xlink:title="Black right-pointing triangle with double vertical bar">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23EF-VS16_black_right-pointing_triangle_with_double_vertical_bar.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+23F0_alarm_clock.svg" xlink:title="Alarm clock">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23F0_alarm_clock.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+23F1-VS16_stopwatch.svg" xlink:title="Stopwatch">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23F1-VS16_stopwatch.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+23F2-VS16_timer_clock.svg" xlink:title="Timer clock">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23F2-VS16_timer_clock.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+23F3_hourglass_with_flowing_sand.svg" xlink:title="Hourglass with flowing sand">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23F3_hourglass_with_flowing_sand.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+23F8-VS16_double_vertical_bar.svg" xlink:title="Double vertical bar">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23F8-VS16_double_vertical_bar.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+23F9-VS16_black_square_for_stop.svg" xlink:title="Black square for stop">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23F9-VS16_black_square_for_stop.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(150 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+23FA-VS16_black_circle_for_record.svg" xlink:title="Black circle for record">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+23FA-VS16_black_circle_for_record.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+</svg>

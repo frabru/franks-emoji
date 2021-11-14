@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-10 0 490 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Miscellaneous Symbols and Pictographs</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(190 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F435_monkey_face.svg" xlink:title="Monkey face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F435_monkey_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(350 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F534_large_red_circle.svg" xlink:title="Large red circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F534_large_red_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(350 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F535_large_blue_circle.svg" xlink:title="Large blue circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F535_large_blue_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+</svg>

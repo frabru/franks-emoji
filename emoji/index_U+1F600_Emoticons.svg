@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-10 0 60 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Emoticons</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F600_grinning_face.svg" xlink:title="Grinning face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F600_grinning_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F601_grinning_face_with_smiling_eyes.svg" xlink:title="Grinning face with smiling eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F601_grinning_face_with_smiling_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F602_face_with_tears_of_joy.svg" xlink:title="Face with tears of joy">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F602_face_with_tears_of_joy.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F603_smiling_face_with_open_mouth.svg" xlink:title="Smiling face with open mouth">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F603_smiling_face_with_open_mouth.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F604_smiling_face_with_open_mouth_and_smiling_eyes.svg" xlink:title="Smiling face with open mouth and smiling eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F604_smiling_face_with_open_mouth_and_smiling_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F605_smiling_face_with_open_mouth_and_cold_sweat.svg" xlink:title="Smiling face with open mouth and cold sweat">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F605_smiling_face_with_open_mouth_and_cold_sweat.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="U+1F606_smiling_face_with_open_mouth_and_tightly-closed_eyes.svg" xlink:title="Smiling face with open mouth and tightly-closed eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F606_smiling_face_with_open_mouth_and_tightly-closed_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="U+1F607_smiling_face_with_halo.svg" xlink:title="Smiling face with halo">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F607_smiling_face_with_halo.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+1F608_smiling_face_with_horns.svg" xlink:title="Smiling face with horns">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F608_smiling_face_with_horns.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+1F609_winking_face.svg" xlink:title="Winking face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F609_winking_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+1F60A_smiling_face_with_smiling_eyes.svg" xlink:title="Smiling face with smiling eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F60A_smiling_face_with_smiling_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+1F60B_face_savouring_delicious_food.svg" xlink:title="Face savouring delicious food">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F60B_face_savouring_delicious_food.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<a xlink:href="U+1F60C_relieved_face.svg" xlink:title="Relieved face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F60C_relieved_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<a xlink:href="U+1F60D_smiling_face_with_heart-shaped_eyes.svg" xlink:title="Smiling face with heart-shaped eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F60D_smiling_face_with_heart-shaped_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="U+1F60E_smiling_face_with_sunglasses.svg" xlink:title="Smiling face with sunglasses">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F60E_smiling_face_with_sunglasses.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="U+1F60F_smirking_face.svg" xlink:title="Smirking face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F60F_smirking_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F610_neutral_face.svg" xlink:title="Neutral face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F610_neutral_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F611_expressionless_face.svg" xlink:title="Expressionless face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F611_expressionless_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F612_unamused_face.svg" xlink:title="Unamused face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F612_unamused_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F613_face_with_cold_sweat.svg" xlink:title="Face with cold sweat">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F613_face_with_cold_sweat.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F614_pensive_face.svg" xlink:title="Pensive face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F614_pensive_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F615_confused_face.svg" xlink:title="Confused face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F615_confused_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="U+1F616_confounded_face.svg" xlink:title="Confounded face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F616_confounded_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="U+1F617_kissing_face.svg" xlink:title="Kissing face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F617_kissing_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+1F618_face_throwing_a_kiss.svg" xlink:title="Face throwing a kiss">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F618_face_throwing_a_kiss.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+1F619_kissing_face_with_smiling_eyes.svg" xlink:title="Kissing face with smiling eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F619_kissing_face_with_smiling_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+1F61A_kissing_face_with_closed_eyes.svg" xlink:title="Kissing face with closed eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F61A_kissing_face_with_closed_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+1F61B_face_with_stuck-out_tongue.svg" xlink:title="Face with stuck-out tongue">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F61B_face_with_stuck-out_tongue.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<a xlink:href="U+1F61C_face_with_stuck-out_tongue_and_winking_eye.svg" xlink:title="Face with stuck-out tongue and winking eye">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F61C_face_with_stuck-out_tongue_and_winking_eye.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<a xlink:href="U+1F61D_face_with_stuck-out_tongue_and_tightly-closed_eyes.svg" xlink:title="Face with stuck-out tongue">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F61D_face_with_stuck-out_tongue_and_tightly-closed_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="U+1F61E_disappointed_face.svg" xlink:title="Disappointed face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F61E_disappointed_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(10 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="U+1F61F_worried_face.svg" xlink:title="Worried face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F61F_worried_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F620_angry_face.svg" xlink:title="Angry face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F620_angry_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F621_pouting_face.svg" xlink:title="Pouting face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F621_pouting_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F622_crying_face.svg" xlink:title="Crying face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F622_crying_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F623_persevering_face.svg" xlink:title="Persevering face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F623_persevering_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F624_face_with_look_of_triumph.svg" xlink:title="Face with look of triumph">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F624_face_with_look_of_triumph.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F625_disappointed_but_relieved_face.svg" xlink:title="Disappointed but relieved face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F625_disappointed_but_relieved_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="U+1F626_frowning_face_with_open_mouth.svg" xlink:title="Frowning face with open mouth">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F626_frowning_face_with_open_mouth.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="U+1F627_anguished_face.svg" xlink:title="Anguished face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F627_anguished_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+1F628_fearful_face.svg" xlink:title="Fearful face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F628_fearful_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+1F629_weary_face.svg" xlink:title="Weary face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F629_weary_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+1F62A_sleepy_face.svg" xlink:title="Sleepy face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F62A_sleepy_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+1F62B_tired_face.svg" xlink:title="Tired face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F62B_tired_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<a xlink:href="U+1F62C_grimacing_face.svg" xlink:title="Grimacing face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F62C_grimacing_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<a xlink:href="U+1F62D_loudly_crying_face.svg" xlink:title="Loudly crying face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F62D_loudly_crying_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="U+1F62E_face_with_open_mouth.svg" xlink:title="Face with open mouth">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F62E_face_with_open_mouth.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(20 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="U+1F62F_hushed_face.svg" xlink:title="Hushed face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F62F_hushed_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F630_face_with_open_mouth_and_cold_sweat.svg" xlink:title="Face with open mouth">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F630_face_with_open_mouth_and_cold_sweat.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F631_face_screaming_in_fear.svg" xlink:title="Face screaming in fear">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F631_face_screaming_in_fear.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F632_astonished_face.svg" xlink:title="Astonished face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F632_astonished_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F633_flushed_face.svg" xlink:title="Flushed face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F633_flushed_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F634_sleeping_face.svg" xlink:title="Sleeping face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F634_sleeping_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F635_dizzy_face.svg" xlink:title="Dizzy face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F635_dizzy_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="U+1F636_face_without_mouth.svg" xlink:title="Face without mouth">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F636_face_without_mouth.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="U+1F637_face_with_medical_mask.svg" xlink:title="Face with medical mask">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F637_face_with_medical_mask.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+1F638_grinning_cat_face_with_smiling_eyes.svg" xlink:title="Grinning cat face with smiling eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F638_grinning_cat_face_with_smiling_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+1F639_cat_face_with_tears_of_joy.svg" xlink:title="Face with tears of joy">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F639_cat_face_with_tears_of_joy.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+1F63A_smiling_cat_face_with_open_mouth.svg" xlink:title="Smiling cat face with open mouth">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F63A_smiling_cat_face_with_open_mouth.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+1F63B_smiling_cat_face_with_heart-shaped_eyes.svg" xlink:title="Smiling cat face with heart-shaped eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F63B_smiling_cat_face_with_heart-shaped_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<a xlink:href="U+1F63C_cat_face_with_wry_smile.svg" xlink:title="Cat face with wry smile">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F63C_cat_face_with_wry_smile.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<a xlink:href="U+1F63D_kissing_cat_face_with_closed_eyes.svg" xlink:title="Kissing cat face with closed eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F63D_kissing_cat_face_with_closed_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="U+1F63E_pouting_cat_face.svg" xlink:title="Pouting cat face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F63E_pouting_cat_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(30 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="U+1F63F_crying_cat_face.svg" xlink:title="Crying cat face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F63F_crying_cat_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F640_weary_cat_face.svg" xlink:title="Weary cat face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F640_weary_cat_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F641_slightly_frowning_face.svg" xlink:title="Slightly frowning face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F641_slightly_frowning_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F642_slightly_smiling_face.svg" xlink:title="Slightly smiling face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F642_slightly_smiling_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F643_upside-down_face.svg" xlink:title="Upside-down face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F643_upside-down_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F644_face_with_rolling_eyes.svg" xlink:title="Face with rolling eyes">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F644_face_with_rolling_eyes.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F645_face_with_no_good_gesture.svg" xlink:title="Face with no good gesture">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F645_face_with_no_good_gesture.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 50)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F645-U+1F3FB_face_with_no_good_gesture_light_skin_tone.svg" xlink:title="Face with no good gesture, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F645-U+1F3FB_face_with_no_good_gesture_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F645-U+1F3FC_face_with_no_good_gesture_medium-light_skin_tone.svg" xlink:title="Face with no good gesture, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F645-U+1F3FC_face_with_no_good_gesture_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F645-U+1F3FD_face_with_no_good_gesture_medium_skin_tone.svg" xlink:title="Face with no good gesture, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F645-U+1F3FD_face_with_no_good_gesture_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F645-U+1F3FE_face_with_no_good_gesture_medium-dark_skin_tone.svg" xlink:title="Face with no good gesture, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F645-U+1F3FE_face_with_no_good_gesture_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F645-U+1F3FF_face_with_no_good_gesture_dark_skin_tone.svg" xlink:title="Face with no good gesture, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F645-U+1F3FF_face_with_no_good_gesture_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F646_face_with_ok_gesture.svg" xlink:title="Face with ok gesture">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F646_face_with_ok_gesture.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 60)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F646-U+1F3FB_face_with_ok_gesture_light_skin_tone.svg" xlink:title="Face with ok gesture, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F646-U+1F3FB_face_with_ok_gesture_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F646-U+1F3FC_face_with_ok_gesture_medium-light_skin_tone.svg" xlink:title="Face with ok gesture, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F646-U+1F3FC_face_with_ok_gesture_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F646-U+1F3FD_face_with_ok_gesture_medium_skin_tone.svg" xlink:title="Face with ok gesture, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F646-U+1F3FD_face_with_ok_gesture_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F646-U+1F3FE_face_with_ok_gesture_medium-dark_skin_tone.svg" xlink:title="Face with ok gesture, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F646-U+1F3FE_face_with_ok_gesture_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F646-U+1F3FF_face_with_ok_gesture_dark_skin_tone.svg" xlink:title="Face with ok gesture, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F646-U+1F3FF_face_with_ok_gesture_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F647_person_bowing_deeply.svg" xlink:title="Person bowing deeply">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F647_person_bowing_deeply.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 70)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F647-U+1F3FB_person_bowing_deeply_light_skin_tone.svg" xlink:title="Person bowing deeply, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F647-U+1F3FB_person_bowing_deeply_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F647-U+1F3FC_person_bowing_deeply_medium-light_skin_tone.svg" xlink:title="Person bowing deeply, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F647-U+1F3FC_person_bowing_deeply_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F647-U+1F3FD_person_bowing_deeply_medium_skin_tone.svg" xlink:title="Person bowing deeply, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F647-U+1F3FD_person_bowing_deeply_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F647-U+1F3FE_person_bowing_deeply_medium-dark_skin_tone.svg" xlink:title="Person bowing deeply, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F647-U+1F3FE_person_bowing_deeply_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F647-U+1F3FF_person_bowing_deeply_dark_skin_tone.svg" xlink:title="Person bowing deeply, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F647-U+1F3FF_person_bowing_deeply_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+1F648_see-no-evil_monkey.svg" xlink:title="See-no-evil monkey">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F648_see-no-evil_monkey.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+1F649_hear-no-evil_monkey.svg" xlink:title="Hear-no-evil monkey">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F649_hear-no-evil_monkey.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+1F64A_speak-no-evil_monkey.svg" xlink:title="Speak-no-evil monkey">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F64A_speak-no-evil_monkey.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F64B_happy_person_raising_one_hand.svg" xlink:title="Happy person raising one hand">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F64B_happy_person_raising_one_hand.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 110)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F64B-U+1F3FB_happy_person_raising_one_hand_light_skin_tone.svg" xlink:title="Happy person raising one hand, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64B-U+1F3FB_happy_person_raising_one_hand_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F64B-U+1F3FC_happy_person_raising_one_hand_medium-light_skin_tone.svg" xlink:title="Happy person raising one hand, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64B-U+1F3FC_happy_person_raising_one_hand_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F64B-U+1F3FD_happy_person_raising_one_hand_medium_skin_tone.svg" xlink:title="Happy person raising one hand, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64B-U+1F3FD_happy_person_raising_one_hand_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F64B-U+1F3FE_happy_person_raising_one_hand_medium-dark_skin_tone.svg" xlink:title="Happy person raising one hand, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64B-U+1F3FE_happy_person_raising_one_hand_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F64B-U+1F3FF_happy_person_raising_one_hand_dark_skin_tone.svg" xlink:title="Happy person raising one hand, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64B-U+1F3FF_happy_person_raising_one_hand_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F64C_person_raising_both_hands_in_celebration.svg" xlink:title="Person raising both hands in celebration">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F64C_person_raising_both_hands_in_celebration.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 110)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F64C-U+1F3FB_person_raising_both_hands_in_celebration_light_skin_tone.svg" xlink:title="Person raising both hands in celebration, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64C-U+1F3FB_person_raising_both_hands_in_celebration_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F64C-U+1F3FC_person_raising_both_hands_in_celebration_medium-light_skin_tone.svg" xlink:title="Person raising both hands in celebration, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64C-U+1F3FC_person_raising_both_hands_in_celebration_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F64C-U+1F3FD_person_raising_both_hands_in_celebration_medium_skin_tone.svg" xlink:title="Person raising both hands in celebration, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64C-U+1F3FD_person_raising_both_hands_in_celebration_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F64C-U+1F3FE_person_raising_both_hands_in_celebration_medium-dark_skin_tone.svg" xlink:title="Person raising both hands in celebration, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64C-U+1F3FE_person_raising_both_hands_in_celebration_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F64C-U+1F3FF_person_raising_both_hands_in_celebration_dark_skin_tone.svg" xlink:title="Person raising both hands in celebration, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64C-U+1F3FF_person_raising_both_hands_in_celebration_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F64D_person_frowning.svg" xlink:title="Person frowning">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F64D_person_frowning.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 110)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F64D-U+1F3FB_person_frowning_light_skin_tone.svg" xlink:title="Person frowning, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64D-U+1F3FB_person_frowning_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F64D-U+1F3FC_person_frowning_medium-light_skin_tone.svg" xlink:title="Person frowning, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64D-U+1F3FC_person_frowning_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F64D-U+1F3FD_person_frowning_medium_skin_tone.svg" xlink:title="Person frowning, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64D-U+1F3FD_person_frowning_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F64D-U+1F3FE_person_frowning_medium-dark_skin_tone.svg" xlink:title="Person frowning, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64D-U+1F3FE_person_frowning_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F64D-U+1F3FF_person_frowning_dark_skin_tone.svg" xlink:title="Person frowning, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64D-U+1F3FF_person_frowning_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F64E_person_with_pouting_face.svg" xlink:title="Person with pouting face">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F64E_person_with_pouting_face.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 110)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F64E-U+1F3FB_person_with_pouting_face_light_skin_tone.svg" xlink:title="Person with pouting face, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64E-U+1F3FB_person_with_pouting_face_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F64E-U+1F3FC_person_with_pouting_face_medium-light_skin_tone.svg" xlink:title="Person with pouting face, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64E-U+1F3FC_person_with_pouting_face_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F64E-U+1F3FD_person_with_pouting_face_medium_skin_tone.svg" xlink:title="Person with pouting face, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64E-U+1F3FD_person_with_pouting_face_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F64E-U+1F3FE_person_with_pouting_face_medium-dark_skin_tone.svg" xlink:title="Person with pouting face, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64E-U+1F3FE_person_with_pouting_face_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F64E-U+1F3FF_person_with_pouting_face_dark_skin_tone.svg" xlink:title="Person with pouting face, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64E-U+1F3FF_person_with_pouting_face_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(40 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="U+1F64F_person_with_folded_hands.svg" xlink:title="Person with folded hands">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F64F_person_with_folded_hands.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-10 110)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="11" height="51" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="U+1F64F-U+1F3FB_person_with_folded_hands_light_skin_tone.svg" xlink:title="Person with folded hands, light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64F-U+1F3FB_person_with_folded_hands_light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="U+1F64F-U+1F3FC_person_with_folded_hands_medium-light_skin_tone.svg" xlink:title="Person with folded hands, medium-light skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64F-U+1F3FC_person_with_folded_hands_medium-light_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="U+1F64F-U+1F3FD_person_with_folded_hands_medium_skin_tone.svg" xlink:title="Person with folded hands, medium skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64F-U+1F3FD_person_with_folded_hands_medium_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="U+1F64F-U+1F3FE_person_with_folded_hands_medium-dark_skin_tone.svg" xlink:title="Person with folded hands, medium-dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64F-U+1F3FE_person_with_folded_hands_medium-dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="U+1F64F-U+1F3FF_person_with_folded_hands_dark_skin_tone.svg" xlink:title="Person with folded hands, dark skin tone">
+				<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="U+1F64F-U+1F3FF_person_with_folded_hands_dark_skin_tone.svg" x="0" y="0" width="10" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+</svg>

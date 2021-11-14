@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-10 0 90 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Geometric Shapes Extended</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F7E0_large_orange_circle.svg" xlink:title="Large orange circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E0_large_orange_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F7E1_large_yellow_circle.svg" xlink:title="Large yellow circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E1_large_yellow_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F7E2_large_green_circle.svg" xlink:title="Large green circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E2_large_green_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F7E3_large_purple_circle.svg" xlink:title="Large purple circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E3_large_purple_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="U+1F7E4_large_brown_circle.svg" xlink:title="Large brown circle">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E4_large_brown_circle.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="U+1F7E5_large_red_square.svg" xlink:title="Large red square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E5_large_red_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="U+1F7E6_large_blue_square.svg" xlink:title="Large blue square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E6_large_blue_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="U+1F7E7_large_orange_square.svg" xlink:title="Large orange square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E7_large_orange_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="U+1F7E8_large_yellow_square.svg" xlink:title="Large yellow square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E8_large_yellow_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 90)">
+		<a xlink:href="U+1F7E9_large_green_square.svg" xlink:title="Large green square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7E9_large_green_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="U+1F7EA_large_purple_square.svg" xlink:title="Large purple square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7EA_large_purple_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(60 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="U+1F7EB_large_brown_square.svg" xlink:title="Large brown square">
+			<rect x="0" y="0" width="10" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F7EB_large_brown_square.svg" x="0" y="0" width="10" height="10"/>
+		</a>
+	</g>
+</g>
+</svg>

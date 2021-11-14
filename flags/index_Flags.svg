@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-13 0 377 260" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Flags</title>
+<style type="text/css"><![CDATA[
+a:hover rect {
+	fill: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+]]></style>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 160)">
+		<a xlink:href="AQ.svg" xlink:title="True South">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="AQ.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(0 0)" class="main_item">
+	<g transform="translate(0 190)">
+		<a xlink:href="AT.svg" xlink:title="Flagge Österreichs">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="AT.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(13 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="BE.svg" xlink:title="Vlag van België">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="BE.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(13 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="BG.svg" xlink:title="Знаме на България">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="BG.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(13 0)" class="main_item">
+	<g transform="translate(0 170)">
+		<a xlink:href="BR.svg" xlink:title="Bandeira do Brasil">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="BR.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(26 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="CH.svg" xlink:title="Schweizerfahne">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="CH.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(26 0)" class="main_item">
+	<g transform="translate(0 130)">
+		<a xlink:href="CN.svg" xlink:title="五星红旗">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="CN.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(26 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="CO.svg" xlink:title="Tricolor Nacional de Colombia">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="CO.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(26 0)" class="main_item">
+	<g transform="translate(0 250)">
+		<a xlink:href="CZ.svg" xlink:title="Státní vlajka České republiky">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="CZ.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(39 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<path fill="#ccc" d="M1 0v4l-2 -2"/>
+		<a xlink:href="DE.svg" xlink:title="Schwarz Rot Gold">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="DE.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+	<g transform="translate(-13 40)" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="14" height="101" rx="2.5" ry="2.5"/>
+		<g transform="translate(0 0)">
+			<a xlink:href="DE-BW.svg" xlink:title="Landesflagge Baden-Württembergs">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-BW.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 10)">
+			<a xlink:href="DE-BY.svg" xlink:title="Staatsflagge Bayerns">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-BY.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 20)">
+			<a xlink:href="DE-HB.svg" xlink:title="Landesflagge Bremens">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-HB.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 30)">
+			<a xlink:href="DE-HE.svg" xlink:title="Landesflagge Hessens">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-HE.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 40)">
+			<a xlink:href="DE-HH.svg" xlink:title="Hamburgische Landesflagge">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-HH.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 50)">
+			<a xlink:href="DE-MV.svg" xlink:title="Landesflagge Mecklenburg-Vorpommerns">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-MV.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 60)">
+			<a xlink:href="DE-NW.svg" xlink:title="Landesflagge Nordrhein-Westfalens">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-NW.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 70)">
+			<a xlink:href="DE-SH.svg" xlink:title="Landesflagge Schleswig-Holsteins">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-SH.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 80)">
+			<a xlink:href="DE-SN.svg" xlink:title="Landesflagge Sachsens">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-SN.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+		<g transform="translate(0 90)">
+			<a xlink:href="DE-TH.svg" xlink:title="Landesflagge Thüringens">
+				<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+				<image xlink:href="DE-TH.svg" x="0" y="0" width="13" height="10"/>
+			</a>
+		</g>
+	</g>
+</g>
+<g transform="translate(39 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="DK.svg" xlink:title="Dannebrog">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="DK.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(39 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="DO.svg" xlink:title="Bandera de la República Dominicana">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="DO.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(52 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="EE.svg" xlink:title="Eesti lipp">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="EE.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(52 0)" class="main_item">
+	<g transform="translate(0 180)">
+		<a xlink:href="ES.svg" xlink:title="Bandera de España">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="ES.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(52 0)" class="main_item">
+	<g transform="translate(0 200)">
+		<a xlink:href="EU.svg" xlink:title="Drapeau européen">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="EU.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(65 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="FI.svg" xlink:title="Suomen lippu">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="FI.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(65 0)" class="main_item">
+	<g transform="translate(0 170)">
+		<a xlink:href="FR.svg" xlink:title="Drapeau français">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="FR.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(78 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="GB.svg" xlink:title="Union Flag">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="GB.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(78 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="GH.svg" xlink:title="flag of Ghana">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="GH.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(78 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="GL.svg" xlink:title="Kalaallit erfalasuat">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="GL.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(78 0)" class="main_item">
+	<g transform="translate(0 170)">
+		<a xlink:href="GR.svg" xlink:title="Κυανόλευκη">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="GR.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(91 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="HK.svg" xlink:title="香港區旗">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="HK.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(91 0)" class="main_item">
+	<g transform="translate(0 200)">
+		<a xlink:href="HU.svg" xlink:title="A Magyarország zászlaja">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="HU.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(104 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="IE.svg" xlink:title="Bratach na hÉireann">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="IE.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(104 0)" class="main_item">
+	<g transform="translate(0 170)">
+		<a xlink:href="IR.svg" xlink:title="پرچم سه رنگ ایران">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="IR.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(104 0)" class="main_item">
+	<g transform="translate(0 180)">
+		<a xlink:href="IS.svg" xlink:title="Íslenski fáninn">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="IS.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(104 0)" class="main_item">
+	<g transform="translate(0 190)">
+		<a xlink:href="IT.svg" xlink:title="Bandiera d’Italia">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="IT.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(117 0)" class="main_item">
+	<g transform="translate(0 120)">
+		<a xlink:href="JM.svg" xlink:title="Flag of Jamaica">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="JM.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(117 0)" class="main_item">
+	<g transform="translate(0 150)">
+		<a xlink:href="JP.svg" xlink:title="日章旗">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="JP.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(130 0)" class="main_item">
+	<g transform="translate(0 170)">
+		<a xlink:href="KR.svg" xlink:title="태극기">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="KR.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(143 0)" class="main_item">
+	<g transform="translate(0 190)">
+		<a xlink:href="LT.svg" xlink:title="Lietuvos vėliava">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="LT.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(143 0)" class="main_item">
+	<g transform="translate(0 200)">
+		<a xlink:href="LU.svg" xlink:title="Lëtzebuerger Fändel">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="LU.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(143 0)" class="main_item">
+	<g transform="translate(0 210)">
+		<a xlink:href="LV.svg" xlink:title="Latvijas karogs">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="LV.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(156 0)" class="main_item">
+	<g transform="translate(0 190)">
+		<a xlink:href="MT.svg" xlink:title="Bandiera ta' Malta">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="MT.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(156 0)" class="main_item">
+	<g transform="translate(0 200)">
+		<a xlink:href="MU.svg" xlink:title="Les Quatre Bandes">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="MU.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(169 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="NL.svg" xlink:title="Vlag van Nederland">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="NL.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(169 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="NO.svg" xlink:title="Norges flagg">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="NO.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(195 0)" class="main_item">
+	<g transform="translate(0 110)">
+		<a xlink:href="PL.svg" xlink:title="Flaga Polski">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="PL.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(195 0)" class="main_item">
+	<g transform="translate(0 180)">
+		<a xlink:href="PS.svg" xlink:title="علم فلسطين">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="PS.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(195 0)" class="main_item">
+	<g transform="translate(0 190)">
+		<a xlink:href="PT.svg" xlink:title="Bandeira de Portugal">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="PT.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(221 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="RO.svg" xlink:title="Drapelul României">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="RO.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(221 0)" class="main_item">
+	<g transform="translate(0 200)">
+		<a xlink:href="RU.svg" xlink:title="Флаг России">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="RU.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(234 0)" class="main_item">
+	<g transform="translate(0 80)">
+		<a xlink:href="SI.svg" xlink:title="Zastava Slovenije">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="SI.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(234 0)" class="main_item">
+	<g transform="translate(0 100)">
+		<a xlink:href="SK.svg" xlink:title="Vlajka Slovenska">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="SK.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(234 0)" class="main_item">
+	<g transform="translate(0 140)">
+		<a xlink:href="SO.svg" xlink:title="Calanka Soomaaliyaa">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="SO.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(247 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="TH.svg" xlink:title="ธงชาติไทย">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="TH.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(247 0)" class="main_item">
+	<g transform="translate(0 170)">
+		<a xlink:href="TR.svg" xlink:title="Türk bayrağı">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="TR.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(247 0)" class="main_item">
+	<g transform="translate(0 220)">
+		<a xlink:href="TW.svg" xlink:title="中華民國國旗">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="TW.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(260 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="UA.svg" xlink:title="Прапор України">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="UA.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(273 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="VE.svg" xlink:title="Bandera de Venezuela">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="VE.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="epo.svg" xlink:title="Esperanto-flago">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="epo.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="kur.svg" xlink:title="Ala Rengîn">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="kur.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="liv.svg" xlink:title="Līvõd plagā">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="liv.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="rom.svg" xlink:title="O styago le romengo">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="rom.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 40)">
+		<a xlink:href="sli.svg" xlink:title="Fana Ślōnska">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="sli.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 50)">
+		<a xlink:href="smi.svg" xlink:title="Sámi leavga">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="smi.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 60)">
+		<a xlink:href="vmf.svg" xlink:title="Frankenfahne">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="vmf.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(338 0)" class="main_item">
+	<g transform="translate(0 70)">
+		<a xlink:href="wen.svg" xlink:title="Serbska chorhoj">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="wen.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(351 0)" class="main_item">
+	<g transform="translate(0 0)">
+		<a xlink:href="U+1F3F3-VS16-ZWJ-U+1F308_rainbow_flag.svg" xlink:title="Rainbow flag">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F3F3-VS16-ZWJ-U+1F308_rainbow_flag.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(351 0)" class="main_item">
+	<g transform="translate(0 10)">
+		<a xlink:href="U+1F3F3-VS16-ZWJ-U+26A7-VS16_transgender_flag.svg" xlink:title="Transgender flag">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F3F3-VS16-ZWJ-U+26A7-VS16_transgender_flag.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(351 0)" class="main_item">
+	<g transform="translate(0 20)">
+		<a xlink:href="U+1F3F4-ZWJ-U+2620-VS16_pirate_flag.svg" xlink:title="Pirate flag">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F3F4-ZWJ-U+2620-VS16_pirate_flag.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+<g transform="translate(351 0)" class="main_item">
+	<g transform="translate(0 30)">
+		<a xlink:href="U+1F3F4-ZWJ-U+26A7-VS16_black_trans_flag.svg" xlink:title="Black trans flag">
+			<rect x="0" y="0" width="13" height="10" rx="2" ry="2" fill="none"/>
+			<image xlink:href="U+1F3F4-ZWJ-U+26A7-VS16_black_trans_flag.svg" x="0" y="0" width="13" height="10"/>
+		</a>
+	</g>
+</g>
+</svg>
