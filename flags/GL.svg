@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="kl">Kalaallit erfalasuat</title>
+	<title xml:lang="da">Grønlands flag</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="kl">Kalaallit erfalasuat</dc:title>
+				<dc:title xml:lang="da">Grønlands flag</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -26.973 190 0t190 0v260q-95 26.973 -190 0t-190 0z"/>
+	<path fill="#fff" d="M30  44q90 -26.973 180 0t180 0v120l-90 90h-180l-90 -90z"/>
+	<path fill="#e31836" fill-rule="evenodd" transform="matrix(1 0.1665 0 1 170 154.676)" d="M-140 32.634q90 -41.958 180 -29.97t180 -29.97v120q-90 41.958 -180 29.97t-180 29.97zM-80 0a80 80 0 1 1 160 0a80 80 0 0 1 -160 0z"/>
+</svg>
