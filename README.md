@@ -11,7 +11,7 @@ Licensing information is also included as RDF metadata in each SVG file.
 
 The majority of the graphics are licensed under the [*CC BY-NC-SA 4.0*](http://creativecommons.org/licenses/by-nc-sa/4.0/) Licence.
 
-All graphics in the [*flags*](./flags/index_Flags.svg) directory as well as the custom emoji [*thumbs up smiley*](./emoji/U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg) (which inspired the whole project) and [*frowning face giving thumbs down*](./emoji/U+2639-VS16-ZWJ-U+1F44E_frowning_face_giving_thumbs_down.svg) are under the [*CC0 1.0*](http://creativecommons.org/publicdomain/zero/1.0/) waiver.
+All graphics in the [*flags*](./flags/index_Flags.md) directory as well as the custom emoji [*thumbs up smiley*](./emoji/U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg) (which inspired the whole project) and [*frowning face giving thumbs down*](./emoji/U+2639-VS16-ZWJ-U+1F44E_frowning_face_giving_thumbs_down.svg) are under the [*CC0 1.0*](http://creativecommons.org/publicdomain/zero/1.0/) waiver.
 
 
 ## Codepoints
