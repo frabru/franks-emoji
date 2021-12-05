@@ -3,6 +3,8 @@
 cd "$( dirname "$0" )"
 cd ..
 
+format="${1-svg}"
+
 numargs() {
 	printf '%d\n' "$#"
 }
@@ -71,6 +73,58 @@ ${1#.svg}"
 
 ## start_chart TITLE
 start_chart() {
+	"start_chart_$format" "$@"
+}
+start_chart_md() {
+	printf '# %s\n\n' "$1"
+	for i in $( seq $NUM_ROWS ) ; do
+		printf %s '| &#x2003; '
+	done
+	printf '%s\n' '|'
+	for i in $( seq $NUM_ROWS ) ; do
+		printf %s "| :---: "
+	done
+	printf '%s\n' '|'
+	TABLE_ROW=0
+	TABLE_COL=0
+	POST_TABLE_CONTENT=
+}
+start_chart_xhtml() {
+	cat <<E
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>$( cdata "$1" )</title>
+	<style type="text/css"><![CDATA[
+img {
+	vertical-align: middle;
+}
+a:hover img {
+	background: #4455ff;
+}
+.sub_items {
+	visibility: hidden;
+	position: absolute;
+	background: #ffffff;
+	border: 2px #cccccc solid;
+	padding: 2px;
+}
+.has_sub_items {
+	border-bottom: solid 2px #cccccc;
+}
+.main_item:hover .sub_items {
+	visibility: visible;
+}
+	]]></style>
+</head>
+<body>
+<table>
+<tbody>
+<tr>
+E
+TABLE_ROW=0
+TABLE_COL=0
+}
+start_chart_svg() {
 	cat <<E
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="-$TILE_WIDTH 0 $( printf '%d %d' $(( $TILE_WIDTH * ( $NUM_COLS + 1 ) )) $(( $TILE_HEIGHT * $NUM_ROWS )) )" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -90,6 +144,21 @@ E
 }
 
 end_chart() {
+	"end_chart_$format" "$@"
+}
+end_chart_md() {
+	printf '%s\n\n%s\n' '|' "$POST_TABLE_CONTENT"
+}
+end_chart_xhtml() {
+	cat <<E
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+E
+}
+end_chart_svg() {
 cat <<E
 </svg>
 E
@@ -97,6 +166,94 @@ E
 
 ## chart_item ROW COLUMN MAIN_FILENAME [SUB_FILENAMES...]
 chart_item() {
+	"chart_item_$format" "$@"
+}
+chart_item_md() {
+	POS_ROW="$1"
+	POS_COL="$2"
+	shift 2
+	while [ "$TABLE_ROW" -lt "$POS_ROW" ] ; do
+		while [ "$TABLE_COL" -lt "$NUM_ROWS" ] ; do
+			printf %s '| &#160; '
+			TABLE_COL=$(( TABLE_COL + 1 ))
+		done
+		printf '%s\n' '|'
+		TABLE_ROW=$(( TABLE_ROW + 1 ))
+		TABLE_COL=0
+	done
+	while [ "$TABLE_COL" -lt "$POS_COL" ] ; do
+		printf %s '| &#160; '
+		TABLE_COL=$(( TABLE_COL + 1 ))
+	done
+	if [ $# -gt 1 ] ; then
+		printf %s "| [![$( title "$1" )]($1)](<#$(
+tr '[:upper:]' '[:lower:]' <<ARG |
+${1%%[_.]*}
+ARG
+tr -d +
+)> \"$( title "$1" )\")"
+		POST_TABLE_CONTENT="$POST_TABLE_CONTENT
+
+## ${1%%[_.]*}
+"
+		for sub_item in "$@" ; do
+			POST_TABLE_CONTENT="$POST_TABLE_CONTENT
+- <a href="$( attr_data "$sub_item" )" title="$( title "$sub_item" )"><img src="$( attr_data "$sub_item" )" x="0" y="0" width="$TILE_WIDTH" height="$TILE_HEIGHT"/></a>"
+		done
+	else
+		printf %s "| [![$( title "$1" )]($1)](<$1> \"$( title "$1" )\")"
+	fi
+	TABLE_COL=$(( TABLE_COL + 1 ))
+}
+chart_item_xhtml() {
+	POS_ROW="$1"
+	POS_COL="$2"
+	shift 2
+	while [ "$TABLE_ROW" -lt "$POS_ROW" ] ; do
+		if [ "$TABLE_COL" = 0 ] ; then
+			cat <<E
+<td>&#160;</td>
+E
+		fi
+		cat <<E
+</tr>
+<tr>
+E
+		TABLE_ROW=$(( TABLE_ROW + 1 ))
+		TABLE_COL=0
+	done
+	while [ "$TABLE_COL" -lt "$POS_COL" ] ; do
+		cat <<E
+<td>&#160;</td>
+E
+		TABLE_COL=$(( TABLE_COL + 1 ))
+	done
+	cat <<E
+<td class="main_item$( if [ $# -gt 1 ] ; then printf ' %s' has_sub_items ; fi )">
+<a href="$( attr_data "$1" )" title="$( title "$1" )">
+	<img src="$( attr_data "$1" )" x="0" y="0" width="$TILE_WIDTH" height="$TILE_HEIGHT"/>
+</a>
+E
+	if [ $# -gt 1 ] ; then
+		shift
+		cat <<E
+<div class="sub_items">
+E
+		for file in "$@" ; do
+			cat <<E
+	<a href="$( attr_data "$file" )" title="$( title "$file" )"><img src="$( attr_data "$file" )" x="0" y="0" width="$TILE_WIDTH" height="$TILE_HEIGHT"/></a>
+E
+		done
+		cat <<E
+</div>
+E
+	fi
+	cat <<E
+</td>
+E
+	TABLE_COL=$(( TABLE_COL + 1 ))
+}
+chart_item_svg() {
 	POS_COL="$1"
 	POS_ROW="$2"
 	shift 2
@@ -189,8 +346,8 @@ create_chart() {
 	CP_MIN="$( printf '%d\n' "0x$CP_MIN" )"
 	CP_MAX="$( printf '%d\n' "0x$CP_MAX" )"
 
-	TILE_WIDTH=10
-	TILE_HEIGHT=10
+	TILE_WIDTH=18
+	TILE_HEIGHT=18
 
 	CHART_NAME="$2"
 
@@ -231,8 +388,8 @@ ARG
 }
 
 create_chart_flags() {
-	TILE_WIDTH=13
-	TILE_HEIGHT=10
+	TILE_WIDTH=26
+	TILE_HEIGHT=20
 
 	num_lang_codes="$( numargs [[:lower:]][[:lower:]][[:lower:]].svg )"
 	num_zwj_seq="$( numargs U+*.svg )"
@@ -257,27 +414,35 @@ create_chart_flags() {
 	end_chart
 }
 
+write_chart() {
+	create_chart "$1" "$2" | tee "index_${1%%..*}_$(
+	tr ' ' _ <<ARG
+$2
+ARG
+	).$format"
+}
+
 cd ./emoji
-create_chart U+2300..U+23FF 'Miscellaneous Technical' | tee index_U+2300_Miscellaneous_Technical.svg
-create_chart U+2460..U+24FF 'Enclosed Alphanumerics' | tee index_U+2460_Enclosed_Alphanumerics.svg
-create_chart U+2600..U+26FF 'Miscellaneous Symbols' | tee index_U+2600_Miscellaneous_Symbols.svg
-# create_chart U+2700..U+27BF 'Dingbats' | tee index_U+2700_Dingbats.svg
-create_chart U+2900..U+297F 'Supplemental Arrows-B' | tee index_U+2900_Supplemental_Arrows-B.svg
-create_chart U+2B00..U+2BFF 'Miscellaneous Symbols and Arrows' | tee index_U+2B00_Miscellaneous_Symbols_and_Arrows.svg
-# create_chart U+3200..U+32FF 'Enclosed CJK Letters and Months' | tee index_U+3200_Enclosed_CJK_Letters_and_Months.svg
-# create_chart U+1F000..U+1F02F 'Mahjong Tiles' | tee index_U+1F000_Mahjong_Tiles.svg
-# create_chart U+1F0A0..U+1F0FF 'Playing Cards' | tee index_U+1F0A0_Playing_Cards.svg
-# create_chart U+1F100..U+1F1FF 'Enclosed Alphanumeric Supplement' | tee index_U+1F100_Enclosed_Alphanumeric_Supplement.svg
-# create_chart U+1F200..U+1F2FF 'Enclosed Ideographic Supplement' | tee index_U+1F200_Enclosed_Ideographic_Supplement.svg
-create_chart U+1F300..U+1F5FF 'Miscellaneous Symbols and Pictographs' | tee index_U+1F300_Miscellaneous_Symbols_and_Pictographs.svg
-create_chart U+1F600..U+1F64F 'Emoticons' | tee index_U+1F600_Emoticons.svg
-# create_chart U+1F650..U+1F67F 'Ornamental Dingbats' | tee index_U+1F650_Ornamental_Dingbats.svg
-# create_chart U+1F680..U+1F6FF 'Transport and Map Symbols' | tee index_U+1F680_Transport_and_Map_Symbols.svg
-create_chart U+1F780..U+1F7FF 'Geometric Shapes Extended' | tee index_U+1F780_Geometric_Shapes_Extended.svg
-# create_chart U+1F900..U+1F9FF 'Supplemental Symbols and Pictographs' | tee index_U+1F900_Supplemental_Symbols_and_Pictographs.svg
-# create_chart U+1FA70..U+1FAFF 'Symbols and Pictographs Extended-A' | tee index_U+1FA70_Symbols_and_Pictographs_Extended-A.svg
+write_chart U+2300..U+23FF 'Miscellaneous Technical'
+write_chart U+2460..U+24FF 'Enclosed Alphanumerics'
+write_chart U+2600..U+26FF 'Miscellaneous Symbols'
+# write_chart U+2700..U+27BF 'Dingbats'
+write_chart U+2900..U+297F 'Supplemental Arrows-B'
+write_chart U+2B00..U+2BFF 'Miscellaneous Symbols and Arrows'
+# write_chart U+3200..U+32FF 'Enclosed CJK Letters and Months'
+# write_chart U+1F000..U+1F02F 'Mahjong Tiles'
+# write_chart U+1F0A0..U+1F0FF 'Playing Cards'
+# write_chart U+1F100..U+1F1FF 'Enclosed Alphanumeric Supplement'
+# write_chart U+1F200..U+1F2FF 'Enclosed Ideographic Supplement'
+write_chart U+1F300..U+1F5FF 'Miscellaneous Symbols and Pictographs'
+write_chart U+1F600..U+1F64F 'Emoticons'
+# write_chart U+1F650..U+1F67F 'Ornamental Dingbats'
+# write_chart U+1F680..U+1F6FF 'Transport and Map Symbols'
+write_chart U+1F780..U+1F7FF 'Geometric Shapes Extended'
+# write_chart U+1F900..U+1F9FF 'Supplemental Symbols and Pictographs'
+# write_chart U+1FA70..U+1FAFF 'Symbols and Pictographs Extended-A'
 cd ..
 
 cd ./flags
-create_chart_flags | tee index_Flags.svg
+create_chart_flags | tee "index_Flags.$format"
 
