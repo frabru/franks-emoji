@@ -12,72 +12,72 @@
 
 ## U+1F645
 
-- <a href=U+1F645_face_with_no_good_gesture.svg title=Face with no good gesture><img src=U+1F645_face_with_no_good_gesture.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F645-U+1F3FB_face_with_no_good_gesture_light_skin_tone.svg title=Face with no good gesture, light skin tone><img src=U+1F645-U+1F3FB_face_with_no_good_gesture_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F645-U+1F3FC_face_with_no_good_gesture_medium-light_skin_tone.svg title=Face with no good gesture, medium-light skin tone><img src=U+1F645-U+1F3FC_face_with_no_good_gesture_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F645-U+1F3FD_face_with_no_good_gesture_medium_skin_tone.svg title=Face with no good gesture, medium skin tone><img src=U+1F645-U+1F3FD_face_with_no_good_gesture_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F645-U+1F3FE_face_with_no_good_gesture_medium-dark_skin_tone.svg title=Face with no good gesture, medium-dark skin tone><img src=U+1F645-U+1F3FE_face_with_no_good_gesture_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F645-U+1F3FF_face_with_no_good_gesture_dark_skin_tone.svg title=Face with no good gesture, dark skin tone><img src=U+1F645-U+1F3FF_face_with_no_good_gesture_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F645_face_with_no_good_gesture.svg" title="Face with no good gesture"><img src="U+1F645_face_with_no_good_gesture.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F645-U+1F3FB_face_with_no_good_gesture_light_skin_tone.svg" title="Face with no good gesture, light skin tone"><img src="U+1F645-U+1F3FB_face_with_no_good_gesture_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F645-U+1F3FC_face_with_no_good_gesture_medium-light_skin_tone.svg" title="Face with no good gesture, medium-light skin tone"><img src="U+1F645-U+1F3FC_face_with_no_good_gesture_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F645-U+1F3FD_face_with_no_good_gesture_medium_skin_tone.svg" title="Face with no good gesture, medium skin tone"><img src="U+1F645-U+1F3FD_face_with_no_good_gesture_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F645-U+1F3FE_face_with_no_good_gesture_medium-dark_skin_tone.svg" title="Face with no good gesture, medium-dark skin tone"><img src="U+1F645-U+1F3FE_face_with_no_good_gesture_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F645-U+1F3FF_face_with_no_good_gesture_dark_skin_tone.svg" title="Face with no good gesture, dark skin tone"><img src="U+1F645-U+1F3FF_face_with_no_good_gesture_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F646
 
-- <a href=U+1F646_face_with_ok_gesture.svg title=Face with ok gesture><img src=U+1F646_face_with_ok_gesture.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F646-U+1F3FB_face_with_ok_gesture_light_skin_tone.svg title=Face with ok gesture, light skin tone><img src=U+1F646-U+1F3FB_face_with_ok_gesture_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F646-U+1F3FC_face_with_ok_gesture_medium-light_skin_tone.svg title=Face with ok gesture, medium-light skin tone><img src=U+1F646-U+1F3FC_face_with_ok_gesture_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F646-U+1F3FD_face_with_ok_gesture_medium_skin_tone.svg title=Face with ok gesture, medium skin tone><img src=U+1F646-U+1F3FD_face_with_ok_gesture_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F646-U+1F3FE_face_with_ok_gesture_medium-dark_skin_tone.svg title=Face with ok gesture, medium-dark skin tone><img src=U+1F646-U+1F3FE_face_with_ok_gesture_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F646-U+1F3FF_face_with_ok_gesture_dark_skin_tone.svg title=Face with ok gesture, dark skin tone><img src=U+1F646-U+1F3FF_face_with_ok_gesture_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F646_face_with_ok_gesture.svg" title="Face with ok gesture"><img src="U+1F646_face_with_ok_gesture.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F646-U+1F3FB_face_with_ok_gesture_light_skin_tone.svg" title="Face with ok gesture, light skin tone"><img src="U+1F646-U+1F3FB_face_with_ok_gesture_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F646-U+1F3FC_face_with_ok_gesture_medium-light_skin_tone.svg" title="Face with ok gesture, medium-light skin tone"><img src="U+1F646-U+1F3FC_face_with_ok_gesture_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F646-U+1F3FD_face_with_ok_gesture_medium_skin_tone.svg" title="Face with ok gesture, medium skin tone"><img src="U+1F646-U+1F3FD_face_with_ok_gesture_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F646-U+1F3FE_face_with_ok_gesture_medium-dark_skin_tone.svg" title="Face with ok gesture, medium-dark skin tone"><img src="U+1F646-U+1F3FE_face_with_ok_gesture_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F646-U+1F3FF_face_with_ok_gesture_dark_skin_tone.svg" title="Face with ok gesture, dark skin tone"><img src="U+1F646-U+1F3FF_face_with_ok_gesture_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F647
 
-- <a href=U+1F647_person_bowing_deeply.svg title=Person bowing deeply><img src=U+1F647_person_bowing_deeply.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F647-U+1F3FB_person_bowing_deeply_light_skin_tone.svg title=Person bowing deeply, light skin tone><img src=U+1F647-U+1F3FB_person_bowing_deeply_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F647-U+1F3FC_person_bowing_deeply_medium-light_skin_tone.svg title=Person bowing deeply, medium-light skin tone><img src=U+1F647-U+1F3FC_person_bowing_deeply_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F647-U+1F3FD_person_bowing_deeply_medium_skin_tone.svg title=Person bowing deeply, medium skin tone><img src=U+1F647-U+1F3FD_person_bowing_deeply_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F647-U+1F3FE_person_bowing_deeply_medium-dark_skin_tone.svg title=Person bowing deeply, medium-dark skin tone><img src=U+1F647-U+1F3FE_person_bowing_deeply_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F647-U+1F3FF_person_bowing_deeply_dark_skin_tone.svg title=Person bowing deeply, dark skin tone><img src=U+1F647-U+1F3FF_person_bowing_deeply_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F647_person_bowing_deeply.svg" title="Person bowing deeply"><img src="U+1F647_person_bowing_deeply.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F647-U+1F3FB_person_bowing_deeply_light_skin_tone.svg" title="Person bowing deeply, light skin tone"><img src="U+1F647-U+1F3FB_person_bowing_deeply_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F647-U+1F3FC_person_bowing_deeply_medium-light_skin_tone.svg" title="Person bowing deeply, medium-light skin tone"><img src="U+1F647-U+1F3FC_person_bowing_deeply_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F647-U+1F3FD_person_bowing_deeply_medium_skin_tone.svg" title="Person bowing deeply, medium skin tone"><img src="U+1F647-U+1F3FD_person_bowing_deeply_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F647-U+1F3FE_person_bowing_deeply_medium-dark_skin_tone.svg" title="Person bowing deeply, medium-dark skin tone"><img src="U+1F647-U+1F3FE_person_bowing_deeply_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F647-U+1F3FF_person_bowing_deeply_dark_skin_tone.svg" title="Person bowing deeply, dark skin tone"><img src="U+1F647-U+1F3FF_person_bowing_deeply_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F64B
 
-- <a href=U+1F64B_happy_person_raising_one_hand.svg title=Happy person raising one hand><img src=U+1F64B_happy_person_raising_one_hand.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64B-U+1F3FB_happy_person_raising_one_hand_light_skin_tone.svg title=Happy person raising one hand, light skin tone><img src=U+1F64B-U+1F3FB_happy_person_raising_one_hand_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64B-U+1F3FC_happy_person_raising_one_hand_medium-light_skin_tone.svg title=Happy person raising one hand, medium-light skin tone><img src=U+1F64B-U+1F3FC_happy_person_raising_one_hand_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64B-U+1F3FD_happy_person_raising_one_hand_medium_skin_tone.svg title=Happy person raising one hand, medium skin tone><img src=U+1F64B-U+1F3FD_happy_person_raising_one_hand_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64B-U+1F3FE_happy_person_raising_one_hand_medium-dark_skin_tone.svg title=Happy person raising one hand, medium-dark skin tone><img src=U+1F64B-U+1F3FE_happy_person_raising_one_hand_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64B-U+1F3FF_happy_person_raising_one_hand_dark_skin_tone.svg title=Happy person raising one hand, dark skin tone><img src=U+1F64B-U+1F3FF_happy_person_raising_one_hand_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F64B_happy_person_raising_one_hand.svg" title="Happy person raising one hand"><img src="U+1F64B_happy_person_raising_one_hand.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64B-U+1F3FB_happy_person_raising_one_hand_light_skin_tone.svg" title="Happy person raising one hand, light skin tone"><img src="U+1F64B-U+1F3FB_happy_person_raising_one_hand_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64B-U+1F3FC_happy_person_raising_one_hand_medium-light_skin_tone.svg" title="Happy person raising one hand, medium-light skin tone"><img src="U+1F64B-U+1F3FC_happy_person_raising_one_hand_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64B-U+1F3FD_happy_person_raising_one_hand_medium_skin_tone.svg" title="Happy person raising one hand, medium skin tone"><img src="U+1F64B-U+1F3FD_happy_person_raising_one_hand_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64B-U+1F3FE_happy_person_raising_one_hand_medium-dark_skin_tone.svg" title="Happy person raising one hand, medium-dark skin tone"><img src="U+1F64B-U+1F3FE_happy_person_raising_one_hand_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64B-U+1F3FF_happy_person_raising_one_hand_dark_skin_tone.svg" title="Happy person raising one hand, dark skin tone"><img src="U+1F64B-U+1F3FF_happy_person_raising_one_hand_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F64C
 
-- <a href=U+1F64C_person_raising_both_hands_in_celebration.svg title=Person raising both hands in celebration><img src=U+1F64C_person_raising_both_hands_in_celebration.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64C-U+1F3FB_person_raising_both_hands_in_celebration_light_skin_tone.svg title=Person raising both hands in celebration, light skin tone><img src=U+1F64C-U+1F3FB_person_raising_both_hands_in_celebration_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64C-U+1F3FC_person_raising_both_hands_in_celebration_medium-light_skin_tone.svg title=Person raising both hands in celebration, medium-light skin tone><img src=U+1F64C-U+1F3FC_person_raising_both_hands_in_celebration_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64C-U+1F3FD_person_raising_both_hands_in_celebration_medium_skin_tone.svg title=Person raising both hands in celebration, medium skin tone><img src=U+1F64C-U+1F3FD_person_raising_both_hands_in_celebration_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64C-U+1F3FE_person_raising_both_hands_in_celebration_medium-dark_skin_tone.svg title=Person raising both hands in celebration, medium-dark skin tone><img src=U+1F64C-U+1F3FE_person_raising_both_hands_in_celebration_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64C-U+1F3FF_person_raising_both_hands_in_celebration_dark_skin_tone.svg title=Person raising both hands in celebration, dark skin tone><img src=U+1F64C-U+1F3FF_person_raising_both_hands_in_celebration_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F64C_person_raising_both_hands_in_celebration.svg" title="Person raising both hands in celebration"><img src="U+1F64C_person_raising_both_hands_in_celebration.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64C-U+1F3FB_person_raising_both_hands_in_celebration_light_skin_tone.svg" title="Person raising both hands in celebration, light skin tone"><img src="U+1F64C-U+1F3FB_person_raising_both_hands_in_celebration_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64C-U+1F3FC_person_raising_both_hands_in_celebration_medium-light_skin_tone.svg" title="Person raising both hands in celebration, medium-light skin tone"><img src="U+1F64C-U+1F3FC_person_raising_both_hands_in_celebration_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64C-U+1F3FD_person_raising_both_hands_in_celebration_medium_skin_tone.svg" title="Person raising both hands in celebration, medium skin tone"><img src="U+1F64C-U+1F3FD_person_raising_both_hands_in_celebration_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64C-U+1F3FE_person_raising_both_hands_in_celebration_medium-dark_skin_tone.svg" title="Person raising both hands in celebration, medium-dark skin tone"><img src="U+1F64C-U+1F3FE_person_raising_both_hands_in_celebration_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64C-U+1F3FF_person_raising_both_hands_in_celebration_dark_skin_tone.svg" title="Person raising both hands in celebration, dark skin tone"><img src="U+1F64C-U+1F3FF_person_raising_both_hands_in_celebration_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F64D
 
-- <a href=U+1F64D_person_frowning.svg title=Person frowning><img src=U+1F64D_person_frowning.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64D-U+1F3FB_person_frowning_light_skin_tone.svg title=Person frowning, light skin tone><img src=U+1F64D-U+1F3FB_person_frowning_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64D-U+1F3FC_person_frowning_medium-light_skin_tone.svg title=Person frowning, medium-light skin tone><img src=U+1F64D-U+1F3FC_person_frowning_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64D-U+1F3FD_person_frowning_medium_skin_tone.svg title=Person frowning, medium skin tone><img src=U+1F64D-U+1F3FD_person_frowning_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64D-U+1F3FE_person_frowning_medium-dark_skin_tone.svg title=Person frowning, medium-dark skin tone><img src=U+1F64D-U+1F3FE_person_frowning_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64D-U+1F3FF_person_frowning_dark_skin_tone.svg title=Person frowning, dark skin tone><img src=U+1F64D-U+1F3FF_person_frowning_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F64D_person_frowning.svg" title="Person frowning"><img src="U+1F64D_person_frowning.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64D-U+1F3FB_person_frowning_light_skin_tone.svg" title="Person frowning, light skin tone"><img src="U+1F64D-U+1F3FB_person_frowning_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64D-U+1F3FC_person_frowning_medium-light_skin_tone.svg" title="Person frowning, medium-light skin tone"><img src="U+1F64D-U+1F3FC_person_frowning_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64D-U+1F3FD_person_frowning_medium_skin_tone.svg" title="Person frowning, medium skin tone"><img src="U+1F64D-U+1F3FD_person_frowning_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64D-U+1F3FE_person_frowning_medium-dark_skin_tone.svg" title="Person frowning, medium-dark skin tone"><img src="U+1F64D-U+1F3FE_person_frowning_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64D-U+1F3FF_person_frowning_dark_skin_tone.svg" title="Person frowning, dark skin tone"><img src="U+1F64D-U+1F3FF_person_frowning_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F64E
 
-- <a href=U+1F64E_person_with_pouting_face.svg title=Person with pouting face><img src=U+1F64E_person_with_pouting_face.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64E-U+1F3FB_person_with_pouting_face_light_skin_tone.svg title=Person with pouting face, light skin tone><img src=U+1F64E-U+1F3FB_person_with_pouting_face_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64E-U+1F3FC_person_with_pouting_face_medium-light_skin_tone.svg title=Person with pouting face, medium-light skin tone><img src=U+1F64E-U+1F3FC_person_with_pouting_face_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64E-U+1F3FD_person_with_pouting_face_medium_skin_tone.svg title=Person with pouting face, medium skin tone><img src=U+1F64E-U+1F3FD_person_with_pouting_face_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64E-U+1F3FE_person_with_pouting_face_medium-dark_skin_tone.svg title=Person with pouting face, medium-dark skin tone><img src=U+1F64E-U+1F3FE_person_with_pouting_face_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64E-U+1F3FF_person_with_pouting_face_dark_skin_tone.svg title=Person with pouting face, dark skin tone><img src=U+1F64E-U+1F3FF_person_with_pouting_face_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F64E_person_with_pouting_face.svg" title="Person with pouting face"><img src="U+1F64E_person_with_pouting_face.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64E-U+1F3FB_person_with_pouting_face_light_skin_tone.svg" title="Person with pouting face, light skin tone"><img src="U+1F64E-U+1F3FB_person_with_pouting_face_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64E-U+1F3FC_person_with_pouting_face_medium-light_skin_tone.svg" title="Person with pouting face, medium-light skin tone"><img src="U+1F64E-U+1F3FC_person_with_pouting_face_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64E-U+1F3FD_person_with_pouting_face_medium_skin_tone.svg" title="Person with pouting face, medium skin tone"><img src="U+1F64E-U+1F3FD_person_with_pouting_face_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64E-U+1F3FE_person_with_pouting_face_medium-dark_skin_tone.svg" title="Person with pouting face, medium-dark skin tone"><img src="U+1F64E-U+1F3FE_person_with_pouting_face_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64E-U+1F3FF_person_with_pouting_face_dark_skin_tone.svg" title="Person with pouting face, dark skin tone"><img src="U+1F64E-U+1F3FF_person_with_pouting_face_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+1F64F
 
-- <a href=U+1F64F_person_with_folded_hands.svg title=Person with folded hands><img src=U+1F64F_person_with_folded_hands.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64F-U+1F3FB_person_with_folded_hands_light_skin_tone.svg title=Person with folded hands, light skin tone><img src=U+1F64F-U+1F3FB_person_with_folded_hands_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64F-U+1F3FC_person_with_folded_hands_medium-light_skin_tone.svg title=Person with folded hands, medium-light skin tone><img src=U+1F64F-U+1F3FC_person_with_folded_hands_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64F-U+1F3FD_person_with_folded_hands_medium_skin_tone.svg title=Person with folded hands, medium skin tone><img src=U+1F64F-U+1F3FD_person_with_folded_hands_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64F-U+1F3FE_person_with_folded_hands_medium-dark_skin_tone.svg title=Person with folded hands, medium-dark skin tone><img src=U+1F64F-U+1F3FE_person_with_folded_hands_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+1F64F-U+1F3FF_person_with_folded_hands_dark_skin_tone.svg title=Person with folded hands, dark skin tone><img src=U+1F64F-U+1F3FF_person_with_folded_hands_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+1F64F_person_with_folded_hands.svg" title="Person with folded hands"><img src="U+1F64F_person_with_folded_hands.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64F-U+1F3FB_person_with_folded_hands_light_skin_tone.svg" title="Person with folded hands, light skin tone"><img src="U+1F64F-U+1F3FB_person_with_folded_hands_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64F-U+1F3FC_person_with_folded_hands_medium-light_skin_tone.svg" title="Person with folded hands, medium-light skin tone"><img src="U+1F64F-U+1F3FC_person_with_folded_hands_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64F-U+1F3FD_person_with_folded_hands_medium_skin_tone.svg" title="Person with folded hands, medium skin tone"><img src="U+1F64F-U+1F3FD_person_with_folded_hands_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64F-U+1F3FE_person_with_folded_hands_medium-dark_skin_tone.svg" title="Person with folded hands, medium-dark skin tone"><img src="U+1F64F-U+1F3FE_person_with_folded_hands_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+1F64F-U+1F3FF_person_with_folded_hands_dark_skin_tone.svg" title="Person with folded hands, dark skin tone"><img src="U+1F64F-U+1F3FF_person_with_folded_hands_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>

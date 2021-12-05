@@ -35,15 +35,15 @@
 
 ## DE
 
-- <a href=DE.svg title=Schwarz Rot Gold><img src=DE.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-BE.svg title=Flagge von Berlin><img src=DE-BE.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-BW.svg title=Landesflagge Baden-Württembergs><img src=DE-BW.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-BY.svg title=Staatsflagge Bayerns><img src=DE-BY.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-HB.svg title=Landesflagge Bremens><img src=DE-HB.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-HE.svg title=Landesflagge Hessens><img src=DE-HE.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-HH.svg title=Hamburgische Landesflagge><img src=DE-HH.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-MV.svg title=Landesflagge Mecklenburg-Vorpommerns><img src=DE-MV.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-NW.svg title=Landesflagge Nordrhein-Westfalens><img src=DE-NW.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-SH.svg title=Landesflagge Schleswig-Holsteins><img src=DE-SH.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-SN.svg title=Landesflagge Sachsens><img src=DE-SN.svg x=0 y=0 width=26 height=20/></a>
-- <a href=DE-TH.svg title=Landesflagge Thüringens><img src=DE-TH.svg x=0 y=0 width=26 height=20/></a>
+- <a href="DE.svg" title="Schwarz Rot Gold"><img src="DE.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-BE.svg" title="Flagge von Berlin"><img src="DE-BE.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-BW.svg" title="Landesflagge Baden-Württembergs"><img src="DE-BW.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-BY.svg" title="Staatsflagge Bayerns"><img src="DE-BY.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-HB.svg" title="Landesflagge Bremens"><img src="DE-HB.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-HE.svg" title="Landesflagge Hessens"><img src="DE-HE.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-HH.svg" title="Hamburgische Landesflagge"><img src="DE-HH.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-MV.svg" title="Landesflagge Mecklenburg-Vorpommerns"><img src="DE-MV.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-NW.svg" title="Landesflagge Nordrhein-Westfalens"><img src="DE-NW.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-SH.svg" title="Landesflagge Schleswig-Holsteins"><img src="DE-SH.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-SN.svg" title="Landesflagge Sachsens"><img src="DE-SN.svg" x="0" y="0" width="26" height="20"/></a>
+- <a href="DE-TH.svg" title="Landesflagge Thüringens"><img src="DE-TH.svg" x="0" y="0" width="26" height="20"/></a>

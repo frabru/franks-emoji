@@ -198,7 +198,7 @@ tr -d +
 "
 		for sub_item in "$@" ; do
 			POST_TABLE_CONTENT="$POST_TABLE_CONTENT
-- <a href="$( attr_data "$sub_item" )" title="$( title "$sub_item" )"><img src="$( attr_data "$sub_item" )" x="0" y="0" width="$TILE_WIDTH" height="$TILE_HEIGHT"/></a>"
+- <a href=\"$( attr_data "$sub_item" )\" title=\"$( title "$sub_item" )\"><img src=\"$( attr_data "$sub_item" )\" x=\"0\" y=\"0\" width=\"$TILE_WIDTH\" height=\"$TILE_HEIGHT\"/></a>"
 		done
 	else
 		printf %s "| [![$( title "$1" )]($1)](<$1> \"$( title "$1" )\")"

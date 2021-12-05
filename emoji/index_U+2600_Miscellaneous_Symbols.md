@@ -23,24 +23,24 @@
 
 ## U+2602-VS16
 
-- <a href=U+2602-VS16_umbrella.svg title=Umbrella><img src=U+2602-VS16_umbrella.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+2602-VS16-ZWJ-U+1F7E5_red_umbrella.svg title=Red umbrella><img src=U+2602-VS16-ZWJ-U+1F7E5_red_umbrella.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+2602-VS16_umbrella.svg" title="Umbrella"><img src="U+2602-VS16_umbrella.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+2602-VS16-ZWJ-U+1F7E5_red_umbrella.svg" title="Red umbrella"><img src="U+2602-VS16-ZWJ-U+1F7E5_red_umbrella.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+261D-VS16
 
-- <a href=U+261D-VS16_white_up_pointing_index.svg title=White up pointing index><img src=U+261D-VS16_white_up_pointing_index.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+261D-U+1F3FB_white_up_pointing_index_light_skin_tone.svg title=White up pointing index, light skin tone><img src=U+261D-U+1F3FB_white_up_pointing_index_light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+261D-U+1F3FC_white_up_pointing_index_medium-light_skin_tone.svg title=White up pointing index, medium-light skin tone><img src=U+261D-U+1F3FC_white_up_pointing_index_medium-light_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+261D-U+1F3FD_white_up_pointing_index_medium_skin_tone.svg title=White up pointing index, medium skin tone><img src=U+261D-U+1F3FD_white_up_pointing_index_medium_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+261D-U+1F3FE_white_up_pointing_index_medium-dark_skin_tone.svg title=White up pointing index, medium-dark skin tone><img src=U+261D-U+1F3FE_white_up_pointing_index_medium-dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+261D-U+1F3FF_white_up_pointing_index_dark_skin_tone.svg title=White up pointing index, dark skin tone><img src=U+261D-U+1F3FF_white_up_pointing_index_dark_skin_tone.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+261D-VS16_white_up_pointing_index.svg" title="White up pointing index"><img src="U+261D-VS16_white_up_pointing_index.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+261D-U+1F3FB_white_up_pointing_index_light_skin_tone.svg" title="White up pointing index, light skin tone"><img src="U+261D-U+1F3FB_white_up_pointing_index_light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+261D-U+1F3FC_white_up_pointing_index_medium-light_skin_tone.svg" title="White up pointing index, medium-light skin tone"><img src="U+261D-U+1F3FC_white_up_pointing_index_medium-light_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+261D-U+1F3FD_white_up_pointing_index_medium_skin_tone.svg" title="White up pointing index, medium skin tone"><img src="U+261D-U+1F3FD_white_up_pointing_index_medium_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+261D-U+1F3FE_white_up_pointing_index_medium-dark_skin_tone.svg" title="White up pointing index, medium-dark skin tone"><img src="U+261D-U+1F3FE_white_up_pointing_index_medium-dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+261D-U+1F3FF_white_up_pointing_index_dark_skin_tone.svg" title="White up pointing index, dark skin tone"><img src="U+261D-U+1F3FF_white_up_pointing_index_dark_skin_tone.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+2639-VS16
 
-- <a href=U+2639-VS16_white_frowning_face.svg title=White frowning face><img src=U+2639-VS16_white_frowning_face.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+2639-VS16-ZWJ-U+1F44E_frowning_face_giving_thumbs_down.svg title=Frowning face giving thumbs down><img src=U+2639-VS16-ZWJ-U+1F44E_frowning_face_giving_thumbs_down.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+2639-VS16_white_frowning_face.svg" title="White frowning face"><img src="U+2639-VS16_white_frowning_face.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+2639-VS16-ZWJ-U+1F44E_frowning_face_giving_thumbs_down.svg" title="Frowning face giving thumbs down"><img src="U+2639-VS16-ZWJ-U+1F44E_frowning_face_giving_thumbs_down.svg" x="0" y="0" width="18" height="18"/></a>
 
 ## U+263A-VS16
 
-- <a href=U+263A-VS16_white_smiling_face.svg title=White smiling face><img src=U+263A-VS16_white_smiling_face.svg x=0 y=0 width=18 height=18/></a>
-- <a href=U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg title=Thumbs up smiley><img src=U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg x=0 y=0 width=18 height=18/></a>
+- <a href="U+263A-VS16_white_smiling_face.svg" title="White smiling face"><img src="U+263A-VS16_white_smiling_face.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg" title="Thumbs up smiley"><img src="U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg" x="0" y="0" width="18" height="18"/></a>
