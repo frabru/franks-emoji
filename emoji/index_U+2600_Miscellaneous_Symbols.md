@@ -17,7 +17,7 @@
 | &#160; | &#160; | &#160; | &#160; | [![Snowman without snow](U+26C4_snowman_without_snow.svg)](<U+26C4_snowman_without_snow.svg> "Snowman without snow")| [![Sun behind cloud](U+26C5_sun_behind_cloud.svg)](<U+26C5_sun_behind_cloud.svg> "Sun behind cloud")| &#160; | &#160; | [![Thunder cloud and rain](U+26C8-VS16_thunder_cloud_and_rain.svg)](<U+26C8-VS16_thunder_cloud_and_rain.svg> "Thunder cloud and rain")| &#160; | &#160; | &#160; | &#160; | &#160; | [![Ophiuchus](U+26CE_ophiuchus.svg)](<U+26CE_ophiuchus.svg> "Ophiuchus")| [![Pick](U+26CF-VS16_pick.svg)](<U+26CF-VS16_pick.svg> "Pick")|
 | &#160; | [![Helmet with white cross](U+26D1-VS16_helmet_with_white_cross.svg)](<U+26D1-VS16_helmet_with_white_cross.svg> "Helmet with white cross")| &#160; | [![Chains](U+26D3-VS16_chains.svg)](<U+26D3-VS16_chains.svg> "Chains")| [![No entry](U+26D4_no_entry.svg)](<U+26D4_no_entry.svg> "No entry")| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | [![Shinto shrine](U+26E9-VS16_shinto_shrine.svg)](<U+26E9-VS16_shinto_shrine.svg> "Shinto shrine")| [![Church](U+26EA_church.svg)](<U+26EA_church.svg> "Church")| &#160; | &#160; | &#160; | &#160; | &#160; |
-| [![Mountain](U+26F0-VS16_mountain.svg)](<U+26F0-VS16_mountain.svg> "Mountain")| [![Umbrella on ground](U+26F1-VS16_umbrella_on_ground.svg)](<U+26F1-VS16_umbrella_on_ground.svg> "Umbrella on ground")| [![Fountain](U+26F2_fountain.svg)](<U+26F2_fountain.svg> "Fountain")| [![Flag in hole](U+26F3_flag_in_hole.svg)](<U+26F3_flag_in_hole.svg> "Flag in hole")| [![Ferry](U+26F4-VS16_ferry.svg)](<U+26F4-VS16_ferry.svg> "Ferry")| [![Sailboat](U+26F5_sailboat.svg)](<U+26F5_sailboat.svg> "Sailboat")| &#160; | [![Skier](U+26F7-VS16_skier.svg)](<U+26F7-VS16_skier.svg> "Skier")| [![Ice skate](U+26F8-VS16_ice_skate.svg)](<U+26F8-VS16_ice_skate.svg> "Ice skate")| [![Person with ball](U+26F9-VS16_person_with_ball.svg)](<U+26F9-VS16_person_with_ball.svg> "Person with ball")|
+| [![Mountain](U+26F0-VS16_mountain.svg)](<U+26F0-VS16_mountain.svg> "Mountain")| [![Umbrella on ground](U+26F1-VS16_umbrella_on_ground.svg)](<U+26F1-VS16_umbrella_on_ground.svg> "Umbrella on ground")| [![Fountain](U+26F2_fountain.svg)](<U+26F2_fountain.svg> "Fountain")| [![Flag in hole](U+26F3_flag_in_hole.svg)](<U+26F3_flag_in_hole.svg> "Flag in hole")| [![Ferry](U+26F4-VS16_ferry.svg)](<U+26F4-VS16_ferry.svg> "Ferry")| [![Sailboat](U+26F5_sailboat.svg)](<U+26F5_sailboat.svg> "Sailboat")| &#160; | [![Skier](U+26F7-VS16_skier.svg)](<U+26F7-VS16_skier.svg> "Skier")| [![Ice skate](U+26F8-VS16_ice_skate.svg)](<U+26F8-VS16_ice_skate.svg> "Ice skate")| [![Person with ball](U+26F9-VS16_person_with_ball.svg)](<#u26f9-vs16> "Person with ball")|
 
 
 
@@ -44,3 +44,9 @@
 
 - <a href="U+263A-VS16_white_smiling_face.svg" title="White smiling face"><img src="U+263A-VS16_white_smiling_face.svg" x="0" y="0" width="18" height="18"/></a>
 - <a href="U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg" title="Thumbs up smiley"><img src="U+263A-VS16-ZWJ-U+1F44D_smiling_face_giving_thumbs_up.svg" x="0" y="0" width="18" height="18"/></a>
+
+## U+26F9-VS16
+
+- <a href="U+26F9-VS16_person_with_ball.svg" title="Person with ball"><img src="U+26F9-VS16_person_with_ball.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+26F9-VS16-ZWJ-U+2640-VS16_woman_bouncing_ball.svg" title="Woman bouncing ball"><img src="U+26F9-VS16-ZWJ-U+2640-VS16_woman_bouncing_ball.svg" x="0" y="0" width="18" height="18"/></a>
+- <a href="U+26F9-VS16-ZWJ-U+2642-VS16_man_bouncing_ball.svg" title="Man bouncing ball"><img src="U+26F9-VS16-ZWJ-U+2642-VS16_man_bouncing_ball.svg" x="0" y="0" width="18" height="18"/></a>
