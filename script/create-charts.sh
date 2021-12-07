@@ -275,20 +275,22 @@ E
 E
 	if [ $# -gt 1 ] ; then
 		shift
-		if [ "$(( $POS_ROW + $# ))" -gt "$DIV" ] ; then
-			BLOCK_ROW="$(( $DIV - $# ))"
+		SUB_COLS=$(( ( $# - 1 ) / $NUM_ROWS + 1 ))
+		SUB_ROWS=$(( ( $# - 1 ) / $SUB_COLS + 1 ))
+		if [ "$(( $POS_ROW + $SUB_ROWS ))" -gt "$NUM_ROWS" ] ; then
+			BLOCK_ROW="$(( $NUM_ROWS - $SUB_ROWS ))"
 		else
 			BLOCK_ROW="$POS_ROW"
 		fi
 		cat <<E
-	<g transform="translate(-$TILE_WIDTH $(( $BLOCK_ROW * $TILE_HEIGHT )))" class="sub_items">
-		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="$(( $TILE_WIDTH + 1 ))" height="$(( $# * $TILE_HEIGHT + 1 ))" rx="2.5" ry="2.5"/>
+	<g transform="translate(-$(( $TILE_WIDTH * $SUB_COLS )) $(( $BLOCK_ROW * $TILE_HEIGHT )))" class="sub_items">
+		<rect fill="#fff" stroke="#ccc" stroke-width="1" x="-0.5" y="-0.5" width="$(( $SUB_COLS * $TILE_WIDTH + 1 ))" height="$(( $SUB_ROWS * $TILE_HEIGHT + 1 ))" rx="2.5" ry="2.5"/>
 E
 		REL_COL=0
 		REL_ROW=0
 		for file in "$@" ; do
 			cat <<E
-		<g transform="translate(0 $(( $REL_ROW * $TILE_HEIGHT )))">
+		<g transform="translate($(( $REL_COL * $TILE_WIDTH )) $(( $REL_ROW * $TILE_HEIGHT )))">
 			<a xlink:href="$( attr_data "$file" )" xlink:title="$( title "$file" )">
 				<rect x="0" y="0" width="$TILE_WIDTH" height="$TILE_HEIGHT" rx="2" ry="2" fill="none"/>
 				<image xlink:href="$( attr_data "$file" )" x="0" y="0" width="$TILE_WIDTH" height="$TILE_HEIGHT"/>
@@ -296,6 +298,10 @@ E
 		</g>
 E
 			REL_ROW="$(( $REL_ROW + 1 ))"
+			if [ "$REL_ROW" -ge "$SUB_ROWS" ] ; then
+				REL_COL="$(( $REL_COL + 1 ))"
+				REL_ROW=0
+			fi
 		done
 cat <<E
 	</g>
