@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sv">Ålands flagga</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="sv">Ålands flagga</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M5 26.5q102.5 -27.04 205 0t205 0v275q-102.5 27.04 -205 0t-205 0"/>
+	<path fill="#004c97" d="M15 36.5q60 -16.64 120 -12.8l37.5 53l37.5 -40.2q97.5 27.04 195 0v90.0l-40 37.5l40 37.5v90.0q-97.5 27.04 -195 0l-37.5 -53l-37.5 40.2q-60 -3.84 -120 12.8v-90.0l40 -37.5l-40 -37.5z"/>
+	<g fill="#ffcd00">
+		<path d="M135 23.7q11.25 0.72 22.5 2.16l15 20.12l15 -15q11.25 2.4 22.5 5.52v255.0q-11.25 -3.12 -22.5 -5.52l-15 -20.12l-15 15q-11.25 -1.44 -22.5 -2.16z"/>
+		<path d="M15 126.5q97.5 -27.04 195 0t195 0v22.5l-15 15l15 15v22.5q-97.5 27.04 -195 0t-195 0v-22.5l15 -15l-15 -15z"/>
+	</g>
+	<g fill="#c8102e">
+		<path d="M157.5 25.86q15 1.92 30 5.12v255.00q-15 -3.2 -30 -5.12z"/>
+		<path d="M15 149q97.5 -27.04 195 0t195 0v30q-97.5 27.04 -195 0t-195 0z"/>
+	</g>
+</svg>
