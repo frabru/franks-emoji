@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="gr">σημαία της Κύπρου</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="gr">σημαία της Κύπρου</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#fff" d="M30 44q90 -27 180 0t180 0v240q-90 27 -180 0t-180 0z"/>
+	<g transform="translate(210 164) matrix(1 0.2 0 1 0 0)">
+		<path fill="#d57800" transform="translate(15 -30) scale(0.9)" d="M-104.451 2.165L-105.502 9.308L-101.93 14.101L-103.044 18.593L-100.337 22.755L-101.991 25.116L-99.288 29.906L-95.421 31.577L-93.644 41.627L-83.91 47.244L-66.259 54.172L-50.166 51.762L-45.19 61.464L-45.826 62.97L-37.528 63.385L-35.764 62.512L-38.77 59.608L-37.611 52.953L-25.535 46.466L-14.615 47.368L-13.231 45.111L-9.216 46.12L10.853 34.829L15.743 35.073L15.74 33.192L19.368 30.052L18.855 24.291L20.409 19.281L26.596 16.449L35.046 17.797L38.813 21.036L41.625 20.022L43.315 17.468L49.986 15.987L57.965 19.075L58.719 18.343L58.946 15.917L51.762 6.583L50.949 6.4L43.74 -4.741L42.722 -12.686L49.015 -21.666L52.568 -21.281L57.641 -21.997L58.795 -26.364L65.099 -32.787L78.413 -39.92L88.469 -47.688L89.98 -51.802L93.306 -54.412L102.148 -57.27L104.651 -63.377L100.664 -62.278L82.717 -55.053L82.791 -53.813L73.156 -48.001L67.828 -48.301L63.345 -41.57L58.508 -39.796L38.898 -31.854L28.896 -30.871L22.374 -26.06L5.926 -22.932L-21.087 -25.403L-22.708 -24.286L-28.773 -26.389L-31.066 -24.104L-46.403 -30.384L-44.293 -19.176L-47.856 -5.351L-54.59 -1.113L-69.994 -7.367L-78.755 -4.445L-79.855 -5.233L-85.671 4.659L-91.063 9.309L-97.325 9.148L-104.451 2.165z"/>
+		<g>
+			<path fill="#4e5b31" d="M-9 76q5 -4 12 -6l1 1q-6 3 -10 7"/>
+			<path fill="#4e5b31" transform="translate(4 70) rotate(50)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(13 68) rotate(63)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(5 71) rotate(90)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+
+			<ellipse fill="#4e5b31" transform="translate(18 59) rotate(40)" rx="1.4" ry="2"/>
+			<path fill="#4e5b31" transform="translate(21 60) rotate(45)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(28 60) rotate(60)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(25 65) rotate(80)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<ellipse fill="#4e5b31" transform="translate(24 69) rotate(40)" rx="1.4" ry="2"/>
+
+			<ellipse fill="#4e5b31" transform="translate(35 49) rotate(40)" rx="1.4" ry="2"/>
+			<path fill="#4e5b31" transform="translate(37 51) rotate(40)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(43 52) rotate(55)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(40 57) rotate(75)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<ellipse fill="#4e5b31" transform="translate(41 60) rotate(40)" rx="1.4" ry="2"/>
+
+			<path fill="#4e5b31" transform="translate(52 42) rotate(25)" d="M0 0q-5 -6 0 -9q3 5 0 9z"/>
+			<path fill="#4e5b31" transform="translate(57 42) rotate(36)" d="M0 0q-3 -9 0 -18q7 6 0 18z"/>
+			<path fill="#4e5b31" transform="translate(57 47) rotate(60)" d="M0 0q-5 -6 0 -12q5 3 0 12z"/>
+			<ellipse fill="#4e5b31" transform="translate(55 50) rotate(70)" rx="1.4" ry="2"/>
+		</g>
+		<g transform="scale(-1 1)">
+			<path fill="#4e5b31" d="M-9 76q5 -4 12 -6l1 1q-6 3 -10 7"/>
+			<path fill="#4e5b31" transform="translate(4 70) rotate(50)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(13 68) rotate(63)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(5 71) rotate(90)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+
+			<ellipse fill="#4e5b31" transform="translate(18 59) rotate(40)" rx="1.4" ry="2"/>
+			<path fill="#4e5b31" transform="translate(21 60) rotate(45)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(28 60) rotate(60)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(25 65) rotate(80)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<ellipse fill="#4e5b31" transform="translate(24 69) rotate(40)" rx="1.4" ry="2"/>
+
+			<ellipse fill="#4e5b31" transform="translate(35 49) rotate(40)" rx="1.4" ry="2"/>
+			<path fill="#4e5b31" transform="translate(37 51) rotate(40)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(43 52) rotate(55)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<path fill="#4e5b31" transform="translate(40 57) rotate(75)" d="M0 0q-5 -11 0 -15q5 4 0 15z"/>
+			<ellipse fill="#4e5b31" transform="translate(41 60) rotate(40)" rx="1.4" ry="2"/>
+
+			<path fill="#4e5b31" transform="translate(52 42) rotate(25)" d="M0 0q-5 -6 0 -9q3 5 0 9z"/>
+			<path fill="#4e5b31" transform="translate(57 42) rotate(36)" d="M0 0q-3 -9 0 -18q7 6 0 18z"/>
+			<path fill="#4e5b31" transform="translate(57 47) rotate(60)" d="M0 0q-5 -6 0 -12q5 3 0 12z"/>
+			<ellipse fill="#4e5b31" transform="translate(55 50) rotate(70)" rx="1.4" ry="2"/>
+		</g>
+	</g>
+</svg>
