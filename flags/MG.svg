@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="mg">Sainan'i Madagasikara</title>
+	<title xml:lang="fr">Drapeau de Madagascar</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="mg">Sainan'i Madagasikara</dc:title>
+				<dc:title xml:lang="fr">Drapeau de Madagascar</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#fff" d="M30 44q60 -18 120 -12l60 120l-60 120q-60 -6 -120 12z"/>
+	<path fill="#f9423a" d="M150 32q30 3 60 12q90 27 180 0v120l-60 60h-120l-60 -72z"/>
+	<path fill="#00843d" d="M150 152q30 3 60 12q90 27 180 0v120q-90 27 -180 0q-30 -9 -60 -12z"/>
+</svg>
