@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="ar">علم الجزائر</title>
+	<title xml:lang="bar">Akenyal en Dzayer</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="ar">علم الجزائر</dc:title>
+				<dc:title xml:lang="ber">Akenyal en Dzayer</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#007229" d="M30 44q90 -27 180 0l120 120l-120 120q-90 -27 -180 0z"/>
+	<path fill="#fff" d="M210 44q90 27 180 0v240q-90 27 -180 0z"/>
+	<path fill="#d21034" transform="matrix(1 0.15 0 1 210 164)" d="M51.96152 30a60 60 0 1 1 0 -60a48 48 0 1 0 0 60zM54.27051 0L33.54102 6.73542L33.54102 28.5317L20.72949 10.89814L0 17.63356L12.81153 0L0 -17.63356L20.72949 -10.89814L33.54102 -28.5317L33.54102 -6.73542z"/>
+</svg>
