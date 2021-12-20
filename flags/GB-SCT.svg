@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sco">Banner o Scotland</title>
+	<title xml:lang="gd">Bratach na h-Alba</title>
+	<title xml:lang="en">Flag of Scotland</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="sco">Banner o Scotland</dc:title>
+				<dc:title xml:lang="gd">Bratach na h-Alba</dc:title>
+				<dc:title xml:lang="en">Flag of Scotland</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M12.5 41.5q98.75 -27 197.5 0t197.5 0v245q-98.75 27 -197.5 0t-197.5 0z"/>
+	<path fill="#00247d" d="M66.23214 41.84274q71.88393 -11.04532 143.76786 9.65726t 143.76786 9.65726l43.73214 16.582028v 172.521432l-43.73214 35.89654q-71.88393 11.04532 -143.76786 -9.65726t -143.76786 -9.65726l-43.73214 -16.582028v-172.521432z"/>
+	<path fill="#fff" d="M22.5 51.5q21.86607 -6.29743 43.73214 -9.657256q71.88393 32.08504 143.76786 95.917972q71.88393 -22.42779 143.76786 -76.60346q21.86607 -3.35983 43.73214 -9.657256v26.239284q-71.88393 63.83293 -143.76786 95.917972q71.88393 54.17567 143.76786 76.60346v26.239284q-21.86607 6.29743 -43.73214 9.657256q-71.88393 -32.08504 -143.76786 -95.917972q-71.88393 22.42779 -143.76786 76.60346q-21.86607 3.35983 -43.73214 9.657256v-26.239284q71.88393 -63.83293 143.76786 -95.917972q-71.88393 -54.17567 -143.76786 -76.60346z"/>
+</svg>
