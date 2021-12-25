@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sg">Bendêre tî Bêafrîka</title>
+	<title xml:lang="fr">Drapeau de la République centrafricaine</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="sg">Bendêre tî Bêafrîka</dc:title>
+				<dc:title xml:lang="fr">Drapeau de la République centrafricaine</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#003082" d="M30 44q75 -22.5 150 -7.5l30 45l30 -30q75 15 150 -7.5v60l-90 50h-180l-90 -50z"/>
+	<path fill="#fff" d="M30 104q90 -27 180 0t180 0v60l-90 30h-180l-90 -30z"/>
+	<path fill="#289728" d="M30 164q90 -27 180 0t180 0v60l-90 30h-180l-90 -30z"/>
+	<path fill="#ffce00" d="M30 224q90 -27 180 0t180 0v60q-75 22.5 -150 7.5l-30 -45l-30 30q-75 -15 -150 7.5z"/>
+	<path fill="#d21034" d="M180 36.5q15 3 30 7.5q15 4.5 30 7.5v240.0q-15 -3 -30 -7.5q-15 -4.5 -30 -7.5z"/>
+	<path fill="#ffce00" transform="matrix(1 -0.1 0 1 90 64.57827)" d="M0 -27L6.06188 -8.34346L25.67853 -8.34346L9.80832 3.18692L15.8702 21.84346L0 10.31308L-15.8702 21.84346L-9.80832 3.18692L-25.67853 -8.34346L-6.06188 -8.34346z"/>
+</svg>
