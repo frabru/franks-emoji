@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="af">Vlag van Suid-Afrika</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="af">Vlag van Suid-Afrika</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#e23d28" d="M102.111 31.03336q53.9445 -3.21671 107.889 12.96664q90 27 180 0v80l-40 40h-140l-107.889 -84.89264z"/>
+	<path fill="#0c1c8c" d="M390 284q-90 27 -180 0q-53.9445 -16.18335 -107.889 -12.96664v-48.074l107.889 -58.95936h140l40 40z"/>
+	<path fill="#000" d="M30 92.074l72.111 -12.96664l107.889 84.89264l-107.889 58.95936l-72.111 12.96664z"/>
+	<path fill="#fff" d="M73.2666 34.14002q14.4222 -2.24666 28.8444 -3.10666q53.9445 32.74629 107.889 84.89264q6.0555 5.85365 12.111 11.46284q83.9445 21.79451 167.889 -3.38884v16l-24 24l24 24v16q-83.9445 25.18335 -167.889 3.388839465q-6.0555 2.46481 -12.111 4.685160535q-53.9445 19.77965 -107.889 58.959360535q-14.4222 0.86 -28.8444 3.1066572576v-28.8444l136.7334 -81.2956177926l-136.7334 -101.0155822074z"/>
+	<path fill="#fcb514" d="M30 72.8444l43.2666 -9.85998l136.7334 101.01558l-136.7334 81.29562l-43.2666 9.85998v-19.2296q53.9445 -52.14635 107.889 -84.89264q-53.9445 -39.17971 -107.889 -58.95936z"/>
+	<path fill="#007c59" d="M30 44q21.6333 -6.48999 43.2666 -9.85998q68.3667 34.92777 136.7334 101.01558q3.6333 3.51219 7.2666 6.93637q86.3667 23.81804 172.7334 -2.09197v48q-86.3667 25.91001 -172.7334 2.09197q-3.6333 1.42022 -7.2666 2.75243q-68.3667 25.06779 -136.7334 81.29562q-21.6333 3.36999 -43.2666 9.85998v-28.8444q68.3667 -66.08781 136.7334 -101.01558q-68.3667 -56.22783 -136.7334 -81.29562z"/>
+</svg>
