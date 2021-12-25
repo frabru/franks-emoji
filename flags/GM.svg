@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="en">Flag of the Gambia</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="en">Flag of the Gambia</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#ef3340" d="M30  44q90 -27 180 0t180 0v80l-90 50h-180l-90 -50z"/>
+	<path fill="#ffffff" d="M30 124q90 -27 180 0t180 0v13.33333l-10 10v33.33334l10 10v13.33333l-90 50h-180l-90 -50v-13.33333l10 -10v-33.33332l-10 -10z"/>
+	<path fill="#003da5" d="M30 137.33333q90 -27 180 0t180 0v53.33334q-90 27 -180 0t-180 0z"/>
+	<path fill="#009639" d="M30 204q90 -27 180 0t180 0v80q-90 27 -180 0t-180 0z"/>
+</svg>
