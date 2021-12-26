@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Wavy dash</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="M-16 -3c2 0 3 1.5 4 3s2 3 4 3s3 -1.5 4 -3s2 -3 4 -3s3 1.5 4 3s2 3 4 3s3 -1.5 4 -3s2 -3 4 -3" fill="none" stroke="#eee" stroke-width="6" stroke-linecap="round"/>
+	<path d="M-16 -3c2 0 3 1.5 4 3s2 3 4 3s3 -1.5 4 -3s2 -3 4 -3s3 1.5 4 3s2 3 4 3s3 -1.5 4 -3s2 -3 4 -3" fill="none" stroke="#00c" stroke-width="3" stroke-linecap="round"/>
+</svg>
