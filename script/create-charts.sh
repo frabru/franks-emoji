@@ -186,12 +186,12 @@ chart_item_md() {
 		TABLE_COL=$(( TABLE_COL + 1 ))
 	done
 	if [ $# -gt 1 ] ; then
-		printf %s "| [![$( title "$1" )]($1)](<#$(
+		printf %s "| <a href=\"$( attr_data "#$(
 tr '[:upper:]' '[:lower:]' <<ARG |
 ${1%%[_.]*}
 ARG
 tr -d +
-)> \"$( title "$1" )\")"
+)" )\" title=\"$( title "$1" )\"><img src=\"$( attr_data "$1" )\" x=\"0\" y=\"0\" width=\"$TILE_WIDTH\" height=\"$TILE_HEIGHT\"/></a>"
 		POST_TABLE_CONTENT="$POST_TABLE_CONTENT
 
 ## ${1%%[_.]*}
@@ -201,7 +201,7 @@ tr -d +
 - <a href=\"$( attr_data "$sub_item" )\" title=\"$( title "$sub_item" )\"><img src=\"$( attr_data "$sub_item" )\" x=\"0\" y=\"0\" width=\"$TILE_WIDTH\" height=\"$TILE_HEIGHT\"/></a>"
 		done
 	else
-		printf %s "| [![$( title "$1" )]($1)](<$1> \"$( title "$1" )\")"
+		printf %s "| <a href=\"$( attr_data "$1" )\" title=\"$( title "$1" )\"><img src=\"$( attr_data "$1" )\" x=\"0\" y=\"0\" width=\"$TILE_WIDTH\" height=\"$TILE_HEIGHT\"/></a>"
 	fi
 	TABLE_COL=$(( TABLE_COL + 1 ))
 }

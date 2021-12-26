@@ -5,7 +5,7 @@
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
-| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | [![Double exclamation mark](U+203C-VS16_double_exclamation_mark.svg)](<U+203C-VS16_double_exclamation_mark.svg> "Double exclamation mark")| &#160; | &#160; | &#160; |
-| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | [![Exclamation question mark](U+2049-VS16_exclamation_question_mark.svg)](<U+2049-VS16_exclamation_question_mark.svg> "Exclamation question mark")|
+| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+203C-VS16_double_exclamation_mark.svg" title="Double exclamation mark"><img src="U+203C-VS16_double_exclamation_mark.svg" x="0" y="0" width="18" height="18"/></a>| &#160; | &#160; | &#160; |
+| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+2049-VS16_exclamation_question_mark.svg" title="Exclamation question mark"><img src="U+2049-VS16_exclamation_question_mark.svg" x="0" y="0" width="18" height="18"/></a>|
 
 

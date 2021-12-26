@@ -5,6 +5,6 @@
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
-| &#160; | &#160; | &#160; | &#160; | [![Arrow pointing rightwards then curving upwards](U+2934-VS16_arrow_pointing_rightwards_then_curving_upwards.svg)](<U+2934-VS16_arrow_pointing_rightwards_then_curving_upwards.svg> "Arrow pointing rightwards then curving upwards")| [![Arrow pointing rightwards then curving downwards](U+2935-VS16_arrow_pointing_rightwards_then_curving_downwards.svg)](<U+2935-VS16_arrow_pointing_rightwards_then_curving_downwards.svg> "Arrow pointing rightwards then curving downwards")|
+| &#160; | &#160; | &#160; | &#160; | <a href="U+2934-VS16_arrow_pointing_rightwards_then_curving_upwards.svg" title="Arrow pointing rightwards then curving upwards"><img src="U+2934-VS16_arrow_pointing_rightwards_then_curving_upwards.svg" x="0" y="0" width="18" height="18"/></a>| <a href="U+2935-VS16_arrow_pointing_rightwards_then_curving_downwards.svg" title="Arrow pointing rightwards then curving downwards"><img src="U+2935-VS16_arrow_pointing_rightwards_then_curving_downwards.svg" x="0" y="0" width="18" height="18"/></a>|
 
 

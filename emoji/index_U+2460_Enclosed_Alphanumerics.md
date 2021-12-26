@@ -8,6 +8,6 @@
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
-| &#160; | &#160; | [![Circled latin capital letter M](U+24C2-VS16_circled_latin_capital_letter_m.svg)](<U+24C2-VS16_circled_latin_capital_letter_m.svg> "Circled latin capital letter M")|
+| &#160; | &#160; | <a href="U+24C2-VS16_circled_latin_capital_letter_m.svg" title="Circled latin capital letter M"><img src="U+24C2-VS16_circled_latin_capital_letter_m.svg" x="0" y="0" width="18" height="18"/></a>|
 
 
