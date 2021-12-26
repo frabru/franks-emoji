@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="af">Vlag van Namibië</title>
+	<title xml:lang="en">Flag of Namibia</title>
+	<title xml:lang="de">Flagge Namibias</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="af">Vlag van Namibië</dc:title>
+				<dc:title xml:lang="en">Flag of Namibia</dc:title>
+				<dc:title xml:lang="de">Flagge Namibias</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+
+	<path fill="#002f6c" d="M30 44q90 -27 180 0q53.9445 16.18335 107.889 12.96664v48.074l-215.778 117.91872l-72.111 12.96664z"/>
+	<path fill="#009a44" d="M390 284q-90 27 -180 0q-53.9445 -16.18335 -107.889 -12.96664v-48.074l215.778 -117.91872l72.111 -12.96664z"/>
+	<path fill="#fff" d="M317.889 56.96664q9.013875 -0.53749736625 18.02775 -1.61666l54.08325 24.70552v12.0185q-90 87 -180 120q-53.9445 19.77965 -107.889 58.95936q-9.013875 0.5375 -18.02775 1.61666l-54.08325 -24.70552v-12.0185q90 -87 180 -120q53.9445 -19.77965 107.889 -58.95936z"/>
+	<path fill="#c8102e" d="M335.91675 55.34998q27.041625 -3.2374909490625 54.08325 -11.34998v36.0555q-90 87 -180 120q-62.958375 23.0847375 -125.91675 72.59452q-27.041625 3.2374909490625 -54.08325 11.34998v-36.0555q90 -87 180 -120q62.958375 -23.0847375 125.91675 -72.59452z"/>
+
+	<g transform="matrix(1 -0.06 0 1 102 96.40592)">
+		<path fill="#ffcd00" d="M0 -40L6.21166 -23.18222A24 24 0 0 0 -6.21166 -23.18222zM20 -34.64102L16.97056 -16.97056A24 24 0 0 0 6.21166 -23.18222zM34.64102 -20L23.18222 -6.21166A24 24 0 0 0 16.97056 -16.97056zM40 0L23.18222 6.21166A24 24 0 0 0 23.18222 -6.21166zM34.64102 20L16.97056 16.97056A24 24 0 0 0 23.18222 6.21166zM20 34.64102L6.21166 23.18222A24 24 0 0 0 16.97056 16.97056zM0 40L-6.21166 23.18222A24 24 0 0 0 6.21166 23.18222zM-20 34.64102L-16.97056 16.97056A24 24 0 0 0 -6.21166 23.18222zM-34.64102 20L-23.18222 6.21166A24 24 0 0 0 -16.97056 16.97056zM-40 0L-23.18222 -6.21166A24 24 0 0 0 -23.18222 6.21166zM-34.64102 -20L-16.97056 -16.97056A24 24 0 0 0 -23.18222 -6.21166zM-20 -34.64102L-6.21166 -23.18222A24 24 0 0 0 -16.97056 -16.97056z"/>
+		<circle fill="#ffcd00" r="20"/>
+	</g>
+</svg>
