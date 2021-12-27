@@ -10,6 +10,7 @@
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | <a href="U+1F170-VS16_a_button.svg" title="A button"><img src="U+1F170-VS16_a_button.svg" x="0" y="0" width="18" height="18"/></a>| <a href="U+1F171-VS16_b_button.svg" title="B button"><img src="U+1F171-VS16_b_button.svg" x="0" y="0" width="18" height="18"/></a>| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+1F17E-VS16_o_button.svg" title="O button"><img src="U+1F17E-VS16_o_button.svg" x="0" y="0" width="18" height="18"/></a>| <a href="U+1F17F-VS16_p_button.svg" title="P button"><img src="U+1F17F-VS16_p_button.svg" x="0" y="0" width="18" height="18"/></a>|
-| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+1F18E_ab_button.svg" title="AB button"><img src="U+1F18E_ab_button.svg" x="0" y="0" width="18" height="18"/></a>|
+| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+1F18E_ab_button.svg" title="AB button"><img src="U+1F18E_ab_button.svg" x="0" y="0" width="18" height="18"/></a>| &#160; |
+| &#160; | <a href="U+1F191_squared_cl.svg" title="Squared CL"><img src="U+1F191_squared_cl.svg" x="0" y="0" width="18" height="18"/></a>|
 
 
