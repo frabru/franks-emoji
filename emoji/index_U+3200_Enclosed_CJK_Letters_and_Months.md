@@ -11,6 +11,6 @@
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
 | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; |
-| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+3297-VS16_circled_ideograph_congratulation.svg" title="Circled ideograph congratulation"><img src="U+3297-VS16_circled_ideograph_congratulation.svg" x="0" y="0" width="18" height="18"/></a>|
+| &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | &#160; | <a href="U+3297-VS16_circled_ideograph_congratulation.svg" title="Circled ideograph congratulation"><img src="U+3297-VS16_circled_ideograph_congratulation.svg" x="0" y="0" width="18" height="18"/></a>| &#160; | <a href="U+3299-VS16_circled_ideograph_secret.svg" title="Circled ideograph secret"><img src="U+3299-VS16_circled_ideograph_secret.svg" x="0" y="0" width="18" height="18"/></a>|
 
 
