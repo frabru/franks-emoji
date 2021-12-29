@@ -430,7 +430,7 @@ ARG
 
 cd ./emoji
 write_chart U+0020..U+007F 'Basic Latin'
-# write_chart U+00A0..U+00FF 'Latin-1 Supplement'
+write_chart U+00A0..U+00FF 'Latin-1 Supplement'
 write_chart U+2000..U+206F 'General Punctuation'
 write_chart U+2100..U+214F 'Letterlike Symbols'
 write_chart U+2190..U+21FF 'Arrows'
