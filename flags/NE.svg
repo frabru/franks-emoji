@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="fr">Drapeau du Niger</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="fr">Drapeau du Niger</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M42.5 19q83.75 -27 167.5 0t167.5 0v290q-83.75 27 -167.5 0t-167.5 0z"/>
+	<path fill="#f90" d="M52.5 29q78.75 -27 157.5 0t157.5 0v90l-78.75 50h-157.5l-78.75 -50z"/>
+	<path fill="#ffffff" d="M52.5 119q78.75 -27 157.5 0t157.5 0v90l-78.75 50h-157.5l-78.75 -50z"/>
+	<path fill="#093" d="M52.5 209q78.75 -27 157.5 0t157.5 0v90q-78.75 27 -157.5 0t-157.5 0z"/>
+	<circle fill="#f90" transform="matrix(1 0.34 0 1 210 164)" r="30"/>
+</svg>
