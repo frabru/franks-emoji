@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sw">Bendera ya Tanzania</title>
+	<title xml:lang="en">Flag of Tanzania</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="sw">Bendera ya Tanzania</dc:title>
+				<dc:title xml:lang="en">Flag of Tanzania</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#43b02a" d="M30 44q90 -27 180 0q47.184075 14.15522 94.36815 13.4682v57.0879l-188.7363 98.8878l-85.63185 13.4682z"/>
+	<path fill="#00a3e0" d="M390 284q-90 27 -180 0q-47.184075 -14.15522 -94.36815 -13.4682v-57.0879l188.7363 -98.8878l85.63185 -13.4682z"/>
+	<path fill="#ffcd00" d="M304.36815 57.4682q13.52082 -0.19687 27.04164 -1.61249l58.59021 27.20443v18.02776q-90 87 -180 120q-47.184075 17.30083 -94.36815 49.4439q-13.52082 0.19687 -27.04164 1.61249l-58.59021 -27.20443v-18.02776q90 -87 180 -120q47.184075 -17.30083 94.36815 -49.4439z"/>
+	<path fill="#000" d="M331.40979 55.85571q29.295105 -3.067177 58.59021 -11.85571v39.06014q-90 87 -180 120q-60.704895 22.25846 -121.40979 69.08415q-29.295105 3.067177 -58.59021 11.85571v-39.06014q90 -87 180 -120q60.704895 -22.25846 121.40979 -69.08415z"/>
+</svg>
