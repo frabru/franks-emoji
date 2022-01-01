@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
-	<title>Dizzy face</title>
+	<title>Face with spiral eyes</title>
 	<metadata>
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
 			<cc:Work rdf:about="">
@@ -17,9 +17,9 @@
 		</rdf:RDF>
 	</metadata>
 	<circle cx="0" cy="0" r="19" fill="#efff00" stroke="#000" stroke-width="2"/>
-	<path transform="translate(7 -5)" d="M-4 -4q5 4 8 8M4 -4q-3 4 -8 8" fill="none" stroke="#000" stroke-width="2"/>
-	<path transform="translate(-7 -5)" d="M-4 -4q3 4 8 8M4 -4q-5 4 -8 8" fill="none" stroke="#000" stroke-width="2"/>
+	<path transform="translate(7 -5) scale(0.375) rotate(90)" d="m3 -2c2 0 3 0 3 3s-1 5 -5 5s-7 -2 -7 -7s3 -9 9 -9s11 4 11 11s-5 13 -13 13s-15 -6 -15 -15" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+	<path transform="translate(-7 -5) scale(0.375) rotate(270)" d="m3 -2c2 0 3 0 3 3s-1 5 -5 5s-7 -2 -7 -7s3 -9 9 -9s11 4 11 11s-5 13 -13 13s-15 -6 -15 -15" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
 	<path d="M-5 -14l-6 2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
 	<path d="M5 -14l6 2" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
-	<ellipse cx="0" cy="8" rx="5" ry="4" fill="#812" stroke="#000" stroke-width="2"/>
+	<circle cx="0" cy="8" r="5" fill="#812" stroke="#000" stroke-width="2"/>
 </svg>
