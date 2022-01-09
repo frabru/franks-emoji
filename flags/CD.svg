@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="fr">Drapeau de la république démocratique du Congo</title>
+	<title xml:lang="sw">Bendera ya Jamhuri ya Kidemokrasia ya Kongo</title>
+	<title xml:lang="ln">Bɛndɛ́lɛ ya Kongó-Kinsásá</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="fr">Drapeau de la république démocratique du Congo</dc:title>
+				<dc:title xml:lang="sw">Bendera ya Jamhuri ya Kidemokrasia ya Kongo</dc:title>
+				<dc:title xml:lang="ln">Bɛndɛ́lɛ ya Kongó-Kinsásá</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M30 26.5q90 -27 180 0t180 0v275q-90 27 -180 0t-180 0z"/>
+	<path fill="#007fff" d="M40 36.5q85 -27 170 0q79.02761 25.1028879 158.05522 3.5276291l11.94478 48.2650789v203.207292q-85 27 -170 0q-79.02761 -25.1028879 -158.05522 -3.5276291l-11.94478 -48.2650789z"/>
+	<path fill="#f7d618" d="M40 239.707292q85 -79.6515625 170 -105.303125q79.02761 -23.8491956 158.05522 -94.3765379q5.97239 -1.630517 11.94478 -3.5276291l-10 22.39375l10 22v7.398958q-85 79.6515625 -170 105.303125q-79.02761 23.8491956 -158.05522 94.3765379q-5.97239 1.630517 -11.94478 3.5276291l10 -22.39375l-10 -22v-7.398958z"/>
+	<path fill="#ce102f" d="M40 247.10625q85 -79.6515625 170 -105.303125t170 -105.303125v44.39375q-85 79.6515625 -170 105.303125t-170 105.303125z"/>
+	<path fill="#f7d618" transform="matrix(1 -0.08894 0 1 101.2 89.830516)" d="M0 -48.262116L10.83552 -14.913814L45.9 -14.913814L17.53224 5.69657L28.36776 39.044872L0 18.434488L-28.36776 39.044872L-17.53224 5.69657L-45.9 -14.913814L-10.83552 -14.913814z"/>
+</svg>
