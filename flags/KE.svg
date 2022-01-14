@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="sw">Bendera ya Kenya</title>
+	<title xml:lang="en">Flag of Kenya</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="sw">Bendera ya Kenya</dc:title>
+				<dc:title xml:lang="en">Flag of Kenya</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#000" d="M30  44q90 -27 180 0t180 0v72l-90 50h-180l-90 -50z"/>
+	<path fill="#fff" d="M30 116q90 -27 180 0t180 0v12l-36 36l36 36v12l-90 50h-180l-90 -50v-12l36 -36l-36 -36z"/>
+	<path fill="#a23339" d="M30 128q90 -27 180 0t180 0v72q-90 27 -180 0t-180 0z"/>
+	<path fill="#008c51" d="M30 212q90 -27 180 0t180 0v72q-90 27 -180 0t-180 0z"/>
+	<g transform="matrix(1 0.252 0 1 210 164)">
+		<path fill="#fff" stroke="#000" transform="rotate(-30)" d="M1.5 83.13844h-3v-138.56407q-6.75 -6.75 1.5 -41.56922q8.25 34.81922 1.5 41.56922z"/>
+		<path fill="#fff" stroke="#000" transform="rotate(30)" d="M1.5 83.13844h-3v-138.56407q-6.75 -6.75 1.5 -41.56922q8.25 34.81922 1.5 41.56922z"/>
+		<path fill="#a23339" d="M-28.8 -36a93.6 93.6 0 0 1 24.8548 -34.52055a6 6 0 0 1 7.8904 0a93.6 93.6 0 0 1 24.8548 34.52055v72a93.6 93.6 0 0 1 -24.8548 34.52055a6 6 0 0 1 -7.8904 0a93.6 93.6 0 0 1 -24.8548 -34.52055z"/>
+		<path fill="#000" d="M-28.8 -36a93.6 93.6 0 0 1 0 72a93.6 93.6 0 0 1 0 -72zM28.8 -36a93.6 93.6 0 0 1 0 72a93.6 93.6 0 0 1 0 -72z"/>
+		<path fill="#fff" d="M-1.5 -8.71421a85.93775 85.93775 0 0 1 0 -63.09526zM1.5 -8.71421a85.93775 85.93775 0 0 0 0 -63.09526zM1.5 8.71421a85.93775 85.93775 0 0 1 0 63.09526zM-1.5 8.71421a85.93775 85.93775 0 0 0 0 63.09526"/>
+		<ellipse fill="#fff" cx="0" cy="0" rx="6" ry="9"/>
+	</g>
+</svg>
