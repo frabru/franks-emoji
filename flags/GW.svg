@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="pt">Bandeira da Guiné-Bissau</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="pt">Bandeira da Guiné-Bissau</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M-10 49q110 -27 220 0t220 0v230q-110 27 -220 0t-220 0z"/>
+	<path fill="#c00" d="M0 59q70 -18 140 -12l10 10v190l-10 10q-70 -6 -140 12z"/>
+	<path fill="#ee0" d="M140 47q35 3 70 12q105 27 210 0v105l-20 20h-240l-20 -32z"/>
+	<path fill="#090" d="M140 152q35 3 70 12q105 27 210 0v105q-105 27 -210 0q-35 -9 -70 -12z"/>
+	<path fill="#000" transform="matrix(1 -0.0857 0 1 70 152)" d="M0 -35L7.85799 -10.81559L33.28698 -10.81559L12.71449 4.13119L20.57248 28.31559L0 13.36881L-20.57248 28.31559L-12.71449 4.13119L-33.28698 -10.81559L-7.85799 -10.81559z"/>
+</svg>
