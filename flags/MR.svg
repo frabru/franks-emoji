@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="ar">علم موريتانيا</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="ar">علم موريتانيا</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#00a95c" d="M30  44q90 -27 180 0t180 0v48l-90 40h-180l-90 -40z"/>
+	<path fill="#d01c1f" d="M30  92q90 -27 180 0t180 0v144l-90 40l-270 -40z"/>
+	<path fill="#00a95c" d="M30 236q90 -27 180 0t180 0v48q-90 27 -180 0t-180 0z"/>
+	<path fill="#ffd700" transform="matrix(1 0.15 0 1 210 44)" d="M90 78a90 90 0 1 1 -180 0a94.573187 94.573187 0 0 0 180 0zM0 72l5.68912 17.50932h18.4104l-14.89432 10.82136l5.68912 17.50932l-14.89432 -10.82136l-14.89432 10.82136l5.68912 -17.50932l-14.89432 -10.82136h18.4104z"/>
+</svg>
