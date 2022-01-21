@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="rcf">Lö Mahavéli</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="rcf">Lö Mahavéli</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M20 34q95 -27 190 0t190 0v260q-95 27 -190 0t-190 0z"/>
+	<path fill="#0083c3" d="M45 39.875q78 -19.5 156 1.56l9 15.13l9 -10q78 21.06 156 1.56l15 10.875v96l-9 9l9 9v111h-90l-150 -60l-120 60v-111l9 -9l-9 -9v-96z"/>
+	<path fill="#ed2e38" d="M30 284q90 -87 180 -120q90 87 180 120q-90 27 -180 0q-90 -27 -180 0z"/>
+	<path fill="#ffef00" d="M30 155q90 -22.5 180 9q-90 -22.5 -180 9zM30 44q7.5 -2.25 15 -4.125q82.5 39.375 165 124.125q-90 -79.5 -180 -105zM201 41.435q4.5 1.215 9 2.565q4.5 1.35 9 2.565q-4.5 58.785 -9 117.435q-4.5 -61.35 -9 -122.565zM375 48.125q7.5 -1.875 15 -4.125v15q-90 79.5 -180 105q82.5 -35.25 165 -115.875zM390 173q-90 22.5 -180 -9q90 22.5 180 -9z"/>
+</svg>
