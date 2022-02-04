@@ -98,7 +98,7 @@ start_chart_xhtml() {
 img {
 	vertical-align: middle;
 }
-a:hover img {
+a:hover img, a:focus img {
 	background: #4455ff;
 }
 .sub_items {
@@ -111,7 +111,7 @@ a:hover img {
 .has_sub_items {
 	border-bottom: solid 2px #cccccc;
 }
-.main_item:hover .sub_items {
+.main_item:hover .sub_items, .main_item:focus-within .sub_items {
 	visibility: visible;
 }
 	]]></style>
@@ -130,13 +130,13 @@ start_chart_svg() {
 <svg viewBox="-$TILE_WIDTH 0 $( printf '%d %d' $(( $TILE_WIDTH * ( $NUM_COLS + 1 ) )) $(( $TILE_HEIGHT * $NUM_ROWS )) )" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>$( cdata "$1" )</title>
 <style type="text/css"><![CDATA[
-a:hover rect {
+a:hover rect, a:focus rect {
 	fill: #4455ff;
 }
 .sub_items {
 	visibility: hidden;
 }
-.main_item:hover .sub_items {
+.main_item:hover .sub_items, .main_item:focus-within .sub_items {
 	visibility: visible;
 }
 ]]></style>
