@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Airplane</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#ddd" stroke="#666" stroke-width="2" stroke-linejoin="round" d="M-18 -2c6 -2 9 -2 12 -2h15c2 0 4 0 6 0.75 s4 1.5 4 3.375s-2 1.875 -12 1.875h-2q-1 2 -9 16l-3 1q4 -14 4 -17h-3c-3 0 -6 0 -12 -4z"/>
+	<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M5 -4.5h3a0.25 1.5 0 1 1 0 3h-3z"/>
+	<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M-3 -1q0 -3 -4 -17l3 1q8 14 9 16"/>
+	<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M-16 -1.7q0 -2 -2 -7q2 0 3 1q4 4 4 5.3"/>
+	<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M-16 -2l-3 -6l3 0.5l6 4.5"/>
+	<g>
+		<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M5 7.5q-2 0 -3 -1t-5 -1.5h8"/>
+		<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M5 5h3a0.25 1.5 0 1 1 0 3h-3z"/>
+	</g>
+	<path fill="#ddd" stroke="#666" stroke-width="1" stroke-linejoin="round" d="M-18 -2c6 -2 9 -2 12 -2h15c2 0 4 0 6 0.75 s4 1.5 4 3.375s-2 1.875 -12 1.875h-2q-1 2 -9 16l-3 1q4 -14 4 -17h-3c-3 0 -6 0 -12 -4z"/>
+	<path fill="none" stroke="#bbb" stroke-width="1" stroke-linecap="round" d="M4 1.5q-3 -0.75 -6 0"/>
+	<path fill="#ddd" stroke="#666" stroke-width="1.5" stroke-linejoin="round" d="M-16 -1.7q0 2 -2 7q2 0 3 -1q4 -4 4 -5.3"/>
+	<circle cx="-5" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="-3" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="-1" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="1" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="3" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="5" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="7" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="11" cy="-1" r="0.75" fill="#39c"/>
+	<circle cx="13" cy="-1.1" r="0.75" fill="#39c"/>
+</svg>
