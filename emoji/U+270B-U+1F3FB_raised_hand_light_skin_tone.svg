@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-21 -21 42 42">
+	<title>Raised hand, light skin tone</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="M13 -1.8c-3.2 0 -4.8 3.2 -8 3.2v-14.7a2.5 2.5 0 1 0 -5 0v-3.2a2.5 2.5 0 1 0 -5 0v3.2a2.5 2.5 0 1 0 -5 0v6a2.1 2.1 0 1 0 -4.2 0v13.5c0 9.6 6.4 12.8 11.2 12.8s8 -3.2 9.6 -6.4s4.8 -8.96 7.84 -10.08a2.4 2.4 0 0 0 -1.44 -4.32z" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+	<path d="M13 -1.8c-3.2 0 -4.8 3.2 -8 3.2v-14.7a2.5 2.5 0 1 0 -5 0v10v-10v-3.2a2.5 2.5 0 1 0 -5 0v3.2v10v-10a2.5 2.5 0 1 0 -5 0v6v7v-7a2.1 2.1 0 1 0 -4.2 0v13.5c0 9.6 6.4 12.8 11.2 12.8s8 -3.2 9.6 -6.4s4.8 -8.96 7.84 -10.08a2.4 2.4 0 0 0 -1.44 -4.32z" fill="#f8ece7" stroke="#000" stroke-width="1" stroke-linejoin="round"/>
+	<path d="M-1.4 4.6q-2.4 0.8 -4.8 3.2" fill="none" stroke="#817d73" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
