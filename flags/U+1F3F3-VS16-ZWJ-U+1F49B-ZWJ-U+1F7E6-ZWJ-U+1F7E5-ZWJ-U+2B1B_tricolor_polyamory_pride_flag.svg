@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 440 348">
+	<title xml:lang="en">Tricolor polyamory pride flag</title>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+			<cc:Work rdf:about="">
+				<dc:title xml:lang="en">Tricolor polyamory pride flag</dc:title>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Frank Bruder</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<cc:attributionName>Frank Bruder</cc:attributionName>
+				<cc:attributionURL rdf:resource="http://frabru.de/"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path fill="#c0c0c0" d="M12.5 41.5q98.75 -27 197.5 0t197.5 0v245q-98.75 27 -197.5 0t-197.5 0z"/>
+	<path fill="#009fe3" d="M97.5 38.54q56.25 -3.24 112.5 12.96q93.75 27 187.5 0v75l-93.75 50h-112.5l-93.75 -50z"/>
+	<path fill="#e50051" d="M97.5 113.54q56.25 -3.24 112.5 12.96q93.75 27 187.5 0v75l-93.75 50h-112.5l-93.75 -50z"/>
+	<path fill="#340c46" d="M97.5 188.54q56.25 -3.24 112.5 12.96q93.75 27 187.5 0v75q-93.75 27 -187.5 0t-187.5 0l25 -75z"/>
+	<path fill="#fff" d="M22.5 51.5q37.5 -10.8 75 -12.96q37.5 35.34 75 79.32q-75 62.04 -150 158.64z"/>
+	<path fill="#fcbf00" transform="matrix(1 -0.04442 0 1 101.78932 113.32119) rotate(-45)" d="M23.642355 26.357645q-23.642355 -1.357645 -48.642355 -1.357645a25 25 0 0 1 0 -50a25 25 0 0 1 50 0q0 25 -1.357645 51.357645z"/>
+</svg>
